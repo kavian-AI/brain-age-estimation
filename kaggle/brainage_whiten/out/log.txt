@@ -1,0 +1,103 @@
+device: cuda
+volumes on disk: 9072
+  loaded 500 (20s)
+  loaded 1000 (39s)
+  loaded 1500 (65s)
+  loaded 2000 (89s)
+  loaded 2500 (109s)
+  loaded 3000 (129s)
+
+usable scans 3286, subjects 1132
+DX
+MCI         1331
+CN          1136
+Dementia     747
+NaN           72
+
+=== fold 0: train 2617 scans (888 CN), test 669 ===
+Downloading: "https://download.pytorch.org/models/resnet18-f37072fd.pth" to /root/.cache/torch/hub/checkpoints/resnet18-f37072fd.pth
+  0%|          | 0.00/44.7M [00:00<?, ?B/s] 15%|█▌        | 6.75M/44.7M [00:00<00:00, 70.5MB/s] 52%|█████▏    | 23.1M/44.7M [00:00<00:00, 129MB/s]  88%|████████▊ | 39.4M/44.7M [00:00<00:00, 148MB/s]100%|██████████| 44.7M/44.7M [00:00<00:00, 142MB/s]
+    epoch  0  loss 1.2942
+    epoch  3  loss 1.2301
+    epoch  6  loss 1.1303
+    epoch  9  loss 0.9669
+    epoch 11  loss 0.8953
+  fold done in 279s
+
+=== fold 1: train 2657 scans (922 CN), test 629 ===
+    epoch  0  loss 1.2871
+    epoch  3  loss 1.2283
+    epoch  6  loss 1.1337
+    epoch  9  loss 0.9720
+    epoch 11  loss 0.8968
+  fold done in 277s
+
+=== fold 2: train 2628 scans (901 CN), test 658 ===
+    epoch  0  loss 1.2813
+    epoch  3  loss 1.2419
+    epoch  6  loss 1.1101
+    epoch  9  loss 0.9466
+    epoch 11  loss 0.8812
+  fold done in 274s
+
+=== fold 3: train 2638 scans (938 CN), test 648 ===
+    epoch  0  loss 1.2975
+    epoch  3  loss 1.2492
+    epoch  6  loss 1.1095
+    epoch  9  loss 0.9515
+    epoch 11  loss 0.8808
+  fold done in 276s
+
+=== fold 4: train 2604 scans (895 CN), test 682 ===
+    epoch  0  loss 1.3123
+    epoch  3  loss 1.2545
+    epoch  6  loss 1.1096
+    epoch  9  loss 0.9641
+    epoch 11  loss 0.9045
+  fold done in 274s
+
+==========================================================================
+THE ABLATION LADDER — does the TARGET fix the collapse?
+==========================================================================
+  one row per subject: 1132  (CN 421, MCI 449, AD 190)
+
+  --- head V: raw volumes (the old target) ---
+    agreement with FreeSurfer z: Hippocamp 0.533  Entorhina 0.440  Fusiform 0.515  MidTemp 0.566  Ventricle 0.892  WholeBrai 0.673
+    mean |r| between regions 0.839   first direction 87.7%   EFFECTIVE DIMENSIONS 1.28/6
+    AD vs CN   gap 0.801 | one component 0.823 | six 0.828 | component minus gap +0.023
+    loadings: Hippocamp +0.43  Entorhina +0.42  Fusiform +0.43  MidTemp +0.43  Ventricle -0.29  WholeBrai +0.42
+
+  --- head Z: normative deviations ---
+    agreement with FreeSurfer z: Hippocamp 0.511  Entorhina 0.438  Fusiform 0.484  MidTemp 0.501  Ventricle 0.867  WholeBrai 0.594
+    mean |r| between regions 0.845   first direction 88.4%   EFFECTIVE DIMENSIONS 1.26/6
+    AD vs CN   gap 0.801 | one component 0.821 | six 0.823 | component minus gap +0.021
+    loadings: Hippocamp +0.43  Entorhina +0.43  Fusiform +0.43  MidTemp +0.43  Ventricle -0.26  WholeBrai +0.43
+
+  --- head W: whitened deviations ---
+    agreement with FreeSurfer z: Hippocamp 0.510  Entorhina 0.439  Fusiform 0.483  MidTemp 0.500  Ventricle 0.867  WholeBrai 0.595
+    mean |r| between regions 0.846   first direction 88.5%   EFFECTIVE DIMENSIONS 1.26/6
+    AD vs CN   gap 0.801 | one component 0.821 | six 0.822 | component minus gap +0.020
+    loadings: Hippocamp +0.43  Entorhina +0.43  Fusiform +0.43  MidTemp +0.43  Ventricle -0.26  WholeBrai +0.43
+
+  --- FreeSurfer (the reference) ---
+    agreement with FreeSurfer z: Hippocamp 1.000  Entorhina 1.000  Fusiform 1.000  MidTemp 1.000  Ventricle 1.000  WholeBrai 1.000
+    mean |r| between regions 0.491   first direction 58.4%   EFFECTIVE DIMENSIONS 2.62/6
+    AD vs CN   gap 0.918 | one component 0.945 | six 0.959 | component minus gap +0.026
+    loadings: Hippocamp +0.46  Entorhina +0.32  Fusiform +0.41  MidTemp +0.39  Ventricle -0.28  WholeBrai +0.53
+
+==========================================================================
+SUMMARY
+==========================================================================
+  arm                                       eff dim     gap   1 comp     six  comp-gap
+  head V: raw volumes (the old target)         1.28   0.801    0.823   0.828    +0.023
+  head Z: normative deviations                 1.26   0.801    0.821   0.823    +0.021
+  head W: whitened deviations                  1.26   0.801    0.821   0.822    +0.020
+  FreeSurfer (the reference)                   2.62   0.918    0.945   0.959    +0.026
+
+wrote whiten.npz and deviations.csv
+/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+  cells[i][c] = re.sub('\\\\\|', '|', cell)
+/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+  text = re.sub(r'_', '\_', text) # Escape underscores in display text
+[NbConvertApp] Converting notebook __script__.ipynb to html
+[NbConvertApp] Writing 391513 bytes to __results__.html

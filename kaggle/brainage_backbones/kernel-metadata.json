@@ -1,0 +1,18 @@
+{
+  "id": "kavianasli/brainage-backbones",
+  "title": "brainage-backbones",
+  "code_file": "brainage_backbones.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "fabriziopacheco/adni-mri-tensors",
+    "veeresh04/adnimerge"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

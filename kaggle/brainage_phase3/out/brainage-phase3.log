@@ -1,0 +1,290 @@
+[{"stream_name":"stdout","time":12.924724641,"data":"device: cuda Tesla T4\n"}
+,{"stream_name":"stdout","time":12.924821108,"data":"backbone: resnet18.a1_in1k\n"}
+,{"stream_name":"stdout","time":23.381653114,"data":"volumes on disk: 9072\n"}
+,{"stream_name":"stdout","time":39.490702639,"data":"  loaded 400 (16s)\n"}
+,{"stream_name":"stdout","time":62.675165397,"data":"  loaded 800 (39s)\n"}
+,{"stream_name":"stdout","time":82.814084305,"data":"  loaded 1200 (59s)\n"}
+,{"stream_name":"stdout","time":103.507914902,"data":"  loaded 1600 (80s)\n"}
+,{"stream_name":"stdout","time":121.09049673,"data":"  loaded 2000 (98s)\n"}
+,{"stream_name":"stdout","time":136.888305937,"data":"  loaded 2400 (114s)\n"}
+,{"stream_name":"stdout","time":154.833869477,"data":"  loaded 2800 (131s)\n"}
+,{"stream_name":"stdout","time":171.571640296,"data":"  loaded 3200 (148s)\n"}
+,{"stream_name":"stdout","time":176.100099496,"data":"\n"}
+,{"stream_name":"stdout","time":176.100144611,"data":"scans 3286  subjects 1132  2.31 GB\n"}
+,{"stream_name":"stdout","time":176.106221612,"data":"baselines: {'CN': 441, 'MCI': 439, 'Dementia': 180, nan: 4}\n"}
+,{"stream_name":"stdout","time":176.123269662,"data":"\n"}
+,{"stream_name":"stdout","time":176.123291778,"data":"==================================================================\n"}
+,{"stream_name":"stdout","time":176.123299577,"data":"fold 0: train 2194 scans, test 669\n"}
+,{"stream_name":"stdout","time":176.123305528,"data":"  PATH A  image -\u003e volumes\n"}
+,{"stream_name":"stderr","time":188.39231012,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":191.520114333,"data":"    backbone resnet18.a1_in1k: PRETRAINED loaded, dim 512, first-layer std 0.2352\n"}
+,{"stream_name":"stderr","time":191.538091936,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":191.53812025,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":192.105474381,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":192.105511236,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":193.444911335,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":193.444951435,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":237.436902711,"data":"      ep 0 loss 0.4407\n"}
+,{"stream_name":"stdout","time":374.350083623,"data":"      ep 3 loss 0.3582\n"}
+,{"stream_name":"stdout","time":510.31654383,"data":"      ep 6 loss 0.2916\n"}
+,{"stream_name":"stdout","time":646.95924087,"data":"      ep 9 loss 0.2430\n"}
+,{"stream_name":"stdout","time":782.93642886,"data":"      ep 12 loss 0.2075\n"}
+,{"stream_name":"stdout","time":919.019872224,"data":"      ep 15 loss 0.1748\n"}
+,{"stream_name":"stdout","time":1055.870470134,"data":"      ep 18 loss 0.1474\n"}
+,{"stream_name":"stdout","time":1100.882958322,"data":"      ep 19 loss 0.1464\n"}
+,{"stream_name":"stderr","time":1101.558212958,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":1101.558249519,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":1114.862288865,"data":"  PATH B  image -\u003e age  (CN only, n=744)\n"}
+,{"stream_name":"stderr","time":1115.482842889,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":1115.482875165,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":1115.961518186,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":1115.961588191,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":1116.180138782,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":1116.180179197,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":1131.229840478,"data":"      ep 0 loss 0.4219\n"}
+,{"stream_name":"stdout","time":1178.377616884,"data":"      ep 3 loss 0.4033\n"}
+,{"stream_name":"stdout","time":1225.315899963,"data":"      ep 6 loss 0.3720\n"}
+,{"stream_name":"stdout","time":1272.507302445,"data":"      ep 9 loss 0.3033\n"}
+,{"stream_name":"stdout","time":1319.460763221,"data":"      ep 12 loss 0.2483\n"}
+,{"stream_name":"stdout","time":1366.832443335,"data":"      ep 15 loss 0.1933\n"}
+,{"stream_name":"stdout","time":1414.320654687,"data":"      ep 18 loss 0.1588\n"}
+,{"stream_name":"stdout","time":1430.195878524,"data":"      ep 19 loss 0.1512\n"}
+,{"stream_name":"stderr","time":1430.870112035,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":1430.870150445,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":1437.30748362,"data":"\n"}
+,{"stream_name":"stdout","time":1437.307542676,"data":"==================================================================\n"}
+,{"stream_name":"stdout","time":1437.30755131,"data":"fold 1: train 2233 scans, test 629\n"}
+,{"stream_name":"stdout","time":1437.307578618,"data":"  PATH A  image -\u003e volumes\n"}
+,{"stream_name":"stderr","time":1438.215405813,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":1438.215444809,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":1438.644810818,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":1438.644848753,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":1438.795201288,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":1438.79530739,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":1484.46853572,"data":"      ep 0 loss 0.4520\n"}
+,{"stream_name":"stdout","time":1623.484658123,"data":"      ep 3 loss 0.3579\n"}
+,{"stream_name":"stdout","time":1762.046359005,"data":"      ep 6 loss 0.2847\n"}
+,{"stream_name":"stdout","time":1900.312759492,"data":"      ep 9 loss 0.2457\n"}
+,{"stream_name":"stdout","time":2039.024727018,"data":"      ep 12 loss 0.2036\n"}
+,{"stream_name":"stdout","time":2177.167436255,"data":"      ep 15 loss 0.1691\n"}
+,{"stream_name":"stdout","time":2315.794007799,"data":"      ep 18 loss 0.1473\n"}
+,{"stream_name":"stdout","time":2361.751111658,"data":"      ep 19 loss 0.1459\n"}
+,{"stream_name":"stderr","time":2362.459402711,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":2362.459439316,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":2375.008024018,"data":"  PATH B  image -\u003e age  (CN only, n=771)\n"}
+,{"stream_name":"stderr","time":2375.635172705,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":2375.635233487,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":2376.083907104,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":2376.083942948,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":2376.224516044,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":2376.224559871,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":2392.040743366,"data":"      ep 0 loss 0.4597\n"}
+,{"stream_name":"stdout","time":2441.018858681,"data":"      ep 3 loss 0.4297\n"}
+,{"stream_name":"stdout","time":2489.585218863,"data":"      ep 6 loss 0.3613\n"}
+,{"stream_name":"stdout","time":2538.315935942,"data":"      ep 9 loss 0.3151\n"}
+,{"stream_name":"stdout","time":2586.53645958,"data":"      ep 12 loss 0.2250\n"}
+,{"stream_name":"stdout","time":2634.69432109,"data":"      ep 15 loss 0.1916\n"}
+,{"stream_name":"stdout","time":2682.619862569,"data":"      ep 18 loss 0.1489\n"}
+,{"stream_name":"stdout","time":2698.877551327,"data":"      ep 19 loss 0.1326\n"}
+,{"stream_name":"stderr","time":2699.486552414,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":2699.486593033,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":2705.527311236,"data":"\n"}
+,{"stream_name":"stdout","time":2705.52735275,"data":"==================================================================\n"}
+,{"stream_name":"stdout","time":2705.527373366,"data":"fold 2: train 2204 scans, test 658\n"}
+,{"stream_name":"stdout","time":2705.527418715,"data":"  PATH A  image -\u003e volumes\n"}
+,{"stream_name":"stderr","time":2706.415052096,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":2706.415108394,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":2706.861262179,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":2706.861293655,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":2707.011513231,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":2707.011550898,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":2751.740563033,"data":"      ep 0 loss 0.4526\n"}
+,{"stream_name":"stdout","time":2887.854602559,"data":"      ep 3 loss 0.3704\n"}
+,{"stream_name":"stdout","time":3024.224568462,"data":"      ep 6 loss 0.2915\n"}
+,{"stream_name":"stdout","time":3161.06210739,"data":"      ep 9 loss 0.2502\n"}
+,{"stream_name":"stdout","time":3297.599971363,"data":"      ep 12 loss 0.2151\n"}
+,{"stream_name":"stdout","time":3434.029471896,"data":"      ep 15 loss 0.1774\n"}
+,{"stream_name":"stdout","time":3570.705557935,"data":"      ep 18 loss 0.1562\n"}
+,{"stream_name":"stdout","time":3616.291556489,"data":"      ep 19 loss 0.1533\n"}
+,{"stream_name":"stderr","time":3616.966473681,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":3616.966511201,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":3629.971418719,"data":"  PATH B  image -\u003e age  (CN only, n=753)\n"}
+,{"stream_name":"stderr","time":3630.547296586,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":3630.5473339,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":3631.000457838,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":3631.000526,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":3631.145673214,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":3631.145713955,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":3646.389807917,"data":"      ep 0 loss 0.4422\n"}
+,{"stream_name":"stdout","time":3694.314527268,"data":"      ep 3 loss 0.4068\n"}
+,{"stream_name":"stdout","time":3741.80825387,"data":"      ep 6 loss 0.3312\n"}
+,{"stream_name":"stdout","time":3789.950779226,"data":"      ep 9 loss 0.2788\n"}
+,{"stream_name":"stdout","time":3838.038416805,"data":"      ep 12 loss 0.2410\n"}
+,{"stream_name":"stdout","time":3885.638589878,"data":"      ep 15 loss 0.1697\n"}
+,{"stream_name":"stdout","time":3933.539290022,"data":"      ep 18 loss 0.1335\n"}
+,{"stream_name":"stdout","time":3949.356248983,"data":"      ep 19 loss 0.1411\n"}
+,{"stream_name":"stderr","time":3950.056251125,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":3950.056289868,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":3956.303100933,"data":"\n"}
+,{"stream_name":"stdout","time":3956.303152589,"data":"==================================================================\n"}
+,{"stream_name":"stdout","time":3956.303162189,"data":"fold 3: train 2210 scans, test 648\n"}
+,{"stream_name":"stdout","time":3956.303169996,"data":"  PATH A  image -\u003e volumes\n"}
+,{"stream_name":"stderr","time":3957.178205261,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":3957.178244281,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":3957.602319539,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":3957.602351896,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":3957.751821401,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":3957.751860168,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":4003.191530135,"data":"      ep 0 loss 0.4547\n"}
+,{"stream_name":"stdout","time":4140.19480137,"data":"      ep 3 loss 0.3541\n"}
+,{"stream_name":"stdout","time":4277.544113135,"data":"      ep 6 loss 0.2894\n"}
+,{"stream_name":"stdout","time":4414.812398534,"data":"      ep 9 loss 0.2441\n"}
+,{"stream_name":"stdout","time":4551.553821816,"data":"      ep 12 loss 0.2066\n"}
+,{"stream_name":"stdout","time":4688.574418201,"data":"      ep 15 loss 0.1748\n"}
+,{"stream_name":"stdout","time":4825.840197743,"data":"      ep 18 loss 0.1501\n"}
+,{"stream_name":"stdout","time":4871.621257744,"data":"      ep 19 loss 0.1511\n"}
+,{"stream_name":"stderr","time":4872.214554769,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":4872.214609408,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":4884.975416764,"data":"  PATH B  image -\u003e age  (CN only, n=770)\n"}
+,{"stream_name":"stderr","time":4885.569610058,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":4885.569678633,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":4885.962594003,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":4885.96262179,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":4886.106098206,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":4886.106139444,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":4901.766181875,"data":"      ep 0 loss 0.4554\n"}
+,{"stream_name":"stdout","time":4950.870578792,"data":"      ep 3 loss 0.4707\n"}
+,{"stream_name":"stdout","time":4999.709926014,"data":"      ep 6 loss 0.3966\n"}
+,{"stream_name":"stdout","time":5048.198682305,"data":"      ep 9 loss 0.3157\n"}
+,{"stream_name":"stdout","time":5096.640134569,"data":"      ep 12 loss 0.2745\n"}
+,{"stream_name":"stdout","time":5145.252298882,"data":"      ep 15 loss 0.2258\n"}
+,{"stream_name":"stdout","time":5194.126773331,"data":"      ep 18 loss 0.1792\n"}
+,{"stream_name":"stdout","time":5210.539768009,"data":"      ep 19 loss 0.1731\n"}
+,{"stream_name":"stderr","time":5211.125212062,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":5211.125248763,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":5217.302485708,"data":"\n"}
+,{"stream_name":"stdout","time":5217.302526033,"data":"==================================================================\n"}
+,{"stream_name":"stdout","time":5217.302533724,"data":"fold 4: train 2195 scans, test 682\n"}
+,{"stream_name":"stdout","time":5217.302548779,"data":"  PATH A  image -\u003e volumes\n"}
+,{"stream_name":"stderr","time":5218.181428161,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":5218.181485777,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":5218.64357692,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":5218.643614844,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":5218.793249504,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":5218.79333084,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":5263.514393325,"data":"      ep 0 loss 0.4506\n"}
+,{"stream_name":"stdout","time":5399.639533711,"data":"      ep 3 loss 0.3592\n"}
+,{"stream_name":"stdout","time":5535.425954098,"data":"      ep 6 loss 0.2919\n"}
+,{"stream_name":"stdout","time":5672.061637535,"data":"      ep 9 loss 0.2575\n"}
+,{"stream_name":"stdout","time":5807.966173535,"data":"      ep 12 loss 0.2146\n"}
+,{"stream_name":"stdout","time":5943.95623103,"data":"      ep 15 loss 0.1774\n"}
+,{"stream_name":"stdout","time":6078.774266594,"data":"      ep 18 loss 0.1593\n"}
+,{"stream_name":"stdout","time":6123.624116693,"data":"      ep 19 loss 0.1584\n"}
+,{"stream_name":"stderr","time":6124.276884381,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":6124.276933336,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":6137.571140267,"data":"  PATH B  image -\u003e age  (CN only, n=754)\n"}
+,{"stream_name":"stderr","time":6138.19215698,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":6138.192190111,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":6138.671143312,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":6138.671196785,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":6138.822496014,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":6138.822581935,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":6154.206138346,"data":"      ep 0 loss 0.4416\n"}
+,{"stream_name":"stdout","time":6201.624710382,"data":"      ep 3 loss 0.3909\n"}
+,{"stream_name":"stdout","time":6249.493302475,"data":"      ep 6 loss 0.3473\n"}
+,{"stream_name":"stdout","time":6297.797774365,"data":"      ep 9 loss 0.2888\n"}
+,{"stream_name":"stdout","time":6346.034540053,"data":"      ep 12 loss 0.2394\n"}
+,{"stream_name":"stdout","time":6394.128433019,"data":"      ep 15 loss 0.1901\n"}
+,{"stream_name":"stdout","time":6441.659277826,"data":"      ep 18 loss 0.1629\n"}
+,{"stream_name":"stdout","time":6457.663699419,"data":"      ep 19 loss 0.1573\n"}
+,{"stream_name":"stderr","time":6458.382635144,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":6458.38269906,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":6464.745365797,"data":"\n"}
+,{"stream_name":"stdout","time":6464.745419919,"data":"==========================================================================\n"}
+,{"stream_name":"stdout","time":6464.745439062,"data":"STAGE A  image -\u003e FreeSurfer numbers (out of fold)\n"}
+,{"stream_name":"stdout","time":6464.745456732,"data":"==========================================================================\n"}
+,{"stream_name":"stdout","time":6464.751604214,"data":"  Hippocampus      r = 0.637\n"}
+,{"stream_name":"stdout","time":6464.751898417,"data":"  Entorhinal       r = 0.504\n"}
+,{"stream_name":"stdout","time":6464.752173688,"data":"  Fusiform         r = 0.565\n"}
+,{"stream_name":"stdout","time":6464.752472635,"data":"  MidTemp          r = 0.646\n"}
+,{"stream_name":"stdout","time":6464.752760247,"data":"  Ventricles       r = 0.951\n"}
+,{"stream_name":"stdout","time":6464.753064343,"data":"  WholeBrain       r = 0.726\n"}
+,{"stream_name":"stdout","time":6464.753398723,"data":"  ICV              r = 0.744\n"}
+,{"stream_name":"stdout","time":6464.753804412,"data":"\n"}
+,{"stream_name":"stdout","time":6464.753811556,"data":"PATH B direct age model, CN MAE = 4.43 y  r = 0.507\n"}
+,{"stream_name":"stdout","time":6464.845271898,"data":"\n"}
+,{"stream_name":"stdout","time":6464.845298805,"data":"==========================================================================\n"}
+,{"stream_name":"stdout","time":6464.845316215,"data":"AD vs CN   n=621 (CN 441, Dementia 180)\n"}
+,{"stream_name":"stdout","time":6464.845365505,"data":"==========================================================================\n"}
+,{"stream_name":"stdout","time":6464.915068212,"data":"  A bottleneck gap           AUC = 0.791\n"}
+,{"stream_name":"stdout","time":6464.969439967,"data":"  A bottleneck direct        AUC = 0.836\n"}
+,{"stream_name":"stdout","time":6464.976937698,"data":"  B direct brain-age gap     AUC = 0.703\n"}
+,{"stream_name":"stdout","time":6465.135490911,"data":"  C image features + age     AUC = 0.693\n"}
+,{"stream_name":"stdout","time":6465.164863141,"data":"  CEILING true volumes       AUC = 0.952\n"}
+,{"stream_name":"stderr","time":6465.775365479,"data":"/kaggle/src/script.py:217: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":6465.775422996,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":6466.292172075,"data":"/kaggle/src/script.py:224: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":6466.292206378,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":6466.480627631,"data":"/kaggle/src/script.py:229: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":6466.480724326,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":6476.348638072,"data":"      ep 0 loss 0.6206\n"}
+,{"stream_name":"stdout","time":6508.435873547,"data":"      ep 3 loss 0.6296\n"}
+,{"stream_name":"stdout","time":6540.489313092,"data":"      ep 6 loss 0.5843\n"}
+,{"stream_name":"stdout","time":6572.255616297,"data":"      ep 9 loss 0.5081\n"}
+,{"stream_name":"stdout","time":6604.259097863,"data":"      ep 12 loss 0.4341\n"}
+,{"stream_name":"stdout","time":6635.937019346,"data":"      ep 15 loss 0.2965\n"}
+,{"stream_name":"stdout","time":6667.505878953,"data":"      ep 18 loss 0.2288\n"}
+,{"stream_name":"stdout","time":6678.43122805,"data":"      ep 19 loss 0.1852\n"}
+,{"stream_name":"stderr","time":6679.035013382,"data":"/kaggle/src/script.py:244: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":6679.035049952,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":6691.787427698,"data":"      ep 0 loss 0.6396\n"}
+,{"stream_name":"stdout","time":6724.838904137,"data":"      ep 3 loss 0.5786\n"}
+,{"stream_name":"stdout","time":6757.766517465,"data":"      ep 6 loss 0.5662\n"}
+,{"stream_name":"stdout","time":6790.589628467,"data":"      ep 9 loss 0.5148\n"}
+,{"stream_name":"stdout","time":6823.603310939,"data":"      ep 12 loss 0.4098\n"}
+,{"stream_name":"stdout","time":6856.133052513,"data":"      ep 15 loss 0.2715\n"}
+,{"stream_name":"stdout","time":6888.801685904,"data":"      ep 18 loss 0.1593\n"}
+,{"stream_name":"stdout","time":6899.714204977,"data":"      ep 19 loss 0.1674\n"}
+,{"stream_name":"stdout","time":6913.010799573,"data":"      ep 0 loss 0.6659\n"}
+,{"stream_name":"stdout","time":6946.113877836,"data":"      ep 3 loss 0.6058\n"}
+,{"stream_name":"stdout","time":6978.545995414,"data":"      ep 6 loss 0.5938\n"}
+,{"stream_name":"stdout","time":7011.115814187,"data":"      ep 9 loss 0.5723\n"}
+,{"stream_name":"stdout","time":7043.297666117,"data":"      ep 12 loss 0.4551\n"}
+,{"stream_name":"stdout","time":7075.463376684,"data":"      ep 15 loss 0.3014\n"}
+,{"stream_name":"stdout","time":7108.084117065,"data":"      ep 18 loss 0.2453\n"}
+,{"stream_name":"stdout","time":7118.953835295,"data":"      ep 19 loss 0.2225\n"}
+,{"stream_name":"stdout","time":7132.274307932,"data":"      ep 0 loss 0.6186\n"}
+,{"stream_name":"stdout","time":7165.142640362,"data":"      ep 3 loss 0.6431\n"}
+,{"stream_name":"stdout","time":7197.700533298,"data":"      ep 6 loss 0.6177\n"}
+,{"stream_name":"stdout","time":7230.143691266,"data":"      ep 9 loss 0.5230\n"}
+,{"stream_name":"stdout","time":7262.200528906,"data":"      ep 12 loss 0.3957\n"}
+,{"stream_name":"stdout","time":7294.299050445,"data":"      ep 15 loss 0.2974\n"}
+,{"stream_name":"stdout","time":7326.739129788,"data":"      ep 18 loss 0.2164\n"}
+,{"stream_name":"stdout","time":7337.540463369,"data":"      ep 19 loss 0.1799\n"}
+,{"stream_name":"stdout","time":7350.740131284,"data":"      ep 0 loss 0.6036\n"}
+,{"stream_name":"stdout","time":7382.934836535,"data":"      ep 3 loss 0.5968\n"}
+,{"stream_name":"stdout","time":7414.790702259,"data":"      ep 6 loss 0.5769\n"}
+,{"stream_name":"stdout","time":7446.724228553,"data":"      ep 9 loss 0.5108\n"}
+,{"stream_name":"stdout","time":7478.448095604,"data":"      ep 12 loss 0.4414\n"}
+,{"stream_name":"stdout","time":7510.179456091,"data":"      ep 15 loss 0.3382\n"}
+,{"stream_name":"stdout","time":7542.054262646,"data":"      ep 18 loss 0.2513\n"}
+,{"stream_name":"stdout","time":7552.581881354,"data":"      ep 19 loss 0.2467\n"}
+,{"stream_name":"stdout","time":7554.5780201,"data":"  D end-to-end image-\u003edx     AUC = 0.724\n"}
+,{"stream_name":"stdout","time":7554.580494455,"data":"\n"}
+,{"stream_name":"stdout","time":7554.580519324,"data":"==========================================================================\n"}
+,{"stream_name":"stdout","time":7554.580673808,"data":"MCI vs CN   n=880 (CN 441, MCI 439)\n"}
+,{"stream_name":"stdout","time":7554.580776413,"data":"==========================================================================\n"}
+,{"stream_name":"stdout","time":7554.611471085,"data":"  A bottleneck gap           AUC = 0.686\n"}
+,{"stream_name":"stdout","time":7554.648246404,"data":"  A bottleneck direct        AUC = 0.700\n"}
+,{"stream_name":"stdout","time":7554.65648309,"data":"  B direct brain-age gap     AUC = 0.613\n"}
+,{"stream_name":"stdout","time":7554.899144132,"data":"  C image features + age     AUC = 0.541\n"}
+,{"stream_name":"stdout","time":7554.928009913,"data":"  CEILING true volumes       AUC = 0.791\n"}
+,{"stream_name":"stdout","time":7554.928079644,"data":"\n"}
+,{"stream_name":"stdout","time":7554.928134305,"data":"saved pixels.npz + pixels_predictions.csv (all visits -\u003e enables the RATE arm locally)\n"}
+,{"stream_name":"stderr","time":7561.122859614,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":7561.122895723,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":7561.428450889,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":7561.428479475,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":7562.122343256,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":7563.528714422,"data":"[NbConvertApp] Writing 369656 bytes to __results__.html\n"}
+]

@@ -1,0 +1,15 @@
+[{"stream_name":"stdout","time":3.068930613,"data":"clone 0\n"}
+,{"stream_name":"stdout","time":69.028356601,"data":"pip 0\n"}
+,{"stream_name":"stdout","time":920.192903411,"data":"ok 0 cut-off: worst (cerebellum 32 cm3, brainstem 3)\n"}
+,{"stream_name":"stdout","time":1750.252655308,"data":"ok 1 cut-off: brainstem 0.9 cm3\n"}
+,{"stream_name":"stdout","time":2583.049640803,"data":"ok 2 cut-off: borderline (cb 99 cm3, labels missing)\n"}
+,{"stream_name":"stdout","time":3404.879981831,"data":"ok 3 child 11y: brain/ICV z -7.9\n"}
+,{"stream_name":"stdout","time":4212.082792505,"data":"ok 4 child 12y: frontal z -5.6, brain/ICV -6.4\n"}
+,{"stream_name":"stdout","time":4212.082848818,"data":"plots: 5 of 10\n"}
+,{"stream_name":"stderr","time":4214.792733571,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":4214.792771357,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":4215.155696605,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":4215.155722749,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":4216.06686638,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":4217.352888005,"data":"[NbConvertApp] Writing 320824 bytes to __results__.html\n"}
+]

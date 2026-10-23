@@ -1,0 +1,16 @@
+{
+  "id": "mohammadparsakavian/icv-synthstrip-oasis",
+  "title": "icv-synthstrip-oasis",
+  "code_file": "icv_run.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "javidtheimmortal/oasis-2"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

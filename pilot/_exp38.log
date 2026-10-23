@@ -1,0 +1,39 @@
+converters 379, stable MCI 650, CN 910
+
+==============================================================================
+PER-REGION MEASUREMENT NOISE (within-subject, non-progressing people)
+==============================================================================
+  region            noise (y)  dev at conv  SNR at conv
+  هیپوکامپ               0.42         4.45         10.5
+  آنتورینال              0.40         1.68          4.2
+  دوکی                   0.42         2.55          6.1
+  گیجگاهی میانی          0.39         3.16          8.1
+  بطن‌ها                 0.10         1.23         11.9
+  کل مغز                 0.36         3.21          8.9
+
+==============================================================================
+ONSET with a COMMON criterion: deviation >= 2.0 x its own noise
+==============================================================================
+  هیپوکامپ           6.00 y before conversion
+  آنتورینال          6.00 y before conversion
+  دوکی               6.00 y before conversion
+  گیجگاهی میانی      6.00 y before conversion
+  بطن‌ها             6.00 y before conversion
+  کل مغز             6.00 y before conversion
+
+  observed spread of onsets: 0.00 y
+  ordering: هیپوکامپ  >  آنتورینال  >  دوکی  >  گیجگاهی میانی  >  بطن‌ها  >  کل مغز
+
+==============================================================================
+NULL: every region given the SAME true onset, differing only in noise
+==============================================================================
+  spread produced by noise alone: 0.00 y [0.00, 0.00]
+  observed spread 0.00 y   p = 1.000
+
+  -> THE CASCADE DOES NOT SURVIVE. An ordering this wide arises from
+     unequal measurement precision alone, with no difference in
+     true onset. The published orderings may be reading precision.
+
+  noise alone puts هیپوکامپ first AND کل مغز last in 100% of simulations
+
+saved -> C:\Users\Sibetalaee\Desktop\PhD\Brain Age Estimation\pilot\exp38_*.csv

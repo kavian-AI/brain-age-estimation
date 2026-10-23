@@ -1,0 +1,26 @@
+[{"stream_name":"stdout","time":1.142260103,"data":"PART 82 scans 40\n"}
+,{"stream_name":"stdout","time":3.693635583,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":56.259603935,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":68.334998369,"data":"GPUs used: 1\n"}
+,{"stream_name":"stdout","time":3069.749981866,"data":"chunk 1/14: 3/3 ok, 2912s (970.5s/scan), total 3/40, elapsed 0.85 h\n"}
+,{"stream_name":"stdout","time":5637.23068801,"data":"chunk 2/14: 3/3 ok, 2567s (855.8s/scan), total 6/40, elapsed 1.57 h\n"}
+,{"stream_name":"stdout","time":8197.413811477,"data":"chunk 3/14: 3/3 ok, 2560s (853.4s/scan), total 9/40, elapsed 2.28 h\n"}
+,{"stream_name":"stdout","time":10662.741729847,"data":"chunk 4/14: 3/3 ok, 2465s (821.8s/scan), total 12/40, elapsed 2.96 h\n"}
+,{"stream_name":"stdout","time":13072.301480144,"data":"chunk 5/14: 3/3 ok, 2410s (803.2s/scan), total 15/40, elapsed 3.63 h\n"}
+,{"stream_name":"stdout","time":15464.055793913,"data":"chunk 6/14: 3/3 ok, 2392s (797.3s/scan), total 18/40, elapsed 4.30 h\n"}
+,{"stream_name":"stdout","time":17844.211414465,"data":"chunk 7/14: 3/3 ok, 2380s (793.4s/scan), total 21/40, elapsed 4.96 h\n"}
+,{"stream_name":"stdout","time":20241.079370506,"data":"chunk 8/14: 3/3 ok, 2397s (799.0s/scan), total 24/40, elapsed 5.62 h\n"}
+,{"stream_name":"stdout","time":22621.129627667,"data":"chunk 9/14: 3/3 ok, 2380s (793.3s/scan), total 27/40, elapsed 6.28 h\n"}
+,{"stream_name":"stdout","time":25006.761791427,"data":"chunk 10/14: 3/3 ok, 2386s (795.2s/scan), total 30/40, elapsed 6.95 h\n"}
+,{"stream_name":"stdout","time":27409.985921409,"data":"chunk 11/14: 3/3 ok, 2403s (801.1s/scan), total 33/40, elapsed 7.61 h\n"}
+,{"stream_name":"stdout","time":29775.20150475,"data":"chunk 12/14: 3/3 ok, 2365s (788.4s/scan), total 36/40, elapsed 8.27 h\n"}
+,{"stream_name":"stdout","time":32141.315968753,"data":"chunk 13/14: 3/3 ok, 2366s (788.7s/scan), total 39/40, elapsed 8.93 h\n"}
+,{"stream_name":"stdout","time":32930.370039522,"data":"chunk 14/14: 1/1 ok, 789s (789.1s/scan), total 40/40, elapsed 9.15 h\n"}
+,{"stream_name":"stdout","time":32930.370079812,"data":"finished: 40 rows, 9.15 h\n"}
+,{"stream_name":"stderr","time":32932.699627069,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":32932.699663248,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":32933.002252824,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":32933.002288825,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":32933.754159964,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":32934.791214739,"data":"[NbConvertApp] Writing 345779 bytes to __results__.html\n"}
+]

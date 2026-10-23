@@ -1,0 +1,86 @@
+people scored: {'OASIS-1 CDR 0.5': 68, 'OASIS-1 CDR>=1': 25, 'OASIS-1 controls': 114, 'OASIS-2 converted': 14, 'OASIS-2 demented': 64, 'OASIS-2 nondemented': 72}
+fold 0: 72 people scored (132s)
+fold 1: 72 people scored (265s)
+fold 2: 71 people scored (393s)
+fold 3: 71 people scored (515s)
+fold 4: 71 people scored (639s)
+healthy SD of the ridge brain-age gap (training, bias-corrected): 8.6 y
+                                            comparison                  score  patients_median  controls_median  controls_sd  AUC  AUC_lo  AUC_hi  sens_at_95spec  share_beyond_1.96
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)              bag_ridge             4.54            -0.37         9.00 0.58    0.50    0.67            0.09                NaN
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)              bag_atlas             7.43            -1.43         8.00 0.79    0.72    0.86            0.25                NaN
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)          z_hippocampus             1.22            -0.11         0.98 0.76    0.69    0.84            0.44               0.31
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)           z_entorhinal             0.87            -0.16         1.09 0.72    0.64    0.80            0.18               0.16
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)             z_amygdala             0.93            -0.08         1.12 0.75    0.67    0.83            0.26               0.26
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114) z_inf. lat. ventricles             1.08            -0.25         1.12 0.78    0.71    0.84            0.31               0.22
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)   z_lateral ventricles             0.38             0.03         0.97 0.62    0.54    0.70            0.16               0.10
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)          z_total brain             0.77             0.01         1.05 0.69    0.61    0.78            0.24               0.13
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)               z_cortex             0.70            -0.12         1.07 0.70    0.62    0.78            0.18               0.12
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)                ad_mean             1.05            -0.17         0.74 0.81    0.75    0.88            0.50               0.21
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)                learned             1.07            -1.31         1.47 0.84    0.78    0.90            0.28                NaN
+    OASIS-1 CDR 0.5 (n=68) vs OASIS-1 controls (n=114)             n_outliers             1.00             0.00         1.21 0.70    0.62    0.77            0.18                NaN
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)              bag_ridge             8.58            -0.37         9.00 0.72    0.60    0.82            0.24                NaN
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)              bag_atlas            15.04            -1.43         8.00 0.91    0.83    0.96            0.60                NaN
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)          z_hippocampus             1.54            -0.11         0.98 0.83    0.74    0.92            0.52               0.40
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)           z_entorhinal             1.47            -0.16         1.09 0.83    0.70    0.91            0.32               0.28
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)             z_amygdala             1.62            -0.08         1.12 0.82    0.71    0.91            0.48               0.48
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114) z_inf. lat. ventricles             1.78            -0.25         1.12 0.86    0.78    0.93            0.56               0.44
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)   z_lateral ventricles             0.78             0.03         0.97 0.77    0.67    0.85            0.20               0.12
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)          z_total brain             1.91             0.01         1.05 0.89    0.82    0.96            0.60               0.44
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)               z_cortex             1.47            -0.12         1.07 0.82    0.70    0.92            0.44               0.28
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)                ad_mean             1.51            -0.17         0.74 0.91    0.84    0.96            0.60               0.36
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)                learned             1.39            -1.31         1.47 0.90    0.83    0.95            0.44                NaN
+     OASIS-1 CDR>=1 (n=25) vs OASIS-1 controls (n=114)             n_outliers             4.00             0.00         1.21 0.85    0.74    0.93            0.52                NaN
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)              bag_ridge             4.37            -0.78         8.88 0.57    0.39    0.75            0.07                NaN
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)              bag_atlas             1.67             0.02         6.98 0.52    0.37    0.66            0.00                NaN
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)          z_hippocampus            -0.02            -0.00         1.09 0.51    0.35    0.67            0.07               0.00
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)           z_entorhinal            -0.57            -0.07         1.07 0.44    0.27    0.60            0.14               0.07
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)             z_amygdala             0.26            -0.00         1.04 0.58    0.40    0.73            0.14               0.07
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72) z_inf. lat. ventricles             0.03            -0.02         1.06 0.55    0.42    0.69            0.00               0.00
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)   z_lateral ventricles             0.27             0.01         1.02 0.50    0.35    0.64            0.00               0.00
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)          z_total brain             0.36             0.11         1.01 0.53    0.37    0.68            0.07               0.00
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)               z_cortex            -0.37            -0.03         1.03 0.42    0.27    0.59            0.00               0.00
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)                ad_mean            -0.04            -0.04         0.70 0.51    0.35    0.66            0.07               0.00
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)                learned            -1.08            -1.20         1.33 0.53    0.39    0.65            0.00                NaN
+OASIS-2 converted (n=14) vs OASIS-2 nondemented (n=72)             n_outliers             0.00             0.00         1.27 0.39    0.31    0.48            0.00                NaN
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)              bag_ridge             4.24            -0.78         8.88 0.64    0.55    0.72            0.12                NaN
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)              bag_atlas             8.11             0.02         6.98 0.83    0.74    0.89            0.44                NaN
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)          z_hippocampus             1.33            -0.00         1.09 0.76    0.67    0.84            0.44               0.38
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)           z_entorhinal             1.07            -0.07         1.07 0.76    0.68    0.84            0.44               0.31
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)             z_amygdala             1.35            -0.00         1.04 0.78    0.69    0.85            0.47               0.39
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72) z_inf. lat. ventricles             1.35            -0.02         1.06 0.79    0.72    0.86            0.39               0.31
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)   z_lateral ventricles             0.42             0.01         1.02 0.63    0.54    0.72            0.14               0.08
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)          z_total brain             0.82             0.11         1.01 0.73    0.65    0.81            0.34               0.11
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)               z_cortex             0.85            -0.03         1.03 0.71    0.62    0.79            0.30               0.14
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)                ad_mean             1.22            -0.04         0.70 0.83    0.76    0.90            0.55               0.36
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)                learned             1.35            -1.20         1.33 0.87    0.81    0.93            0.48                NaN
+ OASIS-2 demented (n=64) vs OASIS-2 nondemented (n=72)             n_outliers             2.00             0.00         1.27 0.75    0.67    0.83            0.42                NaN
+              region     group followup  n_pat  n_ctl  pat_median_rate  ctl_median_rate  AUC  sens_at_95spec
+            amygdala Converted      all     14     72            -2.56            -1.12 0.67            0.14
+            amygdala Converted     >=2y     13     66            -2.37            -1.23 0.64            0.08
+            amygdala  Demented      all     64     72            -3.85            -1.12 0.75            0.42
+            amygdala  Demented     >=2y     49     66            -3.53            -1.23 0.76            0.41
+              cortex Converted      all     14     72            -1.01            -0.53 0.68            0.14
+              cortex Converted     >=2y     13     66            -0.88            -0.51 0.67            0.08
+              cortex  Demented      all     64     72            -1.05            -0.53 0.64            0.16
+              cortex  Demented     >=2y     49     66            -0.87            -0.51 0.63            0.14
+          entorhinal Converted      all     14     72            -2.30            -1.83 0.57            0.14
+          entorhinal Converted     >=2y     13     66            -1.97            -1.66 0.56            0.15
+          entorhinal  Demented      all     64     72            -5.87            -1.83 0.70            0.47
+          entorhinal  Demented     >=2y     49     66            -4.78            -1.66 0.71            0.45
+         hippocampus Converted      all     14     72            -1.78            -0.98 0.69            0.21
+         hippocampus Converted     >=2y     13     66            -1.60            -0.95 0.67            0.15
+         hippocampus  Demented      all     64     72            -2.37            -0.98 0.75            0.39
+         hippocampus  Demented     >=2y     49     66            -2.30            -0.95 0.76            0.39
+inf. lat. ventricles Converted      all     14     72             6.51             4.19 0.62            0.14
+inf. lat. ventricles Converted     >=2y     13     66             7.29             4.36 0.66            0.15
+inf. lat. ventricles  Demented      all     64     72             8.21             4.19 0.70            0.30
+inf. lat. ventricles  Demented     >=2y     49     66             6.93             4.36 0.69            0.18
+  lateral ventricles Converted      all     14     72             4.93             3.17 0.66            0.07
+  lateral ventricles Converted     >=2y     13     66             4.80             3.11 0.64            0.08
+  lateral ventricles  Demented      all     64     72             5.32             3.17 0.71            0.36
+  lateral ventricles  Demented     >=2y     49     66             4.72             3.11 0.67            0.22
+         total brain Converted      all     14     72            -0.89            -0.58 0.63            0.14
+         total brain Converted     >=2y     13     66            -0.86            -0.58 0.60            0.08
+         total brain  Demented      all     64     72            -1.28            -0.58 0.67            0.30
+         total brain  Demented     >=2y     49     66            -1.00            -0.58 0.64            0.24
+done in 11.1 min

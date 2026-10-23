@@ -1,0 +1,9 @@
+data/Projects/ADHD200/RawDataBIDS/Brown_TestRelease_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/KKI_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/NYU_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/NeuroIMAGE_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/OHSU_TestRelease_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/OHSU_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/Peking_1_TestRelease_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/Peking_1_phenotypic.csv
+data/Projects/ADHD200/RawDataBIDS/Pittsburgh_phenotypic.csv

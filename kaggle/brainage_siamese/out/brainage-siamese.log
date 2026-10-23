@@ -1,0 +1,80 @@
+[{"stream_name":"stdout","time":9.328503493,"data":"device: cuda Tesla T4\n"}
+,{"stream_name":"stdout","time":19.712403667,"data":"volumes on disk: 9072\n"}
+,{"stream_name":"stdout","time":37.953094298,"data":"  loaded 500 (18s)\n"}
+,{"stream_name":"stdout","time":55.584365115,"data":"  loaded 1000 (36s)\n"}
+,{"stream_name":"stdout","time":74.344379409,"data":"  loaded 1500 (55s)\n"}
+,{"stream_name":"stdout","time":91.96578467,"data":"  loaded 2000 (72s)\n"}
+,{"stream_name":"stdout","time":109.82862965,"data":"  loaded 2500 (90s)\n"}
+,{"stream_name":"stdout","time":127.245169113,"data":"  loaded 3000 (108s)\n"}
+,{"stream_name":"stdout","time":139.113661288,"data":"scans 3286  subjects 1132\n"}
+,{"stream_name":"stdout","time":139.398334684,"data":"visit pairs: 3937 from 551 subjects (median interval 1.6 y)\n"}
+,{"stream_name":"stdout","time":139.406261493,"data":"\n"}
+,{"stream_name":"stdout","time":139.406285243,"data":"fold 0: train pairs 3175, test 762\n"}
+,{"stream_name":"stderr","time":149.162636168,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":152.054751236,"data":"    resnet18.a1_in1k: PRETRAINED loaded, dim 512, first-layer std 0.2352\n"}
+,{"stream_name":"stderr","time":152.070903209,"data":"/kaggle/src/script.py:199: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":152.070928554,"data":"  scaler = torch.cuda.amp.GradScaler(enabled=dev == \"cuda\")\n"}
+,{"stream_name":"stderr","time":152.540731044,"data":"/kaggle/src/script.py:206: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":152.540770017,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stderr","time":153.631889871,"data":"/kaggle/src/script.py:211: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate\n"}
+,{"stream_name":"stderr","time":153.631926529,"data":"  sch.step()\n"}
+,{"stream_name":"stdout","time":279.842394916,"data":"      ep  0 loss 0.4159\n"}
+,{"stream_name":"stdout","time":791.059470648,"data":"      ep  4 loss 0.3396\n"}
+,{"stream_name":"stdout","time":1303.521718148,"data":"      ep  8 loss 0.2907\n"}
+,{"stream_name":"stdout","time":1816.800251563,"data":"      ep 12 loss 0.2225\n"}
+,{"stream_name":"stdout","time":2073.730292509,"data":"      ep 14 loss 0.2039\n"}
+,{"stream_name":"stderr","time":2074.217391047,"data":"/kaggle/src/script.py:226: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.\n"}
+,{"stream_name":"stderr","time":2074.217437524,"data":"  with torch.cuda.amp.autocast(enabled=dev == \"cuda\"):\n"}
+,{"stream_name":"stdout","time":2087.487079538,"data":"\n"}
+,{"stream_name":"stdout","time":2087.487119965,"data":"fold 1: train pairs 3118, test 819\n"}
+,{"stream_name":"stdout","time":2214.234049861,"data":"      ep  0 loss 0.4295\n"}
+,{"stream_name":"stdout","time":2717.168897867,"data":"      ep  4 loss 0.3461\n"}
+,{"stream_name":"stdout","time":3222.09952198,"data":"      ep  8 loss 0.2970\n"}
+,{"stream_name":"stdout","time":3726.064981738,"data":"      ep 12 loss 0.2206\n"}
+,{"stream_name":"stdout","time":3978.258035384,"data":"      ep 14 loss 0.2032\n"}
+,{"stream_name":"stdout","time":3993.04547126,"data":"\n"}
+,{"stream_name":"stdout","time":3993.045591353,"data":"fold 2: train pairs 3193, test 744\n"}
+,{"stream_name":"stdout","time":4122.741430023,"data":"      ep  0 loss 0.4250\n"}
+,{"stream_name":"stdout","time":4639.812813175,"data":"      ep  4 loss 0.3485\n"}
+,{"stream_name":"stdout","time":5156.142002499,"data":"      ep  8 loss 0.3032\n"}
+,{"stream_name":"stdout","time":5672.886005209,"data":"      ep 12 loss 0.2300\n"}
+,{"stream_name":"stdout","time":5931.016517558,"data":"      ep 14 loss 0.2108\n"}
+,{"stream_name":"stdout","time":5944.248240572,"data":"\n"}
+,{"stream_name":"stdout","time":5944.248341002,"data":"fold 3: train pairs 3176, test 761\n"}
+,{"stream_name":"stdout","time":6072.997878691,"data":"      ep  0 loss 0.4176\n"}
+,{"stream_name":"stdout","time":6585.685578384,"data":"      ep  4 loss 0.3390\n"}
+,{"stream_name":"stdout","time":7099.838923518,"data":"      ep  8 loss 0.2987\n"}
+,{"stream_name":"stdout","time":7613.249940388,"data":"      ep 12 loss 0.2198\n"}
+,{"stream_name":"stdout","time":7870.572352684,"data":"      ep 14 loss 0.2045\n"}
+,{"stream_name":"stdout","time":7884.29971977,"data":"\n"}
+,{"stream_name":"stdout","time":7884.299871328,"data":"fold 4: train pairs 3086, test 851\n"}
+,{"stream_name":"stdout","time":8009.832663434,"data":"      ep  0 loss 0.4307\n"}
+,{"stream_name":"stdout","time":8508.926472641,"data":"      ep  4 loss 0.3434\n"}
+,{"stream_name":"stdout","time":9007.194037234,"data":"      ep  8 loss 0.2962\n"}
+,{"stream_name":"stdout","time":9505.511390023,"data":"      ep 12 loss 0.2187\n"}
+,{"stream_name":"stdout","time":9755.163742293,"data":"      ep 14 loss 0.2010\n"}
+,{"stream_name":"stdout","time":9770.541843257,"data":"\n"}
+,{"stream_name":"stdout","time":9770.541946894,"data":"============================================================================\n"}
+,{"stream_name":"stdout","time":9770.54195684,"data":"SIAMESE DELTA MODEL - how much of the real change is reported?\n"}
+,{"stream_name":"stdout","time":9770.542072202,"data":"============================================================================\n"}
+,{"stream_name":"stdout","time":9770.542114657,"data":"  target            sensitivity  attenuation   E31 absolute\n"}
+,{"stream_name":"stdout","time":9770.555898364,"data":"  Hippocampus             0.313        0.185          0.529\n"}
+,{"stream_name":"stdout","time":9770.556669797,"data":"  Entorhinal              0.100        0.043          0.128\n"}
+,{"stream_name":"stdout","time":9770.55738321,"data":"  Fusiform                0.276        0.142          0.260\n"}
+,{"stream_name":"stdout","time":9770.55812165,"data":"  MidTemp                 0.309        0.171          0.292\n"}
+,{"stream_name":"stdout","time":9770.558822649,"data":"  Ventricles              0.718        0.570          0.940\n"}
+,{"stream_name":"stdout","time":9770.559477778,"data":"  WholeBrain              0.323        0.189          0.425\n"}
+,{"stream_name":"stdout","time":9770.560163091,"data":"  ICV                     0.068        0.024          0.393\n"}
+,{"stream_name":"stdout","time":9770.560384966,"data":"  MEAN                    0.301        0.189          0.424\n"}
+,{"stream_name":"stdout","time":9770.560767879,"data":"\n"}
+,{"stream_name":"stdout","time":9770.560785393,"data":"  change in attenuation vs E31 absolute: -0.235\n"}
+,{"stream_name":"stdout","time":9770.560790871,"data":"  -\u003e WORSE than differencing an absolute model.\n"}
+,{"stream_name":"stdout","time":9770.597542562,"data":"\n"}
+,{"stream_name":"stdout","time":9770.597566392,"data":"saved -\u003e /kaggle/working/siamese.npz\n"}
+,{"stream_name":"stderr","time":9775.574819271,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":9775.574846647,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":9775.854266483,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":9775.85429846,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":9776.455995745,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":9777.643495689,"data":"[NbConvertApp] Writing 348089 bytes to __results__.html\n"}
+]

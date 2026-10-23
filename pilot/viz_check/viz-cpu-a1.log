@@ -1,0 +1,18 @@
+[{"stream_name":"stdout","time":4.129628329,"data":"clone 0\n"}
+,{"stream_name":"stdout","time":12.544461493,"data":"pip 0\n"}
+,{"stream_name":"stdout","time":1090.357663223,"data":"ok 8 ds006395 typical (age 37)\n"}
+,{"stream_name":"stdout","time":2049.22521491,"data":"ok 9 ds007522 typical (age 64)\n"}
+,{"stream_name":"stdout","time":3025.498307555,"data":"ok 10 ds007831 typical (age 62)\n"}
+,{"stream_name":"stdout","time":3986.512862991,"data":"ok 11 oasis1 typical (age 55)\n"}
+,{"stream_name":"stdout","time":4929.991226498,"data":"ok 12 obhb typical (age 21)\n"}
+,{"stream_name":"stdout","time":5877.747625664,"data":"ok 13 sald typical (age 48)\n"}
+,{"stream_name":"stdout","time":6857.071037825,"data":"ok 14 oasis1 age 25\n"}
+,{"stream_name":"stdout","time":7774.733753897,"data":"ok 15 oasis1 age 80\n"}
+,{"stream_name":"stdout","time":7774.733842153,"data":"plots: 8 of 23\n"}
+,{"stream_name":"stderr","time":7777.89268159,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":7777.89272389,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":7778.341327674,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":7778.34136212,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":7779.408729071,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":7781.000311365,"data":"[NbConvertApp] Writing 311443 bytes to __results__.html\n"}
+]

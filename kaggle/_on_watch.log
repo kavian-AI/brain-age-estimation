@@ -1,0 +1,7 @@
+start: done 0 of 2726 | running []
+10-12 21:50 pushed on-fs-c001 58 scans (CPU)
+10-12 21:51 pushed on-fs-c002 58 scans (CPU)
+10-12 21:52 pushed on-fs-c003 58 scans (CPU)
+10-12 21:53 pushed on-fs-c004 58 scans (CPU)
+10-12 21:54 pushed on-fs-c005 58 scans (CPU)
+10-12 21:55 push on-fs-g006 refused: Maximum weekly GPU quota of 30.00 hours reached.

@@ -1,0 +1,16 @@
+[{"stream_name":"stdout","time":0.808328817,"data":"PART 160 scans 10\n"}
+,{"stream_name":"stdout","time":2.692883085,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":72.606667041,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":80.971630242,"data":"GPUs used: 1\n"}
+,{"stream_name":"stdout","time":3734.151305411,"data":"chunk 1/4: 3/3 ok, 3596s (1198.6s/scan), total 3/10, elapsed 1.04 h\n"}
+,{"stream_name":"stdout","time":7269.422327882,"data":"chunk 2/4: 3/3 ok, 3535s (1178.4s/scan), total 6/10, elapsed 2.02 h\n"}
+,{"stream_name":"stdout","time":10854.693024897,"data":"chunk 3/4: 3/3 ok, 3585s (1195.1s/scan), total 9/10, elapsed 3.01 h\n"}
+,{"stream_name":"stdout","time":12051.306618712,"data":"chunk 4/4: 1/1 ok, 1197s (1196.6s/scan), total 10/10, elapsed 3.35 h\n"}
+,{"stream_name":"stdout","time":12051.306667694,"data":"finished: 10 rows, 3.35 h\n"}
+,{"stream_name":"stderr","time":12054.664101984,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":12054.664137565,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":12055.05176726,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":12055.051873698,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":12056.042194679,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":12057.423870943,"data":"[NbConvertApp] Writing 342950 bytes to __results__.html\n"}
+]

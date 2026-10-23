@@ -1,0 +1,51 @@
+[{"stream_name":"stdout","time":5.6828589560000005,"data":"torch 2.10.0+cu128 cuda True Tesla T4\n"}
+,{"stream_name":"stdout","time":9.702410787,"data":"probe image: ['/kaggle/input/datasets/javidtheimmortal/oasis-2/OAS2_RAW_PART1/OAS2_RAW_PART1/OAS2_0001_MR1/RAW/mpr-1.nifti.hdr']\n"}
+,{"stream_name":"stdout","time":10.698977161,"data":"shape (256, 256, 128, 1) zooms (np.float32(1.0), np.float32(1.0), np.float32(1.25), np.float32(0.0)) axcodes ('A', 'S', 'L')\n"}
+,{"stream_name":"stdout","time":10.699150677,"data":"[[   0.       0.      -1.25    78.125]\n"}
+,{"stream_name":"stdout","time":10.699165023,"data":" [   1.       0.       0.    -127.5  ]\n"}
+,{"stream_name":"stdout","time":10.699173854,"data":" [   0.       1.       0.    -126.5  ]\n"}
+,{"stream_name":"stdout","time":10.699176954,"data":" [   0.       0.       0.       1.   ]]\n"}
+,{"stream_name":"stdout","time":11.792310925,"data":"\u003e\u003e git clone --depth 1 --branch v2.4.2 https://github.com/Deep-MI/FastSurfer.git /kaggle/working/FastSurfer || git clone --depth 1 https://github.com/Deep-MI/FastSurfer.git /kaggle/working/FastSurfer\n"}
+,{"stream_name":"stdout","time":13.83973336,"data":" Cloning into '/kaggle/working/FastSurfer'...\n"}
+,{"stream_name":"stdout","time":13.839776635,"data":"Note: switching to '7e5334356e5abc0b600c11d6e9890e386d176433'.\n"}
+,{"stream_name":"stdout","time":13.839783129,"data":"\n"}
+,{"stream_name":"stdout","time":13.839787059,"data":"You are in 'detached HEAD' state. You can look around, make experimental\n"}
+,{"stream_name":"stdout","time":13.839791037,"data":"changes and commit them, and you can discard any commits you make in this\n"}
+,{"stream_name":"stdout","time":13.839795062,"data":"state without impacting any branches by switching back to a branch.\n"}
+,{"stream_name":"stdout","time":13.839798704,"data":"\n"}
+,{"stream_name":"stdout","time":13.83980217,"data":"If you want to create a new branch to retain commits you create, you may\n"}
+,{"stream_name":"stdout","time":13.839805661,"data":"do so (now or later) by using -c with the switch command. Example:\n"}
+,{"stream_name":"stdout","time":13.839809097,"data":"\n"}
+,{"stream_name":"stdout","time":13.839812254,"data":"  git switch -c \u003cnew-branch-name\u003e\n"}
+,{"stream_name":"stdout","time":13.839815909,"data":"\n"}
+,{"stream_name":"stdout","time":13.839820721,"data":"Or undo this operation with:\n"}
+,{"stream_name":"stdout","time":13.839827283,"data":"\n"}
+,{"stream_name":"stdout","time":13.839829782,"data":"  git switch -\n"}
+,{"stream_name":"stdout","time":13.839831947,"data":"\n"}
+,{"stream_name":"stdout","time":13.839834046,"data":"Turn off this advice by setting config variable advice.detachedHead to false\n"}
+,{"stream_name":"stdout","time":13.839836372,"data":"\n"}
+,{"stream_name":"stdout","time":13.839838566,"data":"\n"}
+,{"stream_name":"stdout","time":13.839840748,"data":"\u003e\u003e pip install -q yacs simpleitk nibabel scikit-image h5py lapy pandas 2\u003e\u00261 | tail -3\n"}
+,{"stream_name":"stdout","time":18.849001371,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90.6/90.6 kB 1.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.849034609,"data":" \n"}
+,{"stream_name":"stdout","time":18.849043797,"data":"\u003e\u003e python FastSurferCNN/run_prediction.py --help | head -60\n"}
+,{"stream_name":"stdout","time":22.41378173,"data":" Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":22.413816254,"data":"  File \"/kaggle/working/FastSurfer/FastSurferCNN/run_prediction.py\", line 42, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":22.413822643,"data":"    import FastSurferCNN.reduce_to_aseg as rta\n"}
+,{"stream_name":"stdout","time":22.413836655,"data":"ModuleNotFoundError: No module named 'FastSurferCNN'\n"}
+,{"stream_name":"stdout","time":22.41384046,"data":"\n"}
+,{"stream_name":"stdout","time":22.413844125,"data":"\u003e\u003e python FastSurferCNN/run_prediction.py --t1 /kaggle/working/in/t1.nii.gz --sid probe --sd /kaggle/working/out --device cuda --viewagg_device cuda --threads 2\n"}
+,{"stream_name":"stdout","time":24.964814736,"data":" Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":24.964866131,"data":"  File \"/kaggle/working/FastSurfer/FastSurferCNN/run_prediction.py\", line 42, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":24.964872543,"data":"    import FastSurferCNN.reduce_to_aseg as rta\n"}
+,{"stream_name":"stdout","time":24.964876859,"data":"ModuleNotFoundError: No module named 'FastSurferCNN'\n"}
+,{"stream_name":"stdout","time":24.964881044,"data":"\n"}
+,{"stream_name":"stdout","time":24.965033054,"data":"outputs: []\n"}
+,{"stream_name":"stdout","time":24.96503981,"data":"elapsed 24 s\n"}
+,{"stream_name":"stderr","time":27.338223099,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":27.33827239,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":27.569916725,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":27.569954986,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":28.159386909,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":29.291979622,"data":"[NbConvertApp] Writing 288143 bytes to __results__.html\n"}
+]

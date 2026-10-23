@@ -1,0 +1,9 @@
+12:44 "KernelWorkerStatus.RUNNING"
+12:48 "KernelWorkerStatus.RUNNING"
+12:52 "KernelWorkerStatus.RUNNING"
+12:56 "KernelWorkerStatus.RUNNING"
+13:00 "KernelWorkerStatus.RUNNING"
+13:05 requests.exceptions.SSLError: HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/security.OAuthService/IntrospectToken (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+13:09 requests.exceptions.SSLError: HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/security.OAuthService/IntrospectToken (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+13:13 requests.exceptions.SSLError: HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/security.OAuthService/IntrospectToken (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))
+18:16 "KernelWorkerStatus.COMPLETE"

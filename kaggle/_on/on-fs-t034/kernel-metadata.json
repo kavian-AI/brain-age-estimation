@@ -1,0 +1,16 @@
+{
+  "id": "mohammadparsakavian/on-fs-t034",
+  "title": "on-fs-t034",
+  "code_file": "on_fs_run.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "machine_shape": "TpuV6E8",
+  "docker_image_pinning_type": "latest",
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

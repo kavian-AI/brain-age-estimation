@@ -1,0 +1,15 @@
+{
+ "reference_head_cm3": 1538.1548149111238,
+ "n_people": 7603,
+ "sites": 77,
+ "age_range": [
+  5.9,
+  94.0
+ ],
+ "aged_60_plus": 1885,
+ "repeat_pairs": {
+  "OASIS-1": 424,
+  "ds005405": 185,
+  "OASIS-2": 150
+ }
+}

@@ -1,0 +1,17 @@
+Subcortical Volume;Structure;d_icv;se_icv;low_ci_icv;up_ci_icv;n_controls;n_patients;pobs;fdr_p;;;
+schizophreniavsCN;LLatVent;0;;0;0;;;;0;;;
+schizophreniavsCN;Lthal;0.27;;0.21;0.32;;;;2.94E-22;;;
+schizophreniavsCN;Lcaud;-0.03;;-0.08;0.02;;;;1;;;
+schizophreniavsCN;Lput;-0.12;;-0.18;-0.07;;;;1;;;
+schizophreniavsCN;Lpal;-0.26;;-0.32;-0.21;;;;1;;;
+schizophreniavsCN;Lhippo;0.34;;0.28;0.39;;;;2.05E-34;;;
+schizophreniavsCN;Lamyg;0.18;;0.13;0.24;;;;4.55E-11;;;
+schizophreniavsCN;Laccumb;0.05;;0;0.1;;;;1;;;
+schizophreniavsCN;RLatVent;0;;0;0;;;;0;;;
+schizophreniavsCN;Rthal;0.27;;0.22;0.33;;;;5.60E-23;;;
+schizophreniavsCN;Rcaud;-0.04;;-0.1;0.01;;;;1;;;
+schizophreniavsCN;Rput;-0.12;;-0.17;-0.07;;;;1;;;
+schizophreniavsCN;Rpal;-0.19;;-0.24;-0.13;;;;1;;;
+schizophreniavsCN;Rhippo;0.34;;0.29;0.4;;;;1.75E-35;;;
+schizophreniavsCN;Ramyg;0.18;;0.13;0.23;;;;5.10E-11;;;
+schizophreniavsCN;Raccumb;0.1;;0.05;0.15;;;;2.95E-4;;;

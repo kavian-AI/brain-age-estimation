@@ -1,0 +1,42 @@
+[
+[
+"cut-off: worst (cerebellum 32 cm3, brainstem 3)",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-901046779045/ses-1/sub-901046779045_T1w.nii.gz"
+],
+[
+"cut-off: brainstem 0.9 cm3",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-923642697698/ses-1/sub-923642697698_T1w.nii.gz"
+],
+[
+"cut-off: borderline (cb 99 cm3, labels missing)",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-933451667612/ses-1/sub-933451667612_T1w.nii.gz"
+],
+[
+"child 11y: brain/ICV z -7.9",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-924333698510/ses-1/sub-924333698510_T1w.nii.gz"
+],
+[
+"child 12y: frontal z -5.6, brain/ICV -6.4",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-213073713974/ses-1/sub-213073713974_T1w.nii.gz"
+],
+[
+"child 12y: top cortex z -6.0",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-784746686469/ses-1/sub-784746686469_T1w.nii.gz"
+],
+[
+"adult 55y: inf.temporal z -7.0, brain/ICV -8.9",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-264782182812/ses-1/sub-264782182812_T1w.nii.gz"
+],
+[
+"adult 22y: inf.temporal z -7.4",
+"https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-719423973532/ses-1/sub-719423973532_T1w.nii.gz"
+],
+[
+"ds005405 sub-127: inf.temporal z -6.2",
+"ds005405/sub-127/ses-bhb/anat/sub-127_ses-bhb_run-1_T1w.nii"
+],
+[
+"OASIS-1 84y: inf.temporal z -5.4",
+"oasis1:disc3:OAS1_0110_MR1:mpr-1"
+]
+]

@@ -1,0 +1,22 @@
+MCI with >=3 scans inside 2.0 y: n=305, conversions after the last one=79
+median scans per subject in window: 5
+
+==========================================================================
+MULTI-POINT SLOPE vs CROSS-SECTION, six against six
+==========================================================================
+  age only                 C = 0.555
+  cross-section z (6)      C = 0.798
+  fitted SLOPE (6)         C = 0.751
+  both (12)                C = 0.819
+
+==========================================================================
+DOES A PROPERLY FITTED SLOPE ADD?  (subject-level bootstrap)
+==========================================================================
+
+  slope adds to cross-section?
+    +0.024  95% CI [-0.002, +0.055]  p=0.060   -> not distinguishable
+
+  cross-section beats slope?
+    +0.044  95% CI [-0.014, +0.105]  p=0.120   -> not distinguishable
+
+  for comparison, E44 with a TWO-point rate: +0.007 [-0.010, +0.029]

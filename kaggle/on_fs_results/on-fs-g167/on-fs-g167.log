@@ -1,0 +1,18 @@
+[{"stream_name":"stdout","time":0.962241036,"data":"PART 167 scans 2\n"}
+,{"stream_name":"stdout","time":2.416578325,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":66.688952341,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":78.775092625,"data":"GPUs used: 2\n"}
+,{"stream_name":"stdout","time":102.739075423,"data":"  oasis1 fail oasis1__OAS1_0080_MR2__mpr-1: FileNotFoundError No such file or no access: '/tmp/o1/OAS1_0080_MR2_mpr-1_anon.hdr'\n"}
+,{"stream_name":"stdout","time":102.739324879,"data":"  oasis1 fail oasis1__OAS1_0080_MR2__mpr-2: FileNotFoundError No such file or no access: '/tmp/o1/OAS1_0080_MR2_mpr-2_anon.hdr'\n"}
+,{"stream_name":"stdout","time":102.834579096,"data":"  FAIL seg oasis1__OAS1_0080_MR2__mpr-1\n"}
+,{"stream_name":"stdout","time":102.834618214,"data":"  FAIL seg oasis1__OAS1_0080_MR2__mpr-2\n"}
+,{"stream_name":"stdout","time":102.834633794,"data":"chunk 1/1: 0/2 ok, 0s (0.0s/scan), total 0/2, elapsed 0.03 h\n"}
+,{"stream_name":"stdout","time":102.834637851,"data":" \n"}
+,{"stream_name":"stdout","time":102.834641327,"data":"finished: 0 rows, 0.03 h\n"}
+,{"stream_name":"stderr","time":108.687578765,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":108.687619375,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":108.99541948,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":108.995444914,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":109.848867106,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":111.088293174,"data":"[NbConvertApp] Writing 342256 bytes to __results__.html\n"}
+]

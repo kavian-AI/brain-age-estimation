@@ -1,0 +1,72 @@
+[{"stream_name":"stdout","time":11.400705167,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 409.1/409.1 kB 3.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":15.451766923,"data":"pip: 0\n"}
+,{"stream_name":"stdout","time":30.817261865,"data":"model contest on 7296 adults, 60 sites\n"}
+,{"stream_name":"stdout","time":34.340532933,"data":"  hippocampus            GAUSS  CRPS 3.647%  NLL -1.211  cal 0.005  site 0.091  age 0.010  cov95 0.942  slope70 -0.53±0.02  (3s)\n"}
+,{"stream_name":"stdout","time":56.106576534,"data":"  hippocampus            SHASH  CRPS 3.645%  NLL -1.214  cal 0.003  site 0.087  age 0.006  cov95 0.943  slope70 -0.52±0.02  (22s)\n"}
+,{"stream_name":"stdout","time":213.073757076,"data":"  hippocampus            QR     CRPS 3.657%  NLL +nan  cal 0.003  site 0.047  age 0.004  cov95 0.938  slope70 -0.50±0.02  (157s)\n"}
+,{"stream_name":"stdout","time":237.798947402,"data":"  hippocampus            MLP    CRPS 3.675%  NLL -1.204  cal 0.005  site 0.104  age 0.028  cov95 0.944  slope70 -0.31±0.05  (25s)\n"}
+,{"stream_name":"stdout","time":249.523699687,"data":"  hippocampus            GBM    CRPS 3.692%  NLL -1.189  cal 0.005  site 0.291  age 0.009  cov95 0.941  slope70 -1.43±0.51  (12s)\n"}
+,{"stream_name":"stdout","time":485.912891058,"data":"  hippocampus            GPR    CRPS 3.822%  NLL -1.142  cal 0.006  site 0.143  age 0.029  cov95 0.944  slope70 -0.41±0.02  (236s)\n"}
+,{"stream_name":"stdout","time":488.909321633,"data":"  entorhinal             GAUSS  CRPS 6.217%  NLL -0.691  cal 0.006  site 0.117  age 0.015  cov95 0.944  slope70 -0.45±0.02  (3s)\n"}
+,{"stream_name":"stdout","time":497.482415861,"data":"  entorhinal             SHASH  CRPS 6.204%  NLL -0.697  cal 0.003  site 0.110  age 0.008  cov95 0.947  slope70 -0.43±0.02  (9s)\n"}
+,{"stream_name":"stdout","time":633.11021532,"data":"  entorhinal             QR     CRPS 6.198%  NLL +nan  cal 0.004  site 0.045  age 0.004  cov95 0.940  slope70 -0.40±0.02  (136s)\n"}
+,{"stream_name":"stdout","time":651.538973987,"data":"  entorhinal             MLP    CRPS 6.252%  NLL -0.684  cal 0.006  site 0.112  age 0.027  cov95 0.942  slope70 -0.14±0.02  (18s)\n"}
+,{"stream_name":"stdout","time":658.501886732,"data":"  entorhinal             GBM    CRPS 6.309%  NLL -0.659  cal 0.006  site 0.098  age 0.013  cov95 0.942  slope70 -0.60±0.35  (7s)\n"}
+,{"stream_name":"stdout","time":883.862446453,"data":"  entorhinal             GPR    CRPS 6.437%  NLL -0.524  cal 0.028  site 0.307  age 0.039  cov95 0.969  slope70 -0.38±0.08  (225s)\n"}
+,{"stream_name":"stdout","time":887.184397648,"data":"  thalamus               GAUSS  CRPS 3.077%  NLL -1.374  cal 0.005  site 0.067  age 0.012  cov95 0.945  slope70 -0.51±0.01  (3s)\n"}
+,{"stream_name":"stdout","time":898.724813394,"data":"  thalamus               SHASH  CRPS 3.076%  NLL -1.378  cal 0.003  site 0.075  age 0.007  cov95 0.947  slope70 -0.50±0.01  (12s)\n"}
+,{"stream_name":"stdout","time":1029.912929586,"data":"  thalamus               QR     CRPS 3.092%  NLL +nan  cal 0.004  site 0.053  age 0.005  cov95 0.939  slope70 -0.50±0.01  (131s)\n"}
+,{"stream_name":"stdout","time":1053.669559809,"data":"  thalamus               MLP    CRPS 3.109%  NLL -1.365  cal 0.005  site 0.078  age 0.034  cov95 0.943  slope70 -0.45±0.04  (24s)\n"}
+,{"stream_name":"stdout","time":1060.883420134,"data":"  thalamus               GBM    CRPS 3.118%  NLL -1.351  cal 0.005  site 0.096  age 0.008  cov95 0.945  slope70 -1.75±0.40  (7s)\n"}
+,{"stream_name":"stdout","time":1273.706233923,"data":"  thalamus               GPR    CRPS 3.565%  NLL -1.215  cal 0.003  site 0.208  age 0.023  cov95 0.947  slope70 -0.36±0.05  (213s)\n"}
+,{"stream_name":"stdout","time":1276.88649098,"data":"  lateral ventricles     GAUSS  CRPS 20.469%  NLL +0.525  cal 0.005  site 0.075  age 0.008  cov95 0.943  slope70 +3.09±0.06  (3s)\n"}
+,{"stream_name":"stdout","time":1282.859915574,"data":"  lateral ventricles     SHASH  CRPS 20.466%  NLL +0.524  cal 0.004  site 0.079  age 0.009  cov95 0.944  slope70 +3.10±0.06  (6s)\n"}
+,{"stream_name":"stdout","time":1462.724997308,"data":"  lateral ventricles     QR     CRPS 20.564%  NLL +nan  cal 0.004  site 0.069  age 0.005  cov95 0.938  slope70 +3.27±0.05  (180s)\n"}
+,{"stream_name":"stdout","time":1480.112765984,"data":"  lateral ventricles     MLP    CRPS 20.542%  NLL +0.526  cal 0.004  site 0.146  age 0.034  cov95 0.946  slope70 +2.46±0.13  (17s)\n"}
+,{"stream_name":"stdout","time":1487.275542332,"data":"  lateral ventricles     GBM    CRPS 20.615%  NLL +0.540  cal 0.005  site 0.054  age 0.008  cov95 0.941  slope70 +3.26±1.35  (7s)\n"}
+,{"stream_name":"stdout","time":1714.482392746,"data":"  lateral ventricles     GPR    CRPS 22.964%  NLL +0.635  cal 0.004  site 0.184  age 0.015  cov95 0.948  slope70 +2.28±0.04  (227s)\n"}
+,{"stream_name":"stdout","time":1717.87268891,"data":"  inf. lat. ventricles   GAUSS  CRPS 21.403%  NLL +0.569  cal 0.005  site 0.083  age 0.009  cov95 0.940  slope70 +4.11±0.08  (3s)\n"}
+,{"stream_name":"stdout","time":1724.565243899,"data":"  inf. lat. ventricles   SHASH  CRPS 21.387%  NLL +0.562  cal 0.003  site 0.081  age 0.010  cov95 0.946  slope70 +4.08±0.07  (7s)\n"}
+,{"stream_name":"stderr","time":1954.92003378,"data":"/kaggle/working/proj/pilot/p4_models.py:158: IterationLimitWarning: Maximum number of iterations (5000) reached.\n"}
+,{"stream_name":"stderr","time":1954.920147659,"data":"  self.B = [QuantReg(y, X).fit(q=q, max_iter=5000).params for q in QS]\n"}
+,{"stream_name":"stdout","time":1954.989468813,"data":"  inf. lat. ventricles   QR     CRPS 21.459%  NLL +nan  cal 0.004  site 0.058  age 0.004  cov95 0.937  slope70 +4.05±0.06  (230s)\n"}
+,{"stream_name":"stdout","time":1978.698725624,"data":"  inf. lat. ventricles   MLP    CRPS 21.492%  NLL +0.573  cal 0.004  site 0.085  age 0.018  cov95 0.939  slope70 +3.53±0.07  (24s)\n"}
+,{"stream_name":"stdout","time":1985.903156776,"data":"  inf. lat. ventricles   GBM    CRPS 21.528%  NLL +0.585  cal 0.005  site 0.167  age 0.012  cov95 0.938  slope70 +0.80±0.67  (7s)\n"}
+,{"stream_name":"stdout","time":2213.716005773,"data":"  inf. lat. ventricles   GPR    CRPS 22.994%  NLL +0.650  cal 0.008  site 0.200  age 0.020  cov95 0.940  slope70 +3.17±0.10  (228s)\n"}
+,{"stream_name":"stdout","time":2217.135973276,"data":"  putamen                GAUSS  CRPS 4.355%  NLL -1.026  cal 0.006  site 0.118  age 0.010  cov95 0.945  slope70 -0.33±0.01  (3s)\n"}
+,{"stream_name":"stdout","time":2230.895792517,"data":"  putamen                SHASH  CRPS 4.348%  NLL -1.035  cal 0.003  site 0.109  age 0.006  cov95 0.949  slope70 -0.34±0.01  (14s)\n"}
+,{"stream_name":"stdout","time":2370.859145164,"data":"  putamen                QR     CRPS 4.354%  NLL +nan  cal 0.003  site 0.062  age 0.006  cov95 0.940  slope70 -0.35±0.02  (140s)\n"}
+,{"stream_name":"stdout","time":2390.500500976,"data":"  putamen                MLP    CRPS 4.370%  NLL -1.021  cal 0.007  site 0.276  age 0.016  cov95 0.947  slope70 -0.29±0.01  (20s)\n"}
+,{"stream_name":"stdout","time":2397.749821087,"data":"  putamen                GBM    CRPS 4.402%  NLL -1.006  cal 0.006  site 0.099  age 0.010  cov95 0.943  slope70 -0.34±0.14  (7s)\n"}
+,{"stream_name":"stdout","time":2630.381516412,"data":"  putamen                GPR    CRPS 4.733%  NLL -0.907  cal 0.009  site 0.255  age 0.022  cov95 0.949  slope70 -0.22±0.02  (233s)\n"}
+,{"stream_name":"stdout","time":2633.739547299,"data":"  brainstem              GAUSS  CRPS 3.944%  NLL -1.157  cal 0.003  site 0.097  age 0.004  cov95 0.946  slope70 -0.15±0.01  (3s)\n"}
+,{"stream_name":"stdout","time":2646.556549868,"data":"  brainstem              SHASH  CRPS 3.944%  NLL -1.157  cal 0.002  site 0.096  age 0.004  cov95 0.945  slope70 -0.15±0.01  (13s)\n"}
+,{"stream_name":"stdout","time":2791.752807816,"data":"  brainstem              QR     CRPS 3.947%  NLL +nan  cal 0.004  site 0.064  age 0.005  cov95 0.938  slope70 -0.14±0.02  (145s)\n"}
+,{"stream_name":"stdout","time":2810.661333321,"data":"  brainstem              MLP    CRPS 4.000%  NLL -1.150  cal 0.003  site 0.168  age 0.028  cov95 0.944  slope70 -0.04±0.02  (19s)\n"}
+,{"stream_name":"stdout","time":2817.784114212,"data":"  brainstem              GBM    CRPS 4.005%  NLL -1.129  cal 0.003  site 0.090  age 0.008  cov95 0.940  slope70 -0.12±0.04  (7s)\n"}
+,{"stream_name":"stdout","time":3065.497928597,"data":"  brainstem              GPR    CRPS 4.136%  NLL -0.951  cal 0.030  site 0.310  age 0.035  cov95 0.975  slope70 -0.10±0.03  (248s)\n"}
+,{"stream_name":"stdout","time":3068.217456288,"data":"  precuneus              GAUSS  CRPS 4.168%  NLL -1.066  cal 0.005  site 0.066  age 0.006  cov95 0.942  slope70 -0.37±0.01  (3s)\n"}
+,{"stream_name":"stdout","time":3077.872419358,"data":"  precuneus              SHASH  CRPS 4.167%  NLL -1.067  cal 0.002  site 0.066  age 0.005  cov95 0.942  slope70 -0.37±0.01  (10s)\n"}
+,{"stream_name":"stdout","time":3216.234286347,"data":"  precuneus              QR     CRPS 4.187%  NLL +nan  cal 0.004  site 0.059  age 0.005  cov95 0.938  slope70 -0.35±0.01  (138s)\n"}
+,{"stream_name":"stdout","time":3232.188321949,"data":"  precuneus              MLP    CRPS 4.172%  NLL -1.068  cal 0.005  site 0.063  age 0.011  cov95 0.943  slope70 -0.31±0.00  (16s)\n"}
+,{"stream_name":"stdout","time":3239.478288406,"data":"  precuneus              GBM    CRPS 4.202%  NLL -1.048  cal 0.004  site 0.091  age 0.007  cov95 0.938  slope70 -0.32±0.27  (7s)\n"}
+,{"stream_name":"stdout","time":3463.551521834,"data":"  precuneus              GPR    CRPS 4.495%  NLL -0.993  cal 0.003  site 0.122  age 0.013  cov95 0.943  slope70 -0.25±0.03  (224s)\n"}
+,{"stream_name":"stdout","time":3463.59332049,"data":"\n"}
+,{"stream_name":"stdout","time":3463.593381096,"data":"== mean over regions ==\n"}
+,{"stream_name":"stdout","time":3463.61645624,"data":"       CRPS_pct     NLL  cal_err  worst_site_cal  worst_ageband_cal   cov95  slope70_sd  rank_CRPS   seconds\n"}
+,{"stream_name":"stdout","time":3463.616491107,"data":"model                                                                                                       \n"}
+,{"stream_name":"stdout","time":3463.616497177,"data":"SHASH    8.4047 -0.6826   0.0030          0.0880             0.0068  0.9452      0.0266      1.125   11.3471\n"}
+,{"stream_name":"stdout","time":3463.616502768,"data":"GAUSS    8.4102 -0.6788   0.0049          0.0892             0.0093  0.9432      0.0282      2.250    3.2118\n"}
+,{"stream_name":"stdout","time":3463.616508133,"data":"QR       8.4322     NaN   0.0037          0.0571             0.0049  0.9384      0.0253      2.875  157.1990\n"}
+,{"stream_name":"stdout","time":3463.616512951,"data":"MLP      8.4515 -0.6742   0.0047          0.1290             0.0244  0.9435      0.0425      3.750   20.3135\n"}
+,{"stream_name":"stdout","time":3463.616517976,"data":"GBM      8.4840 -0.6572   0.0047          0.1233             0.0093  0.9410      0.4666      5.000    7.7412\n"}
+,{"stream_name":"stdout","time":3463.616522699,"data":"GPR      9.1434 -0.5558   0.0114          0.2161             0.0246  0.9520      0.0446      6.000  229.2510\n"}
+,{"stream_name":"stdout","time":3465.68294058,"data":"analysis rc 0\n"}
+,{"stream_name":"stdout","time":3467.8223385,"data":"CompletedProcess(args=['/usr/bin/python3', '-c', \"\\nimport os, sys, json, pandas as pd\\nsys.path.insert(0, 'pilot')\\nimport p4_figures as F\\nF.D = os.path.join('pilot', 'p5_out')\\nif os.path.exists(os.path.join(F.D, 'everyage_table.csv')):\\n    F.T = pd.read_csv(os.path.join(F.D, 'everyage_table.csv'))\\n    F.meta = json.load(open(os.path.join(F.D, 'everyage_meta.json')))\\n    F.fig_charts(); F.fig_resolution()\\nif os.path.exists(os.path.join(F.D, 'model_comparison.csv')):\\n    F.M = pd.read_csv(os.path.join(F.D, 'model_comparison.csv')); F.fig_models()\\nprint('figures done')\\n\"], returncode=0, stdout='figures done\\n', stderr='')\n"}
+,{"stream_name":"stderr","time":3470.313436891,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":3470.313472559,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":3470.669427354,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":3470.669454781,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":3471.597220398,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":3472.787687099,"data":"[NbConvertApp] Writing 278412 bytes to __results__.html\n"}
+]

@@ -1,0 +1,58 @@
+{
+  "oasis_pairs": 150,
+  "R_brain_mean_CN": 4.2264986270915745,
+  "R_brain_by_age": {
+    "60-70": 3.1464885014392703,
+    "70-75": 4.504043783620383,
+    "75-80": 4.901923396448471,
+    "80-91": 3.6060078017060295
+  },
+  "SD_g_CN_empirical": 5.426500679817311,
+  "SD_classic_gap_CN": 6.457443976035715,
+  "MAE_raw_ridge_CN": 3.651719524731045,
+  "MAE_floor_0.798R": 3.3727459044190766,
+  "beta_obs_ridge": 0.4011358502207307,
+  "beta_pred_V/(V+R2)_floor": 0.6329433910215283,
+  "beta_pred_V/(V+SDg2)_empirical": 0.5112540342331017,
+  "corr_g_classicgap_CN": 0.7744423745679573,
+  "corr_g_classicgap_all": 0.8247376588839019,
+  "P2_max_abs_error": 5.684341886080802e-14,
+  "by_dx": {
+    "CN": {
+      "n": 442,
+      "g_mean": -0.012420041220765841,
+      "classic_gap_mean": 0.2023959447056535,
+      "T2_centile_median": 0.8499881930303768,
+      "D2_centile_median": 0.8656611552289966,
+      "aging_share_of_D2_median": 0.007043146284560369
+    },
+    "MCI": {
+      "n": 684,
+      "g_mean": 3.359705713465112,
+      "classic_gap_mean": 5.494303769381342,
+      "T2_centile_median": 0.9752292171514803,
+      "D2_centile_median": 0.9831795990446301,
+      "aging_share_of_D2_median": 0.014671803269117911
+    },
+    "Dementia": {
+      "n": 243,
+      "g_mean": 6.335205940245225,
+      "classic_gap_mean": 11.83392961938226,
+      "T2_centile_median": 0.9992837743806301,
+      "D2_centile_median": 0.9995904783622284,
+      "aging_share_of_D2_median": 0.02575973746956802
+    }
+  },
+  "AUC_AD_vs_CN": {
+    "g": 0.7663259035808055,
+    "T2": 0.714671433625682,
+    "D2": 0.7304154330298122,
+    "classic_gap": 0.865137888013705
+  },
+  "P4_train_mean_age": 74.04900939966736,
+  "P4_corr_beta_vs_appgap_old": 0.9785470032222449,
+  "P4_corr_beta_vs_appgap_young": -0.9758397696548177,
+  "P4_mean_age_old": 78.95297029702971,
+  "P4_mean_age_young": 69.92708333333333,
+  "P4_corr_beta_obs_vs_pred": 0.9912007354616238
+}

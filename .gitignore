@@ -1,0 +1,41 @@
+# raw imaging archives (8.18 GB)
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+adni_img/
+images/
+Image data/
+
+# raw / intermediate volumes
+*.nii
+*.nii.gz
+*.mgz
+*.mgh
+
+# cached arrays, regenerable from code
+*.npz
+*.npy
+
+# model binaries
+*.onnx
+*.pt
+*.pth
+*.h5
+
+# third-party checkout (has its own .git)
+external/USC_LBA_estimator/
+
+# published papers
+Papers/
+
+# oversized raw table
+data/tadpole/TADPOLE_D1_D2.csv
+
+# python cruft
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.ipynb_checkpoints/

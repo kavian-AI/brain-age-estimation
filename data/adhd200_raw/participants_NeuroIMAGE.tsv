@@ -1,0 +1,74 @@
+participant_id	gender	age	handedness	dx	iq_measure	full2_iq	qc_rest_1	qc_anatomical_1	disclaimer
+27000	Female	20.9	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	91	Pass	Pass	This data requires permission to use.
+27003	Male	17.54	Left	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	106	Pass	Pass	This data requires permission to use.
+27004	Male	14.24	Left	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	91	Pass	Pass	This data requires permission to use.
+27005	Female	18.65	Left	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	87	Pass	Pass	This data requires permission to use.
+27007	Male	16.92	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	91	Pass	Pass	This data requires permission to use.
+27008	Male	25.04	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	78	Pass	Pass	This data requires permission to use.
+27010	Female	16.45	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	116	Pass	Pass	This data requires permission to use.
+27011	Male	20.82	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	128	Pass	Pass	This data requires permission to use.
+27012	Female	14.05	N/A	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	N/A	Pass	Pass	This data requires permission to use.
+27015	Female	20.34	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	106	Pass	Pass	This data requires permission to use.
+27016	Female	20.31	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	128	Pass	Pass	This data requires permission to use.
+27017	Female	26.31	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	103	Pass	Pass	This data requires permission to use.
+27018	Male	19.08	N/A	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	113	Pass	Pass	This data requires permission to use.
+27020	Female	23.59	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	97	Pass	Pass	This data requires permission to use.
+27021	Female	20.02	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	109	Pass	Pass	This data requires permission to use.
+27022	Female	16.65	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	109	Pass	Pass	This data requires permission to use.
+27023	Male	18.08	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	81	Pass	Pass	This data requires permission to use.
+27024	Female	20.67	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	100	Pass	Pass	This data requires permission to use.
+27025	Female	21.53	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	106	Pass	Pass	This data requires permission to use.
+27026	Female	20.55	Right	Typically Developing Children	Two subtest WISC or WAIS - Block Design and Vocabulary	78	Pass	Pass	This data requires permission to use.
+27028	Male	14.94	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	82	Pass	Pass	This data requires permission to use.
+27034	Male	13.35	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	97	Pass	Pass	This data requires permission to use.
+27037	Male	17.74	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	78	Pass	Pass	This data requires permission to use.
+27040	Male	17.18	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	84	Pass	Pass	This data requires permission to use.
+27042	Male	16.72	Right	ADHD-Combined	Two subtest WISC or WAIS - Block Design and Vocabulary	75	Pass	Pass	This data requires permission to use.
+1017176	Female	11.66	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+1125505	Male	19.3	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+1208586	Male	20.89	Right	ADHD-Hyperactive/Impulsive	N/A	N/A	Pass	Pass	N/A
+1312097	Male	15.41	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+1411495	Female	15.21	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+1438162	Female	11.85	Right	ADHD-Combined	N/A	N/A	Questionable	Pass	N/A
+1538046	Female	14.59	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+1585708	Male	15.96	Right	ADHD-Combined	N/A	N/A	Questionable	Pass	N/A
+1588809	Female	20.08	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+2029723	Male	16.5	Right	ADHD-Combined	N/A	N/A	Questionable	Pass	N/A
+2074737	Male	14.09	Right	ADHD-Hyperactive/Impulsive	N/A	N/A	Pass	Pass	N/A
+2352986	Male	20.47	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+2419464	Female	20.04	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+2574674	Female	14.05	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+2671604	Male	17.46	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+2756846	Female	19.27	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+2876903	Male	11.05	Ambidextrous	ADHD-Hyperactive/Impulsive	N/A	N/A	Pass	Pass	N/A
+2961243	Male	16.51	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3007585	Male	19.05	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+3048588	Male	13.92	Right	ADHD-Combined	N/A	N/A	Questionable	Pass	N/A
+3082137	Male	17.93	Left	ADHD-Combined	N/A	N/A	Questionable	Pass	N/A
+3108222	Male	13.33	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3190461	Male	19.88	Right	ADHD-Hyperactive/Impulsive	N/A	N/A	Pass	Pass	N/A
+3304956	Male	15.78	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+3322144	Male	17.5	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3449233	Male	20.15	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3515506	Male	18.8	Right	ADHD-Inattentive	N/A	N/A	Questionable	Pass	N/A
+3566449	Male	17.78	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3808273	Male	14.25	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3858891	Male	18.32	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+3888614	Male	16.8	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3941358	Male	18.2	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+3959823	Female	17.5	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+3980079	Male	19.15	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+4020830	Female	18.19	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+4134561	Male	15.55	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+4239636	Male	20.54	Left	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+4285031	Male	12.84	Right	Typically Developing Children	N/A	N/A	Questionable	Pass	N/A
+4919979	Female	12.02	Right	ADHD-Combined	N/A	N/A	Questionable	Pass	N/A
+5045355	Female	19.66	Right	ADHD-Combined	N/A	N/A	Questionable	Pass	N/A
+6115230	Male	19.39	Left	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+7339173	Female	21.74	Left	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+7446626	Female	13.81	Right	ADHD-Hyperactive/Impulsive	N/A	N/A	Pass	Pass	N/A
+7504392	Female	18.01	Right	ADHD-Combined	N/A	N/A	Pass	Pass	N/A
+8387093	Male	18.59	Left	ADHD-Hyperactive/Impulsive	N/A	N/A	Pass	Pass	N/A
+8409791	Male	17.59	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+8991934	Female	17.01	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A
+9956994	Female	18.02	Right	Typically Developing Children	N/A	N/A	Pass	Pass	N/A

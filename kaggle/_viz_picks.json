@@ -1,0 +1,94 @@
+[
+ [
+  "ds003592 typical (age 26)",
+  "ds003592/sub-149/ses-1/anat/sub-149_ses-1_T1w.nii.gz"
+ ],
+ [
+  "ds004711 typical (age 46)",
+  "ds004711/sub-052/anat/sub-052_T1w.nii.gz"
+ ],
+ [
+  "ds004725 typical (age 31)",
+  "ds004725/sub-11022/anat/sub-11022_T1w.nii"
+ ],
+ [
+  "ds005026 typical (age 59)",
+  "ds005026/sub-05/ses-01/anat/sub-05_ses-01_T1w.nii.gz"
+ ],
+ [
+  "ds005123 typical (age 37)",
+  "ds005123/sub-10836/anat/sub-10836_T1w.nii.gz"
+ ],
+ [
+  "ds005270 typical (age 49)",
+  "ds005270/sub-126/anat/sub-126_T1w.nii.gz"
+ ],
+ [
+  "ds005405 typical (age 44)",
+  "ds005405/sub-101/ses-bhb/anat/sub-101_ses-bhb_run-1_T1w.nii"
+ ],
+ [
+  "ds005752 typical (age 31)",
+  "ds005752/sub-ON98826/ses-01/anat/sub-ON98826_ses-01_acq-MPRAGE_T1w.nii.gz"
+ ],
+ [
+  "ds006395 typical (age 37)",
+  "ds006395/sub-C01789/anat/sub-C01789_T1w.nii.gz"
+ ],
+ [
+  "ds007522 typical (age 64)",
+  "ds007522/sub-HML0699/ses-01/anat/sub-HML0699_ses-01_rec-defaced_T1w.nii.gz"
+ ],
+ [
+  "ds007831 typical (age 62)",
+  "ds007831/sub-SNJ/anat/sub-SNJ_T1w.nii.gz"
+ ],
+ [
+  "oasis1 typical (age 55)",
+  "oasis1:disc11:OAS1_0389_MR1:mpr-1"
+ ],
+ [
+  "obhb typical (age 21)",
+  "https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-958050974251/ses-1/sub-958050974251_T1w.nii.gz"
+ ],
+ [
+  "sald typical (age 48)",
+  "https://s3.amazonaws.com/fcp-indi/data/Projects/INDI/SALD/RawData_BIDS/sub-031663/anat/sub-031663_T1w.nii.gz"
+ ],
+ [
+  "oasis1 age 25",
+  "oasis1:disc11:OAS1_0406_MR1:mpr-1"
+ ],
+ [
+  "oasis1 age 80",
+  "oasis1:disc5:OAS1_0166_MR1:mpr-1"
+ ],
+ [
+  "ds005405 cerebellum pair run-1 (cb 13 cm3)",
+  "ds005405/sub-037/ses-glc/anat/sub-037_ses-glc_run-1_T1w.nii"
+ ],
+ [
+  "ds005405 cerebellum pair run-2 (cb 79 cm3)",
+  "ds005405/sub-037/ses-glc/anat/sub-037_ses-glc_run-2_T1w.nii"
+ ],
+ [
+  "OpenBHB QC failure 347451361275",
+  "https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/train/rawdata/sub-347451361275/ses-1/sub-347451361275_T1w.nii.gz"
+ ],
+ [
+  "OpenBHB QC failure 792041257894",
+  "https://huggingface.co/datasets/benoit-dufumier/openBHB/resolve/main/val/rawdata/sub-792041257894/ses-1/sub-792041257894_T1w.nii.gz"
+ ],
+ [
+  "IXI typical (IXI002, age 36)",
+  "kaggle:IXI002-Guys-0828-T1.nii"
+ ],
+ [
+  "DLBS typical (sub-1003 wave 1, age 54)",
+  "ds004856/sub-1003/ses-wave1/anat/sub-1003_ses-wave1_acq-MPRAGE_run-1_T1w.nii.gz"
+ ],
+ [
+  "OASIS-2 (OAS2_0001 visit 1, age 87)",
+  "kaggle:OAS2_0001_MR1/RAW/mpr-1.nifti.hdr"
+ ]
+]

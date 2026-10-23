@@ -1,0 +1,7 @@
+surface_area_mm^2
+gray_matter_volume_mm^3
+average_thickness_mm
+thickness_stddev_mm
+integrated_rectified_mean_curvature_mm^-1
+integrated_rectified_gaussian_curvature_mm^-2
+intrinsic_curvature_index

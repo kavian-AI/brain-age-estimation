@@ -1,0 +1,64 @@
+[{"stream_name":"stdout","time":203.546118051,"data":"csv: /kaggle/input/datasets/jboysen/mri-and-alzheimers/oasis_cross-sectional.csv \n"}
+,{"stream_name":"stdout","time":203.547236495,"data":"img: /kaggle/input/datasets/ninadaithal/imagesoasis/Data\n"}
+,{"stream_name":"stdout","time":205.245302737,"data":"device: cuda Tesla T4\n"}
+,{"stream_name":"stdout","time":246.032014648,"data":"slices indexed: 86,437  subjects: 347\n"}
+,{"stream_name":"stdout","time":287.09854681,"data":"  decoded 300 acquisitions (41s)\n"}
+,{"stream_name":"stdout","time":326.769625089,"data":"  decoded 600 acquisitions (81s)\n"}
+,{"stream_name":"stdout","time":365.903073911,"data":"  decoded 900 acquisitions (120s)\n"}
+,{"stream_name":"stdout","time":405.503981504,"data":"  decoded 1200 acquisitions (159s)\n"}
+,{"stream_name":"stdout","time":434.018594924,"data":"acquisitions: 1417, volume (16, 112, 224), 0.57 GB uint8\n"}
+,{"stream_name":"stdout","time":434.050896952,"data":"subjects: healthy 266, impaired 81, age-match cut 62\n"}
+,{"stream_name":"stdout","time":574.703471368,"data":"  seed 0 fold 0: test MAE 10.59 y\n"}
+,{"stream_name":"stdout","time":714.30195991,"data":"  seed 0 fold 1: test MAE 10.12 y\n"}
+,{"stream_name":"stdout","time":827.415681714,"data":"  seed 0 fold 2: test MAE 11.64 y\n"}
+,{"stream_name":"stdout","time":943.415331098,"data":"  seed 0 fold 3: test MAE 10.25 y\n"}
+,{"stream_name":"stdout","time":1055.969745266,"data":"  seed 0 fold 4: test MAE 11.12 y\n"}
+,{"stream_name":"stdout","time":1172.839053725,"data":"  seed 1 fold 0: test MAE 10.45 y\n"}
+,{"stream_name":"stdout","time":1284.004739443,"data":"  seed 1 fold 1: test MAE 10.76 y\n"}
+,{"stream_name":"stdout","time":1397.334473673,"data":"  seed 1 fold 2: test MAE 14.24 y\n"}
+,{"stream_name":"stdout","time":1514.826544091,"data":"  seed 1 fold 3: test MAE 10.05 y\n"}
+,{"stream_name":"stdout","time":1629.859536477,"data":"  seed 1 fold 4: test MAE 10.00 y\n"}
+,{"stream_name":"stdout","time":1745.040338406,"data":"  seed 2 fold 0: test MAE 10.10 y\n"}
+,{"stream_name":"stdout","time":1856.961229061,"data":"  seed 2 fold 1: test MAE 12.36 y\n"}
+,{"stream_name":"stdout","time":1975.18597908,"data":"  seed 2 fold 2: test MAE 10.85 y\n"}
+,{"stream_name":"stdout","time":2090.254833699,"data":"  seed 2 fold 3: test MAE 10.16 y\n"}
+,{"stream_name":"stdout","time":2206.229811566,"data":"  seed 2 fold 4: test MAE 11.05 y\n"}
+,{"stream_name":"stdout","time":2206.242353306,"data":"\n"}
+,{"stream_name":"stdout","time":2206.24237745,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2206.242381696,"data":"Q1  AGE PREDICTION IN HEALTHY SUBJECTS\n"}
+,{"stream_name":"stdout","time":2206.242399112,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2206.242659795,"data":"  seed 0: MAE(18-96) 10.00 y   MAE(60+) 11.30 y\n"}
+,{"stream_name":"stdout","time":2206.242819344,"data":"  seed 1: MAE(18-96) 10.39 y   MAE(60+) 10.90 y\n"}
+,{"stream_name":"stdout","time":2206.242903317,"data":"  seed 2: MAE(18-96) 10.17 y   MAE(60+) 12.86 y\n"}
+,{"stream_name":"stdout","time":2206.24291549,"data":"\n"}
+,{"stream_name":"stdout","time":2206.242919769,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2206.24292441,"data":"Q2  DISEASE, AGE-MATCHED\n"}
+,{"stream_name":"stdout","time":2206.242929338,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2206.243022353,"data":"  n=163 (healthy 82, impaired 81)\n"}
+,{"stream_name":"stdout","time":2206.253379082,"data":"\n"}
+,{"stream_name":"stdout","time":2206.25341929,"data":"  CNN brain-age gap        AUC = 0.637 (0.656, 0.629, 0.628)\n"}
+,{"stream_name":"stdout","time":2206.47456269,"data":"  CNN features + age       AUC = 0.570 (0.580, 0.570, 0.559)\n"}
+,{"stream_name":"stdout","time":2844.302123582,"data":"  CNN direct to disease    AUC = 0.513 (0.539, 0.496, 0.503)\n"}
+,{"stream_name":"stdout","time":2844.361161015,"data":"  nWBV+eTIV+sex+age        AUC = 0.711 (0.712, 0.721, 0.700)   \u003c- the number to beat\n"}
+,{"stream_name":"stdout","time":2844.361190601,"data":"\n"}
+,{"stream_name":"stdout","time":2844.361196243,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2844.361201729,"data":"Q3  TEST-RETEST WITHIN ONE SESSION\n"}
+,{"stream_name":"stdout","time":2844.361207197,"data":"======================================================================\n"}
+,{"stream_name":"stdout","time":2844.379858059,"data":"  266 healthy subjects, 4.1 acquisitions each\n"}
+,{"stream_name":"stdout","time":2844.379880936,"data":"  within-subject SD of the gap: 1.98 y\n"}
+,{"stream_name":"stdout","time":2844.379886941,"data":"  between-subject SD:           12.54 y\n"}
+,{"stream_name":"stdout","time":2844.379892709,"data":"  reliability:                  0.994\n"}
+,{"stream_name":"stderr","time":2844.381049725,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":2844.381085376,"data":"  File \"/kaggle/src/script.py\", line 429, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":2844.381544359,"data":"    main()\n"}
+,{"stream_name":"stderr","time":2844.381698148,"data":"  File \"/kaggle/src/script.py\", line 420, in main\n"}
+,{"stream_name":"stderr","time":2844.382010849,"data":"    np.savez(f\"{OUT}/results.npz\", **res, gap=per.values.astype(float),\n"}
+,{"stream_name":"stderr","time":2844.382244548,"data":"                                              ^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":2844.382255482,"data":"ValueError: could not convert string to float: 'OAS1_0001'\n"}
+,{"stream_name":"stderr","time":2849.726538374,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":2849.72658144,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":2850.013989293,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":2850.014022637,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":2850.704747056,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2852.112474349,"data":"[NbConvertApp] Writing 375233 bytes to __results__.html\n"}
+]

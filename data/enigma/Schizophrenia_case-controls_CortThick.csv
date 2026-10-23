@@ -1,0 +1,76 @@
+CorticalThickness;Structure;d_icv;se_icv;low_ci_icv;up_ci_icv;n_controls;n_patients;pobs;fdr_p
+schizophreniavsCN;L_bankssts_asy_thick.csv;0.34;0;0.28; 0.39;;;;1.44E-34
+schizophreniavsCN;L_caudalanteriorcingulate_asy_thick.csv;0.08;0;0.03;0.14;;;;8.95E-4
+schizophreniavsCN;L_caudalmiddlefrontal_asy_thick.csv;0.36;0;0.30;0.41;;;;7.69E-39
+schizophreniavsCN;L_cuneus_asy_thick.csv;0.18;0;0.13;0.24;;;;7.21E-12
+schizophreniavsCN;L_entorhinal_asy_thick.csv;0.14;0;0.09; 0.20;;;;6.38E-8
+schizophreniavsCN;L_fusiform_asy_thick.csv;0.40;0;0.34; 0.45;;;;5.42E-47
+schizophreniavsCN;L_inferiorparietal_asy_thick.csv;0.40;0;0.34; 0.45;;;;1.64E-46
+schizophreniavsCN;L_inferiortemporal_asy_thick.csv;0.39;0;0.34; 0.45;;;;5.61E-46
+schizophreniavsCN;L_isthmuscingulate_asy_thick.csv;0.23;0;0.17; 0.28;;;;4.86E-17
+schizophreniavsCN;L_lateraloccipital_asy_thick.csv;0.32;0;0.27;0.38;;;;1.00E-31
+schizophreniavsCN;L_lateralorbitofrontal_asy_thick.csv;0.34;0;0.28; 0.39;;;;2.99E-34
+schizophreniavsCN;L_lingual_asy_thick.csv;0.27;0;0.21;0.32;;;;1.29E-22
+schizophreniavsCN;L_medialorbitofrontal_asy_thick.csv;0.19;0;0.13;0.24;;;;2.64E-12
+schizophreniavsCN;L_middletemporal_asy_thick.csv;0.42;0;0.36;0.47;;;;5.52E-52
+schizophreniavsCN;L_parahippocampal_asy_thick.csv;0.16;0;0.11;0.22;;;;1.52E-9
+schizophreniavsCN;L_paracentral_asy_thick.csv;0.27;0;0.22;0.33;;;;1.09E-23
+schizophreniavsCN;L_parsopercularis_asy_thick.csv;0.36;0;0.31;0.41;;;;3.04E-39
+schizophreniavsCN;L_parsorbitalis_asy_thick.csv;0.30;0;0.24;0.35;;;;1.26E-27
+schizophreniavsCN;L_parstriangularis_asy_thick.csv;0.32;0;0.27;0.38;;;;3.01E-32
+schizophreniavsCN;L_pericalcarine_asy_thick.csv;0.06;0;0.01;0.12;;;;6.55E-3
+schizophreniavsCN;L_postcentral_asy_thick.csv;0.35;0;0.29;0.40;;;;1.63E-36
+schizophreniavsCN;L_posteriorcingulate_asy_thick.csv;0.28;0;0.22;0.33;;;;6.90E-24
+schizophreniavsCN;L_precentral_asy_thick.csv;0.35;0;0.29;0.40;;;;5.88E-37
+schizophreniavsCN;L_precuneus_asy_thick.csv;0.32;0;0.26; 0.37;;;;4.82E-31
+schizophreniavsCN;L_rostralanteriorcingulate_asy_thick.csv;0.12;0;0.07; 0.18;;;;2.27E-6
+schizophreniavsCN;L_rostralmiddlefrontal_asy_thick.csv;0.33;0;0.27;0.38;;;;5.59E-33
+schizophreniavsCN;L_superiorfrontal_asy_thick.csv;0.38;0;0.33;0.43;;;;3.22E-43
+schizophreniavsCN;L_superiorparietal_asy_thick.csv;0.27;0;0.22;0.33;;;;3.02E-23
+schizophreniavsCN;L_superiortemporal_asy_thick.csv;0.40;0;0.35;0.45;;;;1.20E-47
+schizophreniavsCN;L_supramarginal_asy_thick.csv;0.43;0;0.38;0.49;;;;4.77E-55
+schizophreniavsCN;L_frontalpole_asy_thick.csv;0.19;0;0.13;0.24;;;;5.16E-12
+schizophreniavsCN;L_temporalpole_asy_thick.csv;0.20;0;0.15;0.25;;;;1.18E-13
+schizophreniavsCN;L_transversetemporal_asy_thick.csv;0.25;0;0.20;0.31;;;;2.50E-20
+schizophreniavsCN;L_insula_asy_thick.csv;0.37;0;0.32;0.43;;;;1.32E-41
+schizophreniavsCN;R_bankssts_asy_thick.csv;0.33;0;0.28;0.39;;;;7.72E-34
+schizophreniavsCN;R_caudalanteriorcingulate_asy_thick.csv;0.14;0;0.08;0.19;;;;1.56E-7
+schizophreniavsCN;R_caudalmiddlefrontal_asy_thick.csv;0.33;0;0.27;0.38;;;;8.93E-33
+schizophreniavsCN;R_cuneus_asy_thick.csv;0.21;0;0.16; 0.26;;;;8.96E-15
+schizophreniavsCN;R_entorhinal_asy_thick.csv;0.11;0;0.06;0.16;;;;1.84E-5
+schizophreniavsCN;R_fusiform_asy_thick.csv;0.42;0;0.36;0.47;;;;4.64E-51
+schizophreniavsCN;R_inferiorparietal_asy_thick.csv;0.36;0;0.30; 0.41;;;;1.02E-38
+schizophreniavsCN;R_inferiortemporal_asy_thick.csv;0.38;0;0.32; 0.43;;;;9.58E-43
+schizophreniavsCN;R_isthmuscingulate_asy_thick.csv;0.22;0;0.16; 0.27;;;;8.22E-16
+schizophreniavsCN;R_lateraloccipital_asy_thick.csv;0.31;0;0.26; 0.37;;;;3.71E-30
+schizophreniavsCN;R_lateralorbitofrontal_asy_thick.csv;0.29;0;0.24;0.35;;;;5.36E-27
+schizophreniavsCN;R_lingual_asy_thick.csv;0.29;0;0.24; 0.35;;;;8.45E-27
+schizophreniavsCN;R_medialorbitofrontal_asy_thick.csv;0.20;0;0.15;0.26;;;;3.69E-14
+schizophreniavsCN;R_middletemporal_asy_thick.csv;0.38;0;0.33;0.44;;;;1.16E-43
+schizophreniavsCN;R_parahippocampal_asy_thick.csv;0.17;0;0.11;0.22;;;;6.70E-10
+schizophreniavsCN;R_paracentral_asy_thick.csv;0.25;0;0.20;0.30;;;;5.31E-20
+schizophreniavsCN;R_parsopercularis_asy_thick.csv;0.40;0;0.35; 0.46;;;;8.08E-48
+schizophreniavsCN;R_parsorbitalis_asy_thick.csv;0.28;0;0.23;0.34;;;;3.72E-25
+schizophreniavsCN;R_parstriangularis_asy_thick.csv;0.33;0;0.28;0.39;;;;4.97E-34
+schizophreniavsCN;R_pericalcarine_asy_thick.csv;0.06;0;0.01; 0.12;;;;6.87E-3
+schizophreniavsCN;R_postcentral_asy_thick.csv;0.31;0;0.25;0.36;;;;6.59E-29
+schizophreniavsCN;R_posteriorcingulate_asy_thick.csv;0.26;0;0.20;0.31;;;;4.50E-21
+schizophreniavsCN;R_precentral_asy_thick.csv;0.32;0;0.27;0.38;;;;8.23E-32
+schizophreniavsCN;R_precuneus_asy_thick.csv;0.29;0;0.24;0.35;;;;1.91E-26
+schizophreniavsCN;R_rostralanteriorcingulate_asy_thick.csv;0.12;0;0.07;0.18;;;;3.46E-6
+schizophreniavsCN;R_rostralmiddlefrontal_asy_thick.csv;0.32;0;0.26;0.37;;;;7.03E-31
+schizophreniavsCN;R_superiorfrontal_asy_thick.csv;0.35;0;0.30;0.41;;;;1.57E-37
+schizophreniavsCN;R_superiorparietal_asy_thick.csv;0.28;0;0.22;0.33;;;;6.31E-24
+schizophreniavsCN;R_superiortemporal_asy_thick.csv;0.41;0;0.36; 0.47;;;;1.30E-50
+schizophreniavsCN;R_supramarginal_asy_thick.csv;0.39;0;0.34;0.45;;;;6.06E-46
+schizophreniavsCN;R_frontalpole_asy_thick.csv;0.18;0;0.13;0.23;;;;2.18E-11
+schizophreniavsCN;R_temporalpole_asy_thick.csv;0.20;0;0.14;0.25;;;;2.45E-13
+schizophreniavsCN;R_transversetemporal_asy_thick.csv;0.26;0;0.20;0.31;;;;2.77E-21
+schizophreniavsCN;R_insula_asy_thick.csv;0.35;0;0.30;0.40;;;;2.95E-37
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

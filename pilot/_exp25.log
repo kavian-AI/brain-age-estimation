@@ -1,0 +1,48 @@
+scans with predictions: 3,286  subjects: 1,132
+stage A agreement (all visits):
+  Hippocampus      r = 0.584
+  Entorhinal       r = 0.443
+  Fusiform         r = 0.524
+  MidTemp          r = 0.564
+  Ventricles       r = 0.920
+  WholeBrain       r = 0.617
+  ICV              r = 0.644
+
+==========================================================================
+T1  AD vs CN   n=621 (neg 441, pos 180)
+==========================================================================
+                                  gap   profile   volumes+age
+  TRUE volumes                  0.925     0.933         0.953
+  PRED volumes                  0.809     0.814         0.824
+  recovered by the image                                86.4%
+
+==========================================================================
+T2  MCI vs CN   n=880 (neg 441, pos 439)
+==========================================================================
+                                  gap   profile   volumes+age
+  TRUE volumes                  0.767     0.780         0.791
+  PRED volumes                  0.678     0.661         0.686
+  recovered by the image                                86.7%
+
+==========================================================================
+T3  AD vs MCI (age-matched)   n=356 (neg 178, pos 178)
+==========================================================================
+                                  gap   profile   volumes+age
+  TRUE volumes                  0.663     0.746         0.751
+  PRED volumes                  0.659     0.658         0.649
+  recovered by the image                                86.4%
+
+==========================================================================
+T4  MCI -> dementia, landmark L=2.0 y
+==========================================================================
+  n=203, conversions after 2.0 y = 123
+  TRUE gap value              C = 0.639
+  TRUE gap RATE               C = 0.681
+  TRUE value + RATE           C = 0.712
+  TRUE hippocampus RATE       C = 0.644
+  PRED gap value              C = 0.576
+  PRED gap RATE               C = 0.604
+  PRED value + RATE           C = 0.636
+  PRED hippocampus RATE       C = 0.620
+
+saved -> C:\Users\Sibetalaee\Desktop\PhD\Brain Age Estimation\pilot\exp25_predicted.npz

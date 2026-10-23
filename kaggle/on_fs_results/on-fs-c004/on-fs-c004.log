@@ -1,0 +1,15 @@
+[{"stream_name":"stdout","time":0.915048553,"data":"PART 4 scans 58\n"}
+,{"stream_name":"stdout","time":2.829753436,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":74.800808219,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":14546.72558717,"data":"chunk 1/5: 12/12 ok, 14464s (1205.3s/scan), total 12/58, elapsed 4.04 h\n"}
+,{"stream_name":"stdout","time":28601.722281606,"data":"chunk 2/5: 12/12 ok, 14055s (1171.2s/scan), total 24/58, elapsed 7.94 h\n"}
+,{"stream_name":"stdout","time":43019.784104501,"data":"chunk 3/5: 12/12 ok, 14418s (1201.5s/scan), total 36/58, elapsed 11.95 h\n"}
+,{"stream_name":"stdout","time":43019.784154077,"data":"time budget reached, stopping\n"}
+,{"stream_name":"stdout","time":43019.784162762,"data":"finished: 36 rows, 11.95 h\n"}
+,{"stream_name":"stderr","time":43022.599093261,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":43022.599161167,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":43022.946908499,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":43022.946960141,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":43023.90383092,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":43025.264607366,"data":"[NbConvertApp] Writing 318211 bytes to __results__.html\n"}
+]

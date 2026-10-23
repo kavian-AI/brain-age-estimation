@@ -1,0 +1,114 @@
+participant_id	gender	age	handedness	dx	iq_measure	full4_iq	qc_rest_1	qc_rest_2	qc_rest_3	qc_anatomical_1
+23000	Female	10.42	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Pass	Pass	Pass
+23001	Male	9.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	96	Pass	Pass	Pass	Pass
+23002	Male	10.67	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	136	Pass	Questionable	Questionable	Questionable
+23003	Male	7.67	Right	ADHD-Hyperactive/Impulsive	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Pass	Pass
+23004	Male	9.33	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	103.8	Pass	Pass	Questionable	Pass
+23005	Male	11.75	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Pass	Pass	Pass
+23006	Female	9.25	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	114	Pass	Pass	Pass	Pass
+23007	Male	11.08	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Questionable	Questionable	Pass
+23008	Male	9.17	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Pass	Questionable	Pass
+23010	Female	7.67	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	118	Pass	Pass	Pass	Pass
+23011	Male	8.92	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Pass	Pass	Pass
+23012	Female	11.33	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Pass	Pass	Pass
+23013	Male	10.58	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	94	Pass	Pass	Pass	Pass
+23016	Female	10.25	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	143.7	Pass	Pass	Pass	Pass
+23017	Female	12.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Pass	Pass	Pass
+23018	Female	9.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	100	Pass	Pass	Pass	Pass
+23019	Female	8.08	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	132	Pass	Pass	Questionable	Pass
+23020	Male	11	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	122	Pass	Pass	Pass	Pass
+23024	Female	9.58	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	98	Pass	Questionable	Questionable	Pass
+23025	Female	8.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	98	Pass	Pass	Questionable	Pass
+23026	Female	8.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	106	Pass	Pass	Pass	Pass
+23027	Male	11.58	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	100	Pass	Pass	Pass	Pass
+23028	Female	9.92	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	117.1	Pass	Pass	Pass	Pass
+23030	Male	8.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Questionable	Questionable	Pass
+23031	Male	11.92	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Pass	Pass
+23033	Female	8.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Pass	Questionable	Pass
+23035	Male	9.75	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	105.7	Pass	Pass	Pass	Pass
+23036	Female	9.75	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	128	Pass	Pass	Questionable	Questionable
+23037	Male	9.42	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	108	Pass	Pass	Pass	Questionable
+23038	Male	9.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	124	Pass	Pass	Questionable	Pass
+23039	Male	11.17	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	114	Pass	Pass	Pass	Pass
+23040	Female	7.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Pass	Pass
+23041	Female	9.92	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	128.5	Pass	Pass	Pass	Questionable
+23042	Female	8.08	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	98	Pass	Pass	Pass	Pass
+1084283	Male	11	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	110	Questionable	Pass	Pass	Pass
+1084884	Female	9.42	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	106	Pass	Pass	Pass	Pass
+1108916	Male	8.5	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	116	Pass	Pass	Pass	Pass
+1206380	Male	9.17	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	90	Pass	Pass	Pass	Pass
+1340333	Female	7.42	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	98	Pass	Pass	Pass	Pass
+1386056	Male	8	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	134	Pass	Pass	Pass	Pass
+1411223	Male	9.17	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Pass	Pass	Pass
+1418396	Male	8.67	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	98	Pass	Pass	Questionable	Pass
+1421489	Male	8.75	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	118	Pass	Pass	Pass	Pass
+1481430	Male	11.92	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	116	Pass	Pass	Pass	Pass
+1502229	Female	8.58	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Pass	Pass	Pass
+1536593	Female	8.58	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	136	Pass	Pass	Pass	Pass
+1548937	Male	11.17	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Pass	Pass
+1552181	Female	9.83	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Questionable	Pass
+1647968	Female	11	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	92	Pass	Pass	Pass	Pass
+1664335	Female	9	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	144	Pass	Pass	Pass	Pass
+1679142	Male	10.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	130	Pass	Pass	Pass	Pass
+1696588	Female	8.75	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Pass	Pass	Pass
+1743472	Male	8.75	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	100	Pass	Pass	Pass	Pass
+2054310	Male	8.42	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	110	Pass	Pass	Pass	Pass
+2054998	Female	7.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	108	Pass	Pass	Pass	Pass
+2071989	Male	8.25	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	132	Questionable	Questionable	Questionable	Questionable
+2124248	Female	9.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	128	Pass	Pass	Questionable	Questionable
+2155356	Female	9.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	124	Pass	Pass	Pass	Pass
+2232376	Female	10.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	110	Pass	Pass	Pass	Pass
+2232413	Male	9.17	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Pass	Pass	Pass
+2288903	Male	7.42	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Pass	Questionable	Pass
+2292940	Male	8	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	90	Questionable	Questionable	Questionable	Pass
+2409220	Male	7.67	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	128	Pass	Pass	Pass	Pass
+2415970	Male	8.58	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Pass	Pass	Pass
+2426523	Female	7.92	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Questionable	Questionable	Pass
+2427434	Female	8.08	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	137	Pass	Pass	Pass	Pass
+2455205	Male	7.5	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	86	Pass	Pass	Pass	Pass
+2535204	Male	8.42	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	116	Questionable	Questionable	Questionable	Pass
+2559559	Male	7.92	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	98	Pass	Pass	Pass	Pass
+2561174	Male	8.67	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	98	Pass	Pass	Pass	Pass
+2571197	Male	7.67	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	102	Questionable	Questionable	Questionable	Pass
+2578455	Female	9.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Pass	Questionable	Questionable
+2620872	Male	8.92	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	90	Questionable	Questionable	Pass	Pass
+2790141	Female	9	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Pass	Pass	Pass
+2845989	Female	7.67	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	102	Pass	Pass	Pass	Pass
+2920716	Male	7.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Questionable	Questionable	Questionable	Pass
+2929195	Male	9.58	Right	ADHD-Hyperactive/Impulsive	Wechsler Abbreviated Scale of Intelligence (WASI)	124	Questionable	Questionable	Questionable	Pass
+2947936	Male	8.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	124	Pass	Pass	Pass	Pass
+2959809	Female	9.08	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	100	Pass	Questionable	Questionable	Pass
+3048401	Female	11.58	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	110	Pass	Pass	Questionable	Pass
+3051944	Male	11.75	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	100	Pass	Pass	Pass	Pass
+3052540	Male	9.17	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	114	Pass	Pass	Pass	Pass
+3162671	Male	8.5	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	136	Pass	Pass	Pass	Pass
+3206978	Female	8.25	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	122	Questionable	Pass	Pass	Pass
+3212875	Female	8.67	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	134	Pass	Pass	Pass	Pass
+3244985	Male	7.17	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	116	Pass	Pass	Pass	Questionable
+3286474	Female	8.08	Right	ADHD-Hyperactive/Impulsive	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Questionable	Questionable	Pass
+3302025	Male	9	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Pass	Pass	Pass
+3358877	Female	8.5	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	108	Pass	Questionable	Questionable	Pass
+3466651	Male	8.08	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	108	Pass	Pass	Pass	Pass
+3470141	Male	8.5	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Questionable	Questionable	Questionable	Pass
+3560456	Female	7.83	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Questionable	Questionable	Questionable	Pass
+3652932	Male	7.67	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	86	Pass	Pass	Pass	Pass
+3677724	Male	8.75	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	96	Pass	Pass	Questionable	Pass
+3684229	Female	8.83	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	120	Pass	Pass	Pass	Pass
+3812101	Female	7.83	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Pass	Pass	Pass
+3848511	Female	8.08	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	132	Questionable	Questionable	Questionable	Questionable
+3869075	Male	8.67	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Questionable	Pass
+3899622	Female	8.25	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	112	Pass	Pass	Questionable	Questionable
+4016887	Male	9.08	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Pass	Pass
+4046678	Female	8.58	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	132	Questionable	Pass	Questionable	Pass
+4072305	Female	9.25	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	106	Pass	Pass	Pass	Pass
+4103874	Female	7.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	108	Pass	Pass	Pass	Pass
+4219416	Female	8.25	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	114	Pass	Pass	Pass	Pass
+4529116	Female	8.42	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	116	Pass	Pass	Pass	Questionable
+5302451	Male	11.33	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	114	Pass	Pass	Pass	Pass
+6592761	Male	7.58	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	140	Pass	Pass	Pass	Pass
+6953386	Male	11.83	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	132	Pass	Pass	Pass	Pass
+7333005	Male	9	Right	ADHD-Combined	Wechsler Abbreviated Scale of Intelligence (WASI)	108	Pass	Pass	Pass	Pass
+8064456	Female	9.25	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	118	Pass	Pass	Pass	Pass
+8218392	Male	8.33	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	104	Pass	Pass	Pass	Pass
+8720244	Female	10.33	Right	ADHD-Inattentive	Wechsler Abbreviated Scale of Intelligence (WASI)	82	Pass	Pass	Pass	Pass
+9499804	Male	8.17	Right	Typically Developing Children	Wechsler Abbreviated Scale of Intelligence (WASI)	126	Pass	Pass	Pass	Pass

@@ -1,0 +1,50 @@
+dataset,site,subject,scan,age,primary,cat12_iqr,iqr_fail,bad_site
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-619614013878,obhb__619614013878,40.0,True,3.05016029916192,True,False
+openbhb_s2,OpenBHB s2 site20,openbhb_s2:sub-610598919254,obhb__610598919254,35.58,True,3.1022742960089,True,False
+openbhb_s1,OpenBHB s1 other sites,openbhb_s1:sub-428749095291,obhb__428749095291,23.0,True,3.0807935712188304,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-167010474107,obhb__167010474107,28.0,True,3.44073859426281,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-666694788584,obhb__666694788584,41.0,True,3.1458127984731097,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-222716353013,obhb__222716353013,25.0,True,3.08878131187056,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-342263404069,obhb__342263404069,25.0,True,3.05399170739663,True,False
+openbhb_s3,OpenBHB s3 site18,openbhb_s3:sub-992939872393,obhb__992939872393,24.0,True,3.08265819635392,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-145200850196,obhb__145200850196,23.0,True,3.4000420914322502,True,False
+openbhb_s3,OpenBHB s3 other sites,openbhb_s3:sub-250777583312,obhb__250777583312,22.0,True,3.25167458400248,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-303933482994,obhb__303933482994,21.0,True,3.16831191921709,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-594451160548,obhb__594451160548,21.0,True,3.187084464808,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-997004175200,obhb__997004175200,21.0,True,3.0699182864061805,True,False
+openbhb_s6,OpenBHB s6 site52,openbhb_s6:sub-426134424341,obhb__426134424341,18.0,True,3.20504250605412,True,False
+openbhb_s1,OpenBHB s1 site63,openbhb_s1:sub-149787481275,obhb__149787481275,17.2,True,3.49445285054131,True,False
+openbhb_s1,OpenBHB s1 site64,openbhb_s1:sub-613461549236,obhb__613461549236,16.6,True,3.46828531774312,True,False
+openbhb_s1,OpenBHB s1 site63,openbhb_s1:sub-480049755463,obhb__480049755463,15.5,True,3.0095295117896605,True,False
+openbhb_s1,OpenBHB s1 site64,openbhb_s1:sub-521804912208,obhb__521804912208,14.9,True,3.0757600203752897,True,False
+openbhb_s1,OpenBHB s1 site64,openbhb_s1:sub-482425230708,obhb__482425230708,13.8,True,3.31684134694736,True,False
+openbhb_s1,OpenBHB s1 site64,openbhb_s1:sub-994644446441,obhb__994644446441,13.3,True,3.34681499515743,True,False
+openbhb_s1,OpenBHB s1 other sites,openbhb_s1:sub-815491283103,obhb__815491283103,13.0,True,3.38216088809169,True,False
+openbhb_s1,OpenBHB s1 site51,openbhb_s1:sub-494562255867,obhb__494562255867,12.9,True,3.05182044748703,True,False
+openbhb_s1,OpenBHB s1 other sites,openbhb_s1:sub-329078446221,obhb__329078446221,12.9,True,3.2100879951952703,True,False
+openbhb_s1,OpenBHB s1 other sites,openbhb_s1:sub-461789283926,obhb__461789283926,12.66,True,3.57563650818886,True,False
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-565908100162,obhb__565908100162,12.4298,True,2.72046641357867,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-309024406654,obhb__309024406654,12.3477,True,2.44180663875391,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-784746686469,obhb__784746686469,12.2546,True,2.78908913289212,False,True
+openbhb_s1,OpenBHB s1 site63,openbhb_s1:sub-467372457395,obhb__467372457395,12.2,True,3.1996838489137405,True,False
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-213073713974,obhb__213073713974,11.8816,True,3.03824350265697,True,True
+openbhb_s1,OpenBHB s1 site60,openbhb_s1:sub-404646362299,obhb__404646362299,11.55,True,3.0768052045225494,True,False
+openbhb_s1,OpenBHB s1 site60,openbhb_s1:sub-671682598086,obhb__671682598086,10.96,True,3.06293537026847,True,False
+openbhb_s2,OpenBHB s2 site41,openbhb_s2:sub-924175266771,obhb__924175266771,10.541,True,3.4553691094289,True,False
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-924333698510,obhb__924333698510,11.178,True,3.13504885035595,True,True
+openbhb_s1,OpenBHB s1 site41,openbhb_s1:sub-158853476060,obhb__158853476060,10.69,True,3.48214272827412,True,False
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-427009086482,obhb__427009086482,10.2218,True,2.9546265999306103,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-319982702208,obhb__319982702208,9.7201,True,3.42121632089961,True,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-714454703838,obhb__714454703838,9.5202,True,2.96490349715867,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-447558225957,obhb__447558225957,9.3149,True,2.83391064385504,False,True
+openbhb_s2,OpenBHB s2 other sites,openbhb_s2:sub-985675086687,obhb__985675086687,9.270362765,True,3.28748323291516,True,False
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-538129865393,obhb__538129865393,9.2081,True,2.6729529622581603,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-812837651289,obhb__812837651289,9.1068,True,2.30033016205855,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-250511855843,obhb__250511855843,8.9747,True,2.68697507043249,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-804610978249,obhb__804610978249,8.9363,True,2.9824133559028194,False,True
+openbhb_s1,OpenBHB s1 site41,openbhb_s1:sub-335532350239,obhb__335532350239,8.9,True,3.09119243714967,True,False
+openbhb_s2,OpenBHB s2 site16,openbhb_s2:sub-737846253072,obhb__737846253072,8.745205479,True,3.25669338834584,True,False
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-786291754095,obhb__786291754095,8.3313,True,3.16525754460104,True,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-893818760027,obhb__893818760027,8.2656,True,2.62471219849494,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-557547190042,obhb__557547190042,8.2464,True,2.9320832032017203,False,True
+openbhb_s1,OpenBHB s1 site53,openbhb_s1:sub-326546999502,obhb__326546999502,7.7502,True,2.45431866814418,False,True

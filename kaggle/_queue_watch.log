@@ -1,0 +1,1706 @@
+start: done 0 of 6226 | running {'on-fs-c001': 'mohammadparsakavian', 'on-fs-c002': 'mohammadparsakavian', 'on-fs-c003': 'mohammadparsakavian', 'on-fs-c004': 'mohammadparsakavian', 'on-fs-c005': 'mohammadparsakavian'}
+10-12 22:30 mohammadparsakavian push on-fs-g007 refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-12 22:30 kavianasli pushed on-fs-g008 760 scans (GPU)
+10-12 22:31 kavianasli pushed on-fs-g009 760 scans (GPU)
+10-12 22:32 kavianasli pushed on-fs-c010 58 scans (CPU)
+10-12 22:33 kavianasli pushed on-fs-c011 58 scans (CPU)
+10-12 22:34 kavianasli pushed on-fs-c012 58 scans (CPU)
+10-12 22:35 kavianasli pushed on-fs-c013 58 scans (CPU)
+10-12 22:36 kavianasli pushed on-fs-c014 58 scans (CPU)
+start: done 0 of 6720 | running {'on-fs-c001': 'mohammadparsakavian', 'on-fs-c002': 'mohammadparsakavian', 'on-fs-c003': 'mohammadparsakavian', 'on-fs-c004': 'mohammadparsakavian', 'on-fs-c005': 'mohammadparsakavian', 'on-fs-g008': 'kavianasli', 'on-fs-g009': 'kavianasli', 'on-fs-c010': 'kavianasli', 'on-fs-c011': 'kavianasli', 'on-fs-c012': 'kavianasli', 'on-fs-c013': 'kavianasli', 'on-fs-c014': 'kavianasli'}
+start: done 0 of 7592 | running {'on-fs-c001': 'mohammadparsakavian', 'on-fs-c002': 'mohammadparsakavian', 'on-fs-c003': 'mohammadparsakavian', 'on-fs-c004': 'mohammadparsakavian', 'on-fs-c005': 'mohammadparsakavian', 'on-fs-g008': 'kavianasli', 'on-fs-g009': 'kavianasli', 'on-fs-c010': 'kavianasli', 'on-fs-c011': 'kavianasli', 'on-fs-c012': 'kavianasli', 'on-fs-c013': 'kavianasli', 'on-fs-c014': 'kavianasli'}
+10-13 00:37 mohammadparsakavian push on-fs-g015 refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-13 09:06 on-fs-g008 {"status": "ERROR", "failureMessage": null}
+   done 0/7592
+10-13 09:06 on-fs-g009 {"status": "COMPLETE", "failureMessage": null}
+   done 360/7592
+10-13 09:06 mohammadparsakavian push on-fs-g016 refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-13 09:07 kavianasli pushed on-fs-g017 760 scans (GPU)
+10-13 09:08 kavianasli pushed on-fs-g018 760 scans (GPU)
+10-13 09:19 on-fs-c002 {"status": "COMPLETE", "failureMessage": null}
+   done 396/7592
+10-13 09:19 mohammadparsakavian pushed on-fs-c019 58 scans (CPU)
+10-13 09:50 on-fs-c001 {"status": "COMPLETE", "failureMessage": null}
+   done 432/7592
+10-13 09:50 mohammadparsakavian pushed on-fs-c020 58 scans (CPU)
+10-13 10:02 on-fs-c003 {"status": "COMPLETE", "failureMessage": null}
+   done 468/7592
+10-13 10:02 on-fs-c004 {"status": "COMPLETE", "failureMessage": null}
+   done 504/7592
+10-13 10:02 on-fs-c005 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 540/7592
+10-13 10:02 mohammadparsakavian pushed on-fs-c021 58 scans (CPU)
+10-13 10:03 mohammadparsakavian pushed on-fs-c022 58 scans (CPU)
+10-13 10:05 mohammadparsakavian pushed on-fs-c023 58 scans (CPU)
+10-13 10:26 on-fs-c010 {"status": "COMPLETE", "failureMessage": null}
+   done 576/7592
+10-13 10:26 kavianasli pushed on-fs-c024 58 scans (CPU)
+10-13 10:37 on-fs-c011 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 600/7592
+10-13 10:37 on-fs-c012 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 624/7592
+10-13 10:37 on-fs-c013 {"status": "COMPLETE", "failureMessage": null}
+   done 660/7592
+10-13 10:37 on-fs-c014 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 696/7592
+10-13 10:37 kavianasli pushed on-fs-c025 58 scans (CPU)
+10-13 10:39 kavianasli pushed on-fs-c026 58 scans (CPU)
+10-13 10:40 kavianasli pushed on-fs-c027 58 scans (CPU)
+10-13 10:41 kavianasli pushed on-fs-c028 58 scans (CPU)
+start: done 696 of 7592 | running {'on-fs-g017': 'kavianasli', 'on-fs-g018': 'kavianasli', 'on-fs-c019': 'mohammadparsakavian', 'on-fs-c020': 'mohammadparsakavian', 'on-fs-c021': 'mohammadparsakavian', 'on-fs-c022': 'mohammadparsakavian', 'on-fs-c023': 'mohammadparsakavian', 'on-fs-c024': 'kavianasli', 'on-fs-c025': 'kavianasli', 'on-fs-c026': 'kavianasli', 'on-fs-c027': 'kavianasli', 'on-fs-c028': 'kavianasli'}
+10-13 11:09 mohammadparsakavian push on-fs-g029 refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-13 13:12 mohammadparsakavian push on-fs-g030 refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+start: done 696 of 7592 | running {'on-fs-g017': 'kavianasli', 'on-fs-g018': 'kavianasli', 'on-fs-c019': 'mohammadparsakavian', 'on-fs-c020': 'mohammadparsakavian', 'on-fs-c021': 'mohammadparsakavian', 'on-fs-c022': 'mohammadparsakavian', 'on-fs-c023': 'mohammadparsakavian', 'on-fs-c024': 'kavianasli', 'on-fs-c025': 'kavianasli', 'on-fs-c026': 'kavianasli', 'on-fs-c027': 'kavianasli', 'on-fs-c028': 'kavianasli'}
+10-13 14:34 mohammadparsakavian push on-fs-t031 TpuV5E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 14:34 mohammadparsakavian push on-fs-t031 TpuV6E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 14:34 kavianasli pushed on-fs-t032 900 scans (TPU)
+start: done 696 of 7592 | running {'on-fs-g017': 'kavianasli', 'on-fs-g018': 'kavianasli', 'on-fs-c019': 'mohammadparsakavian', 'on-fs-c020': 'mohammadparsakavian', 'on-fs-c021': 'mohammadparsakavian', 'on-fs-c022': 'mohammadparsakavian', 'on-fs-c023': 'mohammadparsakavian', 'on-fs-c024': 'kavianasli', 'on-fs-c025': 'kavianasli', 'on-fs-c026': 'kavianasli', 'on-fs-c027': 'kavianasli', 'on-fs-c028': 'kavianasli', 'on-fs-t032': 'kavianasli'}
+10-13 15:16 mohammadparsakavian push on-fs-g033  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-13 16:36 mohammadparsakavian push on-fs-t034 TpuV5E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 16:36 mohammadparsakavian push on-fs-t034 TpuV6E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 17:18 mohammadparsakavian push on-fs-g035  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+Fatal Python error: preconfig_init_utf8_mode: invalid PYTHONUTF8 environment variable value
+Python runtime state: preinitializing
+
+start: done 696 of 7592 | running {'on-fs-g017': 'kavianasli', 'on-fs-g018': 'kavianasli', 'on-fs-c019': 'mohammadparsakavian', 'on-fs-c020': 'mohammadparsakavian', 'on-fs-c021': 'mohammadparsakavian', 'on-fs-c022': 'mohammadparsakavian', 'on-fs-c023': 'mohammadparsakavian', 'on-fs-c024': 'kavianasli', 'on-fs-c025': 'kavianasli', 'on-fs-c026': 'kavianasli', 'on-fs-c027': 'kavianasli', 'on-fs-c028': 'kavianasli', 'on-fs-t032': 'kavianasli'}
+10-13 18:38 mohammadparsakavian push on-fs-t036 TpuV5E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 18:38 mohammadparsakavian push on-fs-t036 TpuV6E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 18:48 on-fs-g017 {"status": "COMPLETE", "failureMessage": null}
+   done 1044/7592
+10-13 18:48 on-fs-g018 {"status": "COMPLETE", "failureMessage": null}
+   done 1416/7592
+10-13 18:48 kavianasli push on-fs-g037  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-13 19:22 mohammadparsakavian push on-fs-g038  refused: Maximum weekly GPU quota of 30.00 hours reached.
+start: done 1237 of 7592 | running {'on-fs-c019': 'mohammadparsakavian', 'on-fs-c020': 'mohammadparsakavian', 'on-fs-c021': 'mohammadparsakavian', 'on-fs-c022': 'mohammadparsakavian', 'on-fs-c023': 'mohammadparsakavian', 'on-fs-c024': 'kavianasli', 'on-fs-c025': 'kavianasli', 'on-fs-c026': 'kavianasli', 'on-fs-c027': 'kavianasli', 'on-fs-c028': 'kavianasli', 'on-fs-t032': 'kavianasli'}
+10-13 20:44 mohammadparsakavian push on-fs-t039 TpuV5E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 20:44 mohammadparsakavian push on-fs-t039 TpuV6E8 refused: Maximum batch CPU session count of 5 reached.
+10-13 20:55 kavianasli push on-fs-g040  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-13 21:25 on-fs-c019 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 1261/7592
+10-13 21:25 mohammadparsakavian push on-fs-g041  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-13 21:35 on-fs-c023 {"status": "COMPLETE", "failureMessage": null}
+   done 1297/7592
+10-13 21:35 mohammadparsakavian pushed on-fs-c042 40 scans (CPU)
+10-13 21:57 on-fs-c020 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 1329/7592
+10-13 21:57 mohammadparsakavian pushed on-fs-c043 40 scans (CPU)
+10-13 22:08 on-fs-c021 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 1377/7592
+10-13 22:08 on-fs-c022 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 1408/7592
+10-13 22:08 on-fs-c028 {"status": "COMPLETE", "failureMessage": null}
+   done 1452/7592
+10-13 22:08 mohammadparsakavian pushed on-fs-c044 40 scans (CPU)
+10-13 22:09 mohammadparsakavian pushed on-fs-c045 40 scans (CPU)
+10-13 22:20 on-fs-c024 {"status": "COMPLETE", "failureMessage": null}
+   done 1483/7592
+10-13 22:20 kavianasli pushed on-fs-c046 40 scans (CPU)
+10-13 22:42 on-fs-c025 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 1518/7592
+10-13 22:42 on-fs-c026 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 1542/7592
+10-13 22:42 on-fs-c027 {"status": "CANCEL_ACKNOWLEDGED", "failureMessage": null}
+   done 1564/7592
+10-13 22:42 kavianasli pushed on-fs-c047 40 scans (CPU)
+10-13 22:43 kavianasli pushed on-fs-c048 40 scans (CPU)
+10-13 22:44 kavianasli pushed on-fs-c049 40 scans (CPU)
+10-13 22:55 mohammadparsakavian pushed on-fs-t050 900 scans (TPU)
+10-13 22:56 kavianasli push on-fs-g051  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-14 00:08 mohammadparsakavian push on-fs-g052  refused: Maximum weekly GPU quota of 30.00 hours reached.
+start: done 1564 of 7592 | running {'on-fs-c042': 'mohammadparsakavian', 'on-fs-c043': 'mohammadparsakavian', 'on-fs-c044': 'mohammadparsakavian', 'on-fs-c045': 'mohammadparsakavian', 'on-fs-c046': 'kavianasli', 'on-fs-c047': 'kavianasli', 'on-fs-c048': 'kavianasli', 'on-fs-c049': 'kavianasli', 'on-fs-t050': 'mohammadparsakavian'}
+10-14 00:09 kavianasli pushed on-fs-t053 900 scans (TPU)
+10-14 01:01 kavianasli push on-fs-g054  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 02:12 mohammadparsakavian push on-fs-g055  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 03:03 kavianasli push on-fs-g056  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 04:14 mohammadparsakavian push on-fs-g057  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 05:05 kavianasli push on-fs-g058  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 06:16 mohammadparsakavian push on-fs-g059  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-14 08:31 mohammadparsakavian push on-fs-g060  refused: no response
+10-14 08:31 kavianasli push on-fs-g061  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 08:41 on-fs-c042 {"status": "COMPLETE", "failureMessage": null}
+   done 1604/7592
+10-14 08:41 on-fs-c043 {"status": "COMPLETE", "failureMessage": null}
+   done 1637/7592
+10-14 08:41 on-fs-c046 {"status": "COMPLETE", "failureMessage": null}
+   done 1670/7592
+10-14 08:41 on-fs-t050 {"status": "COMPLETE", "failureMessage": null}
+   done 1696/7592
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-14 08:43 mohammadparsakavian pushed on-fs-t062 900 scans (TPU)
+10-14 08:44 mohammadparsakavian pushed on-fs-c063 40 scans (CPU)
+10-14 08:45 mohammadparsakavian pushed on-fs-c064 40 scans (CPU)
+10-14 08:46 kavianasli pushed on-fs-c065 40 scans (CPU)
+10-14 08:57 on-fs-c044 {"status": "COMPLETE", "failureMessage": null}
+   done 1723/7592
+10-14 08:57 on-fs-c045 {"status": "COMPLETE", "failureMessage": null}
+   done 1753/7592
+10-14 08:57 on-fs-c048 {"status": "COMPLETE", "failureMessage": null}
+   done 1783/7592
+10-14 08:57 mohammadparsakavian pushed on-fs-c066 40 scans (CPU)
+10-14 08:58 mohammadparsakavian pushed on-fs-c067 40 scans (CPU)
+10-14 08:59 kavianasli pushed on-fs-c068 40 scans (CPU)
+10-14 09:10 on-fs-c047 {"status": "COMPLETE", "failureMessage": null}
+   done 1816/7592
+10-14 09:11 kavianasli pushed on-fs-c069 40 scans (CPU)
+10-14 09:32 on-fs-c049 {"status": "COMPLETE", "failureMessage": null}
+   done 1852/7592
+10-14 09:32 kavianasli pushed on-fs-c070 40 scans (CPU)
+start: done 1852 of 7592 | running {'on-fs-t062': 'mohammadparsakavian', 'on-fs-c063': 'mohammadparsakavian', 'on-fs-c064': 'mohammadparsakavian', 'on-fs-c065': 'kavianasli', 'on-fs-c066': 'mohammadparsakavian', 'on-fs-c067': 'mohammadparsakavian', 'on-fs-c068': 'kavianasli', 'on-fs-c069': 'kavianasli', 'on-fs-c070': 'kavianasli'}
+10-14 09:56 mohammadparsakavian push on-fs-c071  refused: Maximum batch CPU session count of 5 reached.
+10-14 09:56 kavianasli pushed on-fs-c072 40 scans (CPU)
+start: done 1852 of 7592 | running {'on-fs-t062': 'mohammadparsakavian', 'on-fs-c063': 'mohammadparsakavian', 'on-fs-c064': 'mohammadparsakavian', 'on-fs-c065': 'kavianasli', 'on-fs-c066': 'mohammadparsakavian', 'on-fs-c067': 'mohammadparsakavian', 'on-fs-c068': 'kavianasli', 'on-fs-c069': 'kavianasli', 'on-fs-c070': 'kavianasli', 'on-fs-c072': 'kavianasli'}
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-14 10:36 mohammadparsakavian push on-fs-g073  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 10:36 mohammadparsakavian push on-fs-c074  refused: Maximum batch CPU session count of 5 reached.
+10-14 10:36 kavianasli push on-fs-g075  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 11:07 mohammadparsakavian push on-fs-c076  refused: Maximum batch CPU session count of 5 reached.
+10-14 17:34 on-fs-t062 {"status": "COMPLETE", "failureMessage": null}
+   done 1880/7592
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-14 17:39 mohammadparsakavian push on-fs-g077  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 17:39 mohammadparsakavian pushed on-fs-c078 40 scans (CPU)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-14 17:46 kavianasli push on-fs-g079  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 18:17 on-fs-c063 {"status": "COMPLETE", "failureMessage": null}
+   done 1920/7592
+10-14 18:18 mohammadparsakavian pushed on-fs-c080 40 scans (CPU)
+start: done 1920 of 7592 | running {'on-fs-c064': 'mohammadparsakavian', 'on-fs-c065': 'kavianasli', 'on-fs-c066': 'mohammadparsakavian', 'on-fs-c067': 'mohammadparsakavian', 'on-fs-c068': 'kavianasli', 'on-fs-c069': 'kavianasli', 'on-fs-c070': 'kavianasli', 'on-fs-c072': 'kavianasli', 'on-fs-c078': 'mohammadparsakavian', 'on-fs-c080': 'mohammadparsakavian'}
+10-14 19:14 on-fs-c065 {"status": "COMPLETE", "failureMessage": null}
+   done 1953/7592
+10-14 19:15 kavianasli pushed on-fs-c081 40 scans (CPU)
+10-14 19:26 on-fs-c064 {"status": "COMPLETE", "failureMessage": null}
+   done 1989/7592
+10-14 19:26 on-fs-c066 {"status": "COMPLETE", "failureMessage": null}
+   done 2019/7592
+10-14 19:26 on-fs-c068 {"status": "COMPLETE", "failureMessage": null}
+   done 2052/7592
+10-14 19:26 mohammadparsakavian pushed on-fs-c082 40 scans (CPU)
+10-14 19:28 mohammadparsakavian pushed on-fs-c083 40 scans (CPU)
+10-14 19:29 kavianasli pushed on-fs-c084 40 scans (CPU)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-14 19:49 mohammadparsakavian push on-fs-g085  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-14 19:50 kavianasli push on-fs-g086  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 20:00 on-fs-c067 {"status": "COMPLETE", "failureMessage": null}
+   done 2088/7592
+10-14 20:00 on-fs-c069 {"status": "COMPLETE", "failureMessage": null}
+   done 2124/7592
+10-14 20:01 on-fs-c070 {"status": "COMPLETE", "failureMessage": null}
+   done 2154/7592
+10-14 20:01 mohammadparsakavian pushed on-fs-c087 40 scans (CPU)
+10-14 20:02 kavianasli pushed on-fs-c088 40 scans (CPU)
+10-14 20:03 kavianasli pushed on-fs-c089 40 scans (CPU)
+10-14 20:25 on-fs-c072 {"status": "COMPLETE", "failureMessage": null}
+   done 2187/7592
+10-14 20:26 kavianasli pushed on-fs-c090 40 scans (CPU)
+10-14 21:50 mohammadparsakavian push on-fs-g091  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-14 22:02 kavianasli push on-fs-g092  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-14 23:58 mohammadparsakavian push on-fs-g093  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 00:14 kavianasli push on-fs-g094  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 02:04 mohammadparsakavian push on-fs-g095  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 02:15 kavianasli push on-fs-g096  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 04:13 mohammadparsakavian push on-fs-g097  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 04:25 kavianasli push on-fs-g098  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 04:35 on-fs-c078 {"status": "COMPLETE", "failureMessage": null}
+   done 2217/7592
+10-15 04:35 on-fs-c080 {"status": "COMPLETE", "failureMessage": null}
+   done 2256/7592
+10-15 04:36 mohammadparsakavian pushed on-fs-c099 40 scans (CPU)
+10-15 04:37 mohammadparsakavian pushed on-fs-c100 40 scans (CPU)
+10-15 04:48 on-fs-c082 {"status": "COMPLETE", "failureMessage": null}
+   done 2296/7592
+10-15 04:49 mohammadparsakavian pushed on-fs-c101 40 scans (CPU)
+10-15 05:00 on-fs-c084 {"status": "COMPLETE", "failureMessage": null}
+   done 2336/7592
+10-15 05:00 kavianasli pushed on-fs-c102 40 scans (CPU)
+10-15 05:32 on-fs-c083 {"status": "COMPLETE", "failureMessage": null}
+   done 2366/7592
+10-15 05:33 mohammadparsakavian pushed on-fs-c103 40 scans (CPU)
+10-15 06:05 on-fs-c081 {"status": "COMPLETE", "failureMessage": null}
+   done 2396/7592
+10-15 06:06 kavianasli pushed on-fs-c104 40 scans (CPU)
+10-15 06:17 on-fs-c087 {"status": "COMPLETE", "failureMessage": null}
+   done 2429/7592
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-15 06:19 mohammadparsakavian push on-fs-g105  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 06:19 mohammadparsakavian pushed on-fs-c106 40 scans (CPU)
+10-15 06:30 on-fs-c088 {"status": "COMPLETE", "failureMessage": null}
+   done 2459/7592
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 06:32 kavianasli push on-fs-g107  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 06:32 kavianasli pushed on-fs-c108 40 scans (CPU)
+10-15 06:54 on-fs-c089 {"status": "COMPLETE", "failureMessage": null}
+   done 2492/7592
+10-15 06:55 kavianasli pushed on-fs-c109 40 scans (CPU)
+10-15 07:06 on-fs-c090 {"status": "COMPLETE", "failureMessage": null}
+   done 2522/7592
+10-15 07:07 kavianasli pushed on-fs-c110 40 scans (CPU)
+10-15 08:21 mohammadparsakavian push on-fs-g111  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 08:44 kavianasli push on-fs-g112  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 10:35 mohammadparsakavian push on-fs-g113  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 10:46 kavianasli push on-fs-g114  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 12:42 mohammadparsakavian push on-fs-g115  refused: Maximum weekly GPU quota of 30.00 hours reached.
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 12:54 kavianasli push on-fs-g116  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 14:28 on-fs-c099 {"status": "COMPLETE", "failureMessage": null}
+   done 2552/7592
+10-15 14:29 mohammadparsakavian pushed on-fs-c117 40 scans (CPU)
+10-15 14:40 on-fs-c100 {"status": "COMPLETE", "failureMessage": null}
+   done 2582/7592
+10-15 14:41 mohammadparsakavian pushed on-fs-c118 40 scans (CPU)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+  retry: JSONDecodeError Expecting value: line 1 column 1 (char 0)
+10-15 14:56 mohammadparsakavian push on-fs-g119  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 14:56 kavianasli push on-fs-g120  refused: Maximum weekly GPU quota of 30.00 hours reached.
+10-15 15:06 on-fs-c102 {"status": "COMPLETE", "failureMessage": null}
+   done 2612/7592
+10-15 15:07 kavianasli pushed on-fs-c121 40 scans (CPU)
+10-15 15:18 on-fs-c103 {"status": "COMPLETE", "failureMessage": null}
+   done 2652/7592
+10-15 15:18 mohammadparsakavian pushed on-fs-c122 40 scans (CPU)
+10-15 15:29 on-fs-c101 {"status": "COMPLETE", "failureMessage": null}
+   done 2682/7592
+10-15 15:30 mohammadparsakavian pushed on-fs-c123 40 scans (CPU)
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-15 16:35 on-fs-c104 {"status": "COMPLETE", "failureMessage": null}
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+   done 2712/7592
+10-15 16:52 on-fs-c108 {"status": "COMPLETE", "failureMessage": null}
+   done 2742/7592
+10-15 16:54 kavianasli pushed on-fs-c124 40 scans (CPU)
+10-15 16:56 kavianasli pushed on-fs-c125 40 scans (CPU)
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-15 17:50 on-fs-c110 {"status": "COMPLETE", "failureMessage": null}
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='www.kaggleusercontent.com', port=443): Max retries exceeded with url: /kf/
+  retry: ProxyError HTTPSConnectionPool(host='www.kaggleusercontent.com', port=443): Max retries exceeded with url: /kf/
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+   done 2742/7592
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 02:26 mohammadparsakavian push on-fs-g126  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 02:37 kavianasli push on-fs-g127  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 02:47 kavianasli push on-fs-c128  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 04:41 mohammadparsakavian push on-fs-g129  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 04:51 kavianasli push on-fs-g130  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 05:01 kavianasli push on-fs-c131  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 06:55 mohammadparsakavian push on-fs-g132  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 07:05 kavianasli push on-fs-g133  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 07:15 kavianasli push on-fs-c134  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 09:09 mohammadparsakavian push on-fs-g135  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 09:19 kavianasli push on-fs-g136  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 09:29 kavianasli push on-fs-c137  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 11:23 mohammadparsakavian push on-fs-g138  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 11:33 kavianasli push on-fs-g139  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 11:44 kavianasli push on-fs-c140  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 13:37 mohammadparsakavian push on-fs-g141  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 13:47 kavianasli push on-fs-g142  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 13:58 kavianasli push on-fs-c143  refused: no response
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ConnectionError ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by t
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 14:20 on-fs-c109 {"status": "COMPLETE", "failureMessage": null}
+   done 2772/7592
+10-17 14:21 on-fs-c117 {"status": "COMPLETE", "failureMessage": null}
+   done 2802/7592
+10-17 14:21 on-fs-c118 {"status": "COMPLETE", "failureMessage": null}
+   done 2838/7592
+10-17 14:21 on-fs-c121 {"status": "COMPLETE", "failureMessage": null}
+   done 2868/7592
+10-17 14:21 on-fs-c122 {"status": "COMPLETE", "failureMessage": null}
+   done 2901/7592
+10-17 14:22 on-fs-c123 {"status": "COMPLETE", "failureMessage": null}
+   done 2928/7592
+10-17 14:22 on-fs-c124 {"status": "COMPLETE", "failureMessage": null}
+   done 2961/7592
+10-17 14:22 on-fs-c125 {"status": "COMPLETE", "failureMessage": null}
+   done 3001/7592
+10-17 14:22 mohammadparsakavian pushed on-fs-c144 40 scans (CPU)
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 14:24 mohammadparsakavian pushed on-fs-c145 40 scans (CPU)
+10-17 14:25 mohammadparsakavian pushed on-fs-c146 40 scans (CPU)
+10-17 14:26 mohammadparsakavian pushed on-fs-c147 40 scans (CPU)
+10-17 14:37 on-fs-c106 {"status": "COMPLETE", "failureMessage": null}
+   done 3037/7592
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ConnectionError ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by t
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-17 14:42 mohammadparsakavian pushed on-fs-c148 40 scans (CPU)
+10-17 14:43 kavianasli pushed on-fs-c149 40 scans (CPU)
+start: done 3037 of 7592 | running {'on-fs-c144': 'mohammadparsakavian', 'on-fs-c145': 'mohammadparsakavian', 'on-fs-c146': 'mohammadparsakavian', 'on-fs-c147': 'mohammadparsakavian', 'on-fs-c148': 'mohammadparsakavian', 'on-fs-c149': 'kavianasli'}
+10-17 14:44 mohammadparsakavian pushed on-fs-g150 760 scans (GPU)
+10-17 14:45 mohammadparsakavian pushed on-fs-g151 760 scans (GPU)
+10-17 14:46 kavianasli pushed on-fs-g152 760 scans (GPU)
+10-17 14:47 kavianasli pushed on-fs-g153 760 scans (GPU)
+10-17 14:48 kavianasli pushed on-fs-c154 40 scans (CPU)
+10-17 14:49 kavianasli pushed on-fs-c155 40 scans (CPU)
+10-17 14:50 kavianasli pushed on-fs-c156 40 scans (CPU)
+10-17 14:51 kavianasli pushed on-fs-c157 40 scans (CPU)
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: ProxyError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-18 02:15 on-fs-c145 {"status": "COMPLETE", "failureMessage": null}
+   done 3067/7592
+10-18 02:15 on-fs-c146 {"status": "COMPLETE", "failureMessage": null}
+   done 3094/7592
+10-18 02:15 on-fs-c147 {"status": "COMPLETE", "failureMessage": null}
+   done 3130/7592
+10-18 02:15 on-fs-c148 {"status": "COMPLETE", "failureMessage": null}
+   done 3160/7592
+10-18 02:15 on-fs-c149 {"status": "COMPLETE", "failureMessage": null}
+   done 3196/7592
+10-18 02:15 on-fs-g150 {"status": "COMPLETE", "failureMessage": null}
+   done 3956/7592
+10-18 02:15 on-fs-g151 {"status": "COMPLETE", "failureMessage": null}
+   done 4716/7592
+10-18 02:15 on-fs-g152 {"status": "COMPLETE", "failureMessage": null}
+   done 5476/7592
+10-18 02:15 on-fs-g153 {"status": "COMPLETE", "failureMessage": null}
+   done 6236/7592
+10-18 02:15 on-fs-c154 {"status": "COMPLETE", "failureMessage": null}
+   done 6272/7592
+10-18 02:15 on-fs-c155 {"status": "COMPLETE", "failureMessage": null}
+   done 6308/7592
+10-18 02:15 on-fs-c156 {"status": "COMPLETE", "failureMessage": null}
+   done 6341/7592
+10-18 02:16 on-fs-c157 {"status": "COMPLETE", "failureMessage": null}
+   done 6377/7592
+10-18 02:16 mohammadparsakavian pushed on-fs-g158 760 scans (GPU)
+10-18 02:17 mohammadparsakavian pushed on-fs-g159 415 scans (GPU)
+10-18 02:28 on-fs-c144 {"status": "COMPLETE", "failureMessage": null}
+   done 6407/7592
+10-18 02:28 mohammadparsakavian pushed on-fs-c160 10 scans (CPU)
+10-18 05:50 on-fs-c160 {"status": "COMPLETE", "failureMessage": null}
+   done 6417/7592
+10-18 06:00 on-fs-g159 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 06:00 mohammadparsakavian pushed on-fs-g161 2 scans (GPU)
+10-18 06:11 on-fs-g161 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 06:11 mohammadparsakavian pushed on-fs-g162 2 scans (GPU)
+10-18 06:22 on-fs-g162 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 06:22 mohammadparsakavian pushed on-fs-g163 2 scans (GPU)
+10-18 06:33 on-fs-g163 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 06:33 mohammadparsakavian pushed on-fs-g164 2 scans (GPU)
+10-18 06:44 on-fs-g164 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 06:45 mohammadparsakavian pushed on-fs-g165 2 scans (GPU)
+10-18 06:56 on-fs-g165 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 06:56 mohammadparsakavian pushed on-fs-g166 2 scans (GPU)
+10-18 07:07 on-fs-g166 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 07:07 mohammadparsakavian pushed on-fs-g167 2 scans (GPU)
+10-18 07:18 on-fs-g167 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 07:18 mohammadparsakavian pushed on-fs-g168 2 scans (GPU)
+10-18 07:29 on-fs-g168 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 07:29 mohammadparsakavian pushed on-fs-g169 2 scans (GPU)
+10-18 07:40 on-fs-g169 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 07:40 mohammadparsakavian pushed on-fs-g170 2 scans (GPU)
+10-18 07:51 on-fs-g170 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 07:51 mohammadparsakavian pushed on-fs-g171 2 scans (GPU)
+10-18 08:02 on-fs-g171 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 08:02 mohammadparsakavian pushed on-fs-g172 2 scans (GPU)
+10-18 08:13 on-fs-g172 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 08:14 mohammadparsakavian pushed on-fs-g173 2 scans (GPU)
+10-18 08:25 on-fs-g173 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 08:25 mohammadparsakavian pushed on-fs-g174 2 scans (GPU)
+10-18 08:36 on-fs-g174 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 08:36 mohammadparsakavian pushed on-fs-g175 2 scans (GPU)
+10-18 08:47 on-fs-g175 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 08:47 mohammadparsakavian pushed on-fs-g176 2 scans (GPU)
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-18 14:48 on-fs-g176 {"status": "COMPLETE", "failureMessage": null}
+   done 6830/7592
+10-18 14:48 mohammadparsakavian pushed on-fs-g177 2 scans (GPU)
+10-18 14:59 on-fs-g158 {"status": "COMPLETE", "failureMessage": null}
+   done 7579/7592
+10-18 14:59 on-fs-g177 {"status": "COMPLETE", "failureMessage": null}
+   done 7579/7592
+10-18 14:59 mohammadparsakavian pushed on-fs-g178 13 scans (GPU)
+10-18 15:10 on-fs-g178 {"status": "ERROR", "failureMessage": null}
+   done 7579/7592
+10-18 15:10 mohammadparsakavian pushed on-fs-g179 13 scans (GPU)
+start: done 7579 of 7590 | running {'on-fs-g179': 'mohammadparsakavian'}
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+  retry: SSLError HTTPSConnectionPool(host='api.kaggle.com', port=443): Max retries exceeded with url: /v1/kernels.Ker
+10-18 18:46 on-fs-g179 {"status": "COMPLETE", "failureMessage": null}
+   done 7590/7590
+watcher exit; done 7590

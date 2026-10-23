@@ -1,0 +1,56 @@
+loading vit_small ...
+  vit_small: pretrained OK, dim 384
+loading resnet50 ...
+  resnet50: pretrained OK, dim 2048
+loading convnext_tiny ...
+  convnext_tiny: pretrained OK, dim 768
+
+members: 9072  (baseline only: True)
+  25 scans  1.2 min (2.80 s/scan)
+  50 scans  2.2 min (2.64 s/scan)
+  75 scans  3.2 min (2.53 s/scan)
+  100 scans  4.1 min (2.48 s/scan)
+  125 scans  5.1 min (2.46 s/scan)
+  150 scans  6.1 min (2.45 s/scan)
+  175 scans  7.3 min (2.49 s/scan)
+  200 scans  8.4 min (2.53 s/scan)
+  225 scans  10.0 min (2.68 s/scan)
+  250 scans  12.1 min (2.90 s/scan)
+  275 scans  14.2 min (3.10 s/scan)
+  300 scans  16.2 min (3.25 s/scan)
+  325 scans  18.3 min (3.37 s/scan)
+  350 scans  20.3 min (3.49 s/scan)
+  375 scans  22.4 min (3.58 s/scan)
+  400 scans  24.3 min (3.64 s/scan)
+  425 scans  26.2 min (3.70 s/scan)
+  450 scans  28.1 min (3.74 s/scan)
+  475 scans  30.0 min (3.79 s/scan)
+  500 scans  32.2 min (3.87 s/scan)
+  525 scans  34.5 min (3.95 s/scan)
+  550 scans  36.6 min (3.99 s/scan)
+  575 scans  38.6 min (4.03 s/scan)
+  600 scans  40.7 min (4.07 s/scan)
+  625 scans  43.0 min (4.13 s/scan)
+  650 scans  45.1 min (4.17 s/scan)
+  675 scans  47.5 min (4.22 s/scan)
+  700 scans  50.0 min (4.29 s/scan)
+  725 scans  52.0 min (4.31 s/scan)
+  750 scans  54.2 min (4.34 s/scan)
+  775 scans  56.2 min (4.35 s/scan)
+  800 scans  58.4 min (4.38 s/scan)
+  825 scans  60.6 min (4.41 s/scan)
+  850 scans  62.8 min (4.43 s/scan)
+  875 scans  65.0 min (4.45 s/scan)
+  900 scans  67.4 min (4.49 s/scan)
+  925 scans  69.8 min (4.53 s/scan)
+  950 scans  72.2 min (4.56 s/scan)
+  975 scans  74.4 min (4.58 s/scan)
+  1000 scans  77.5 min (4.65 s/scan)
+  1025 scans  80.0 min (4.68 s/scan)
+  1050 scans  82.2 min (4.70 s/scan)
+
+cached 1064 scans, 935 subjects
+  vit_small: (1064, 384)
+  resnet50: (1064, 2048)
+  convnext_tiny: (1064, 768)
+saved -> C:\Users\Sibetalaee\Desktop\PhD\Brain Age Estimation\pilot\adni_frozen_feats.npz

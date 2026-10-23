@@ -1,0 +1,81 @@
+[{"stream_name":"stdout","time":11.423750924,"data":"device: cuda Tesla T4\n"}
+,{"stream_name":"stdout","time":20.488247547,"data":"csv: /kaggle/input/datasets/veeresh04/adnimerge/ADNIMERGE_05Mar2026.csv\n"}
+,{"stream_name":"stdout","time":20.488312324,"data":"volumes on disk: 9072\n"}
+,{"stream_name":"stdout","time":30.023677415,"data":"  loaded 200 (10s)\n"}
+,{"stream_name":"stdout","time":39.512091629,"data":"  loaded 400 (19s)\n"}
+,{"stream_name":"stdout","time":49.088833114,"data":"  loaded 600 (29s)\n"}
+,{"stream_name":"stdout","time":58.550835599,"data":"  loaded 800 (38s)\n"}
+,{"stream_name":"stdout","time":68.011545981,"data":"  loaded 1000 (48s)\n"}
+,{"stream_name":"stdout","time":71.145845876,"data":"\n"}
+,{"stream_name":"stdout","time":71.145887243,"data":"baselines: 931  {'CN': 392, 'MCI': 382, 'Dementia': 157}\n"}
+,{"stream_name":"stdout","time":71.145891995,"data":"volume (64, 64, 64), 0.24 GB uint8\n"}
+,{"stream_name":"stdout","time":71.146181522,"data":"age 50-91, mean 73.0\n"}
+,{"stream_name":"stdout","time":71.19351777,"data":"\n"}
+,{"stream_name":"stdout","time":71.193558657,"data":"========================================================================\n"}
+,{"stream_name":"stdout","time":71.193566162,"data":"AD vs CN   n=549  (CN 392, Dementia 157)\n"}
+,{"stream_name":"stdout","time":71.193572499,"data":"========================================================================\n"}
+,{"stream_name":"stdout","time":323.838209135,"data":"  seed 0 fold 0 done\n"}
+,{"stream_name":"stdout","time":574.73445328,"data":"  seed 0 fold 1 done\n"}
+,{"stream_name":"stdout","time":830.829066657,"data":"  seed 0 fold 2 done\n"}
+,{"stream_name":"stdout","time":1085.509259362,"data":"  seed 0 fold 3 done\n"}
+,{"stream_name":"stdout","time":1341.580575832,"data":"  seed 0 fold 4 done\n"}
+,{"stream_name":"stdout","time":1596.704374771,"data":"  seed 1 fold 0 done\n"}
+,{"stream_name":"stdout","time":1853.323965918,"data":"  seed 1 fold 1 done\n"}
+,{"stream_name":"stdout","time":2114.435079635,"data":"  seed 1 fold 2 done\n"}
+,{"stream_name":"stdout","time":2374.291624495,"data":"  seed 1 fold 3 done\n"}
+,{"stream_name":"stdout","time":2630.99426038,"data":"  seed 1 fold 4 done\n"}
+,{"stream_name":"stdout","time":2883.255617523,"data":"  seed 2 fold 0 done\n"}
+,{"stream_name":"stdout","time":3136.28679691,"data":"  seed 2 fold 1 done\n"}
+,{"stream_name":"stdout","time":3392.193687924,"data":"  seed 2 fold 2 done\n"}
+,{"stream_name":"stdout","time":3647.286247403,"data":"  seed 2 fold 3 done\n"}
+,{"stream_name":"stdout","time":3901.437340789,"data":"  seed 2 fold 4 done\n"}
+,{"stream_name":"stdout","time":3901.560728692,"data":"\n"}
+,{"stream_name":"stdout","time":3901.560762927,"data":"  tabular brain-age gap              AUC = 0.926  (0.924, 0.926, 0.928)\n"}
+,{"stream_name":"stdout","time":3901.560769498,"data":"  CNN brain-age gap                  AUC = 0.491  (0.474, 0.496, 0.503)\n"}
+,{"stream_name":"stdout","time":3901.560774596,"data":"  CNN features + age                 AUC = 0.519  (0.517, 0.522, 0.518)\n"}
+,{"stream_name":"stdout","time":3901.560779702,"data":"  CNN direct to disease              AUC = 0.507  (0.501, 0.519, 0.502)\n"}
+,{"stream_name":"stdout","time":3901.560784722,"data":"  CNN age-pretrained, fine-tuned     AUC = 0.507  (0.512, 0.507, 0.504)\n"}
+,{"stream_name":"stdout","time":3901.560789492,"data":"  volumes+ICV+sex+age  \u003c- to beat    AUC = 0.953  (0.951, 0.953, 0.955)\n"}
+,{"stream_name":"stdout","time":3901.560794887,"data":"  volumes+age + CNN features         AUC = 0.934  (0.938, 0.942, 0.921)\n"}
+,{"stream_name":"stdout","time":3901.560799615,"data":"\n"}
+,{"stream_name":"stdout","time":3901.560819038,"data":"  does the image ADD to volumes? -0.019\n"}
+,{"stream_name":"stdout","time":3901.560823197,"data":"  pretraining gain (finetune - direct): +0.000\n"}
+,{"stream_name":"stdout","time":3901.624250139,"data":"\n"}
+,{"stream_name":"stdout","time":3901.624292368,"data":"========================================================================\n"}
+,{"stream_name":"stdout","time":3901.624297147,"data":"MCI vs CN  (earlier, harder)   n=774  (CN 392, MCI 382)\n"}
+,{"stream_name":"stdout","time":3901.62430162,"data":"========================================================================\n"}
+,{"stream_name":"stdout","time":4219.385755615,"data":"  seed 0 fold 0 done\n"}
+,{"stream_name":"stdout","time":4535.59793278,"data":"  seed 0 fold 1 done\n"}
+,{"stream_name":"stdout","time":4850.572027039,"data":"  seed 0 fold 2 done\n"}
+,{"stream_name":"stdout","time":5166.94346209,"data":"  seed 0 fold 3 done\n"}
+,{"stream_name":"stdout","time":5481.357099977,"data":"  seed 0 fold 4 done\n"}
+,{"stream_name":"stdout","time":5796.576346737,"data":"  seed 1 fold 0 done\n"}
+,{"stream_name":"stdout","time":6112.878779894,"data":"  seed 1 fold 1 done\n"}
+,{"stream_name":"stdout","time":6428.694944284,"data":"  seed 1 fold 2 done\n"}
+,{"stream_name":"stdout","time":6743.971642251,"data":"  seed 1 fold 3 done\n"}
+,{"stream_name":"stdout","time":7059.612105162,"data":"  seed 1 fold 4 done\n"}
+,{"stream_name":"stdout","time":7377.598910706,"data":"  seed 2 fold 0 done\n"}
+,{"stream_name":"stdout","time":7693.996765779,"data":"  seed 2 fold 1 done\n"}
+,{"stream_name":"stdout","time":8010.833091767,"data":"  seed 2 fold 2 done\n"}
+,{"stream_name":"stdout","time":8327.376068882,"data":"  seed 2 fold 3 done\n"}
+,{"stream_name":"stdout","time":8643.509293403,"data":"  seed 2 fold 4 done\n"}
+,{"stream_name":"stdout","time":8643.668930013,"data":"\n"}
+,{"stream_name":"stdout","time":8643.669019813,"data":"  tabular brain-age gap              AUC = 0.762  (0.762, 0.760, 0.762)\n"}
+,{"stream_name":"stdout","time":8643.66910533,"data":"  CNN brain-age gap                  AUC = 0.481  (0.462, 0.494, 0.486)\n"}
+,{"stream_name":"stdout","time":8643.669114999,"data":"  CNN features + age                 AUC = 0.510  (0.508, 0.510, 0.512)\n"}
+,{"stream_name":"stdout","time":8643.669120205,"data":"  CNN direct to disease              AUC = 0.529  (0.534, 0.518, 0.534)\n"}
+,{"stream_name":"stdout","time":8643.669153891,"data":"  CNN age-pretrained, fine-tuned     AUC = 0.518  (0.511, 0.517, 0.525)\n"}
+,{"stream_name":"stdout","time":8643.669232776,"data":"  volumes+ICV+sex+age  \u003c- to beat    AUC = 0.786  (0.788, 0.785, 0.784)\n"}
+,{"stream_name":"stdout","time":8643.669240004,"data":"  volumes+age + CNN features         AUC = 0.666  (0.645, 0.689, 0.665)\n"}
+,{"stream_name":"stdout","time":8643.669314024,"data":"\n"}
+,{"stream_name":"stdout","time":8643.669326521,"data":"  does the image ADD to volumes? -0.119\n"}
+,{"stream_name":"stdout","time":8643.671725131,"data":"  pretraining gain (finetune - direct): -0.011\n"}
+,{"stream_name":"stdout","time":8643.696752706,"data":"\n"}
+,{"stream_name":"stdout","time":8643.696767664,"data":"saved adni_cnn_results.npz\n"}
+,{"stream_name":"stderr","time":8649.000333963,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":8649.000392548,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":8649.302488521,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":8649.302542273,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":8650.002850701,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":8651.377503701,"data":"[NbConvertApp] Writing 358451 bytes to __results__.html\n"}
+]

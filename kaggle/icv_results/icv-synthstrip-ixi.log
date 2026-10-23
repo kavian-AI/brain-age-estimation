@@ -1,0 +1,35 @@
+[{"stream_name":"stdout","time":72.277040615,"data":"pip surfa (PyPI) rc 0 \n"}
+,{"stream_name":"stdout","time":78.651486497,"data":"model bytes 30851709\n"}
+,{"stream_name":"stdout","time":80.923695031,"data":"ixi part 0 jobs 581\n"}
+,{"stream_name":"stdout","time":113.56194556,"data":"  [1/581] IXI002-Guys-0828-T1 ICV 1479 cm3 33s elapsed 0.03 h\n"}
+,{"stream_name":"stdout","time":881.148809276,"data":"  [26/581] IXI038-Guys-0729-T1 ICV 1631 cm3 31s elapsed 0.24 h\n"}
+,{"stream_name":"stdout","time":1650.247038433,"data":"  [51/581] IXI064-Guys-0743-T1 ICV 1651 cm3 31s elapsed 0.46 h\n"}
+,{"stream_name":"stdout","time":2416.137207263,"data":"  [76/581] IXI090-Guys-0800-T1 ICV 1564 cm3 31s elapsed 0.67 h\n"}
+,{"stream_name":"stdout","time":3182.566830012,"data":"  [101/581] IXI115-Guys-0738-T1 ICV 1583 cm3 31s elapsed 0.88 h\n"}
+,{"stream_name":"stdout","time":3948.263559591,"data":"  [126/581] IXI143-Guys-0785-T1 ICV 1434 cm3 31s elapsed 1.10 h\n"}
+,{"stream_name":"stdout","time":4718.276472028,"data":"  [151/581] IXI173-HH-1590-T1 ICV 1387 cm3 31s elapsed 1.31 h\n"}
+,{"stream_name":"stdout","time":5548.063553302,"data":"  [176/581] IXI200-Guys-0812-T1 ICV 1421 cm3 34s elapsed 1.54 h\n"}
+,{"stream_name":"stdout","time":6344.508644621,"data":"  [201/581] IXI228-Guys-0822-T1 ICV 1347 cm3 31s elapsed 1.76 h\n"}
+,{"stream_name":"stdout","time":7180.117142484,"data":"  [226/581] IXI256-HH-1723-T1 ICV 1724 cm3 60s elapsed 1.99 h\n"}
+,{"stream_name":"stdout","time":7975.016618201,"data":"  [251/581] IXI286-Guys-0859-T1 ICV 1660 cm3 31s elapsed 2.22 h\n"}
+,{"stream_name":"stdout","time":8757.632986645,"data":"  [276/581] IXI312-Guys-0887-T1 ICV 1421 cm3 31s elapsed 2.43 h\n"}
+,{"stream_name":"stdout","time":9547.434557429,"data":"  [301/581] IXI338-HH-1971-T1 ICV 1270 cm3 32s elapsed 2.65 h\n"}
+,{"stream_name":"stdout","time":10339.196257761,"data":"  [326/581] IXI370-Guys-0921-T1 ICV 1476 cm3 32s elapsed 2.87 h\n"}
+,{"stream_name":"stdout","time":11157.768827425,"data":"  [351/581] IXI396-HH-2115-T1 ICV 1619 cm3 32s elapsed 3.10 h\n"}
+,{"stream_name":"stdout","time":11998.165637932,"data":"  [376/581] IXI422-Guys-1071-T1 ICV 1751 cm3 58s elapsed 3.33 h\n"}
+,{"stream_name":"stdout","time":12818.55779393,"data":"  [401/581] IXI447-Guys-0979-T1 ICV 1371 cm3 32s elapsed 3.56 h\n"}
+,{"stream_name":"stdout","time":13637.577882748,"data":"  [426/581] IXI475-IOP-1139-T1 ICV 1505 cm3 32s elapsed 3.79 h\n"}
+,{"stream_name":"stdout","time":14460.799096017,"data":"  [451/581] IXI500-Guys-1017-T1 ICV 1738 cm3 31s elapsed 4.02 h\n"}
+,{"stream_name":"stdout","time":15287.603844136,"data":"  [476/581] IXI531-Guys-1057-T1 ICV 1694 cm3 31s elapsed 4.25 h\n"}
+,{"stream_name":"stdout","time":16109.267708997,"data":"  [501/581] IXI559-HH-2394-T1 ICV 1354 cm3 32s elapsed 4.47 h\n"}
+,{"stream_name":"stdout","time":16967.985030836,"data":"  [526/581] IXI589-Guys-1080-T1 ICV 1652 cm3 32s elapsed 4.71 h\n"}
+,{"stream_name":"stdout","time":17789.823590898,"data":"  [551/581] IXI618-Guys-1091-T1 ICV 1535 cm3 32s elapsed 4.94 h\n"}
+,{"stream_name":"stdout","time":18612.016662358,"data":"  [576/581] IXI648-Guys-1107-T1 ICV 1624 cm3 31s elapsed 5.17 h\n"}
+,{"stream_name":"stdout","time":18769.79994223,"data":"finished 581 rows 5.21 h\n"}
+,{"stream_name":"stderr","time":18772.790240538,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":18772.790281818,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":18773.136870292,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":18773.136902844,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":18774.131725667,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":18775.395733123,"data":"[NbConvertApp] Writing 297948 bytes to __results__.html\n"}
+]

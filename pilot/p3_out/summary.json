@@ -1,0 +1,13 @@
+{
+ "n_people": 1471,
+ "sites": {
+  "DLBS Philips 3T": 464,
+  "IXI Philips 1.5T": 295,
+  "ADNI FreeSurfer 1.5T": 204,
+  "ADNI FreeSurfer 3T": 195,
+  "IXI Philips 3T": 173,
+  "OASIS-2 Siemens 1.5T": 72,
+  "IXI GE 1.5T": 68
+ },
+ "oasis_repeat_pairs": 150
+}

@@ -1,0 +1,9 @@
+MCI->dementia, landmark L=2.0y: n=203, conversions=123
+
+  arm                       TRUE  PRED(image)   recovery
+  gap value                0.642        0.572      50.5%
+  gap RATE                 0.684        0.521      11.5%
+  value + RATE             0.715        0.594      43.8%
+  hippocampus RATE         0.644        0.528      19.4%
+
+  voxel-PCA image rate (exp24) was 0.509 = chance

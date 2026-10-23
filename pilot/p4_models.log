@@ -1,0 +1,60 @@
+  hippocampus            GAUSS  CRPS 4.188%  NLL -1.083  cal 0.011  site 0.024  age 0.016  cov95 0.944  slope70 -0.54±0.02  (0s)
+  hippocampus            SHASH  CRPS 4.182%  NLL -1.090  cal 0.006  site 0.029  age 0.015  cov95 0.948  slope70 -0.54±0.02  (7s)
+  hippocampus            QR     CRPS 4.202%  NLL +nan  cal 0.004  site 0.015  age 0.010  cov95 0.935  slope70 -0.53±0.02  (12s)
+  hippocampus            MLP    CRPS 4.169%  NLL -1.083  cal 0.012  site 0.025  age 0.022  cov95 0.946  slope70 -0.42±0.02  (23s)
+  hippocampus            GBM    CRPS 4.336%  NLL -1.009  cal 0.012  site 0.033  age 0.015  cov95 0.923  slope70 -0.29±1.06  (7s)
+  hippocampus            GPR    CRPS 4.399%  NLL -0.997  cal 0.011  site 0.099  age 0.045  cov95 0.952  slope70 -0.35±0.03  (46s)
+  entorhinal             GAUSS  CRPS 6.545%  NLL -0.617  cal 0.009  site 0.033  age 0.019  cov95 0.935  slope70 -0.36±0.06  (0s)
+  entorhinal             SHASH  CRPS 6.538%  NLL -0.626  cal 0.004  site 0.030  age 0.013  cov95 0.940  slope70 -0.33±0.06  (2s)
+  entorhinal             QR     CRPS 6.565%  NLL +nan  cal 0.004  site 0.016  age 0.008  cov95 0.930  slope70 -0.28±0.05  (12s)
+  entorhinal             MLP    CRPS 6.553%  NLL -0.613  cal 0.010  site 0.040  age 0.020  cov95 0.931  slope70 -0.24±0.03  (21s)
+  entorhinal             GBM    CRPS 6.867%  NLL -0.464  cal 0.011  site 0.033  age 0.016  cov95 0.911  slope70 -0.10±1.59  (3s)
+  entorhinal             GPR    CRPS 6.587%  NLL -0.596  cal 0.012  site 0.048  age 0.036  cov95 0.942  slope70 -0.29±0.07  (63s)
+  thalamus               GAUSS  CRPS 3.390%  NLL -1.264  cal 0.005  site 0.025  age 0.014  cov95 0.950  slope70 -0.60±0.02  (0s)
+  thalamus               SHASH  CRPS 3.391%  NLL -1.257  cal 0.005  site 0.029  age 0.010  cov95 0.954  slope70 -0.59±0.02  (3s)
+  thalamus               QR     CRPS 3.404%  NLL +nan  cal 0.004  site 0.024  age 0.008  cov95 0.939  slope70 -0.60±0.02  (11s)
+  thalamus               MLP    CRPS 3.424%  NLL -1.259  cal 0.006  site 0.019  age 0.056  cov95 0.954  slope70 -0.45±0.01  (20s)
+  thalamus               GBM    CRPS 3.549%  NLL -1.189  cal 0.008  site 0.043  age 0.013  cov95 0.926  slope70 -1.31±0.92  (4s)
+  thalamus               GPR    CRPS 3.838%  NLL -1.140  cal 0.004  site 0.148  age 0.024  cov95 0.955  slope70 -0.27±0.01  (48s)
+  lateral ventricles     GAUSS  CRPS 21.079%  NLL +0.552  cal 0.003  site 0.022  age 0.014  cov95 0.937  slope70 +3.71±0.10  (0s)
+  lateral ventricles     SHASH  CRPS 21.084%  NLL +0.554  cal 0.003  site 0.025  age 0.015  cov95 0.939  slope70 +3.71±0.10  (1s)
+  lateral ventricles     QR     CRPS 21.174%  NLL +nan  cal 0.004  site 0.020  age 0.011  cov95 0.933  slope70 +3.82±0.17  (13s)
+  lateral ventricles     MLP    CRPS 21.283%  NLL +0.561  cal 0.005  site 0.021  age 0.039  cov95 0.942  slope70 +2.65±0.24  (23s)
+  lateral ventricles     GBM    CRPS 21.904%  NLL +0.624  cal 0.010  site 0.029  age 0.020  cov95 0.925  slope70 +10.73±5.63  (3s)
+  lateral ventricles     GPR    CRPS 23.561%  NLL +0.660  cal 0.003  site 0.125  age 0.014  cov95 0.949  slope70 +1.70±0.23  (59s)
+  inf. lat. ventricles   GAUSS  CRPS 24.484%  NLL +0.714  cal 0.007  site 0.020  age 0.016  cov95 0.935  slope70 +4.55±0.21  (0s)
+  inf. lat. ventricles   SHASH  CRPS 24.455%  NLL +0.708  cal 0.004  site 0.028  age 0.011  cov95 0.942  slope70 +4.44±0.22  (1s)
+  inf. lat. ventricles   QR     CRPS 24.581%  NLL +nan  cal 0.005  site 0.019  age 0.012  cov95 0.930  slope70 +4.15±0.15  (13s)
+  inf. lat. ventricles   MLP    CRPS 24.703%  NLL +0.729  cal 0.007  site 0.027  age 0.026  cov95 0.933  slope70 +3.55±0.19  (29s)
+  inf. lat. ventricles   GBM    CRPS 25.459%  NLL +0.796  cal 0.008  site 0.052  age 0.019  cov95 0.925  slope70 +1.81±2.84  (4s)
+  inf. lat. ventricles   GPR    CRPS 26.455%  NLL +0.791  cal 0.009  site 0.124  age 0.024  cov95 0.942  slope70 +2.72±0.12  (49s)
+  putamen                GAUSS  CRPS 4.889%  NLL -0.904  cal 0.007  site 0.033  age 0.012  cov95 0.948  slope70 -0.31±0.02  (0s)
+  putamen                SHASH  CRPS 4.886%  NLL -0.913  cal 0.007  site 0.037  age 0.017  cov95 0.953  slope70 -0.31±0.02  (3s)
+C:\Users\Sibetalaee\Desktop\PhD\Brain Age Estimation\pilot\p4_models.py:158: IterationLimitWarning: Maximum number of iterations (5000) reached.
+  self.B = [QuantReg(y, X).fit(q=q, max_iter=5000).params for q in QS]
+  putamen                QR     CRPS 4.905%  NLL +nan  cal 0.004  site 0.021  age 0.007  cov95 0.937  slope70 -0.37±0.04  (13s)
+  putamen                MLP    CRPS 4.884%  NLL -0.902  cal 0.007  site 0.037  age 0.016  cov95 0.948  slope70 -0.25±0.01  (17s)
+  putamen                GBM    CRPS 5.126%  NLL -0.752  cal 0.010  site 0.032  age 0.015  cov95 0.920  slope70 -0.67±0.27  (3s)
+  putamen                GPR    CRPS 5.085%  NLL -0.846  cal 0.013  site 0.093  age 0.042  cov95 0.948  slope70 -0.12±0.04  (51s)
+  brainstem              GAUSS  CRPS 3.923%  NLL -1.129  cal 0.008  site 0.023  age 0.016  cov95 0.946  slope70 -0.15±0.01  (0s)
+  brainstem              SHASH  CRPS 3.922%  NLL -1.130  cal 0.003  site 0.020  age 0.013  cov95 0.950  slope70 -0.16±0.02  (3s)
+  brainstem              QR     CRPS 3.943%  NLL +nan  cal 0.004  site 0.016  age 0.009  cov95 0.937  slope70 -0.14±0.02  (10s)
+  brainstem              MLP    CRPS 3.914%  NLL -1.131  cal 0.008  site 0.038  age 0.029  cov95 0.952  slope70 -0.06±0.01  (18s)
+  brainstem              GBM    CRPS 4.102%  NLL -1.017  cal 0.013  site 0.022  age 0.017  cov95 0.912  slope70 -1.61±0.73  (4s)
+  brainstem              GPR    CRPS 3.928%  NLL -1.129  cal 0.007  site 0.027  age 0.022  cov95 0.948  slope70 +0.05±0.15  (62s)
+  precuneus              GAUSS  CRPS 4.458%  NLL -1.001  cal 0.005  site 0.017  age 0.011  cov95 0.946  slope70 -0.35±0.02  (0s)
+  precuneus              SHASH  CRPS 4.459%  NLL -1.001  cal 0.005  site 0.018  age 0.012  cov95 0.944  slope70 -0.35±0.02  (2s)
+  precuneus              QR     CRPS 4.486%  NLL +nan  cal 0.006  site 0.015  age 0.013  cov95 0.939  slope70 -0.27±0.03  (13s)
+  precuneus              MLP    CRPS 4.420%  NLL -1.007  cal 0.006  site 0.023  age 0.010  cov95 0.948  slope70 -0.32±0.01  (19s)
+  precuneus              GBM    CRPS 4.559%  NLL -0.936  cal 0.008  site 0.023  age 0.014  cov95 0.927  slope70 -0.13±0.59  (3s)
+  precuneus              GPR    CRPS 4.637%  NLL -0.961  cal 0.004  site 0.092  age 0.017  cov95 0.953  slope70 -0.11±0.02  (43s)
+
+== mean over regions ==
+       CRPS_pct     NLL  cal_err  worst_site_cal  worst_ageband_cal   cov95  slope70_sd  rank_CRPS  seconds
+model                                                                                                      
+SHASH    9.1146 -0.5943   0.0046          0.0269             0.0132  0.9464      0.0590      1.875   2.8012
+GAUSS    9.1194 -0.5914   0.0069          0.0248             0.0148  0.9427      0.0589      2.125   0.2371
+QR       9.1575     NaN   0.0045          0.0184             0.0096  0.9351      0.0622      3.750  11.8614
+MLP      9.1686 -0.5882   0.0075          0.0288             0.0272  0.9441      0.0663      2.375  21.2159
+GBM      9.4879 -0.4934   0.0101          0.0333             0.0162  0.9213      1.7047      5.375   3.9149
+GPR      9.8114 -0.5272   0.0079          0.0945             0.0280  0.9488      0.0821      5.500  52.7403

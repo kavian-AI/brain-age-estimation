@@ -1,0 +1,97 @@
+[{"stream_name":"stdout","time":1.02487344,"data":"PART 158 scans 760\n"}
+,{"stream_name":"stdout","time":2.668576666,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":57.98692281,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":69.909336331,"data":"GPUs used: 2\n"}
+,{"stream_name":"stdout","time":642.281919872,"data":"chunk 1/64: 12/12 ok, 543s (45.2s/scan), total 12/760, elapsed 0.18 h\n"}
+,{"stream_name":"stdout","time":1016.353677111,"data":"chunk 2/64: 12/12 ok, 374s (31.2s/scan), total 24/760, elapsed 0.28 h\n"}
+,{"stream_name":"stdout","time":1694.638523854,"data":"chunk 3/64: 12/12 ok, 678s (56.5s/scan), total 36/760, elapsed 0.47 h\n"}
+,{"stream_name":"stdout","time":2264.496108627,"data":"chunk 4/64: 12/12 ok, 570s (47.5s/scan), total 48/760, elapsed 0.63 h\n"}
+,{"stream_name":"stdout","time":2682.235876194,"data":"chunk 5/64: 12/12 ok, 418s (34.8s/scan), total 60/760, elapsed 0.74 h\n"}
+,{"stream_name":"stdout","time":3079.018978074,"data":"chunk 6/64: 12/12 ok, 397s (33.1s/scan), total 72/760, elapsed 0.85 h\n"}
+,{"stream_name":"stdout","time":3476.018027636,"data":"chunk 7/64: 12/12 ok, 397s (33.1s/scan), total 84/760, elapsed 0.97 h\n"}
+,{"stream_name":"stdout","time":3920.69061712,"data":"chunk 8/64: 12/12 ok, 445s (37.1s/scan), total 96/760, elapsed 1.09 h\n"}
+,{"stream_name":"stdout","time":4369.183589896,"data":"chunk 9/64: 12/12 ok, 448s (37.4s/scan), total 108/760, elapsed 1.21 h\n"}
+,{"stream_name":"stdout","time":4763.789404879,"data":"chunk 10/64: 12/12 ok, 395s (32.9s/scan), total 120/760, elapsed 1.32 h\n"}
+,{"stream_name":"stdout","time":5240.390804729,"data":"chunk 11/64: 12/12 ok, 477s (39.7s/scan), total 132/760, elapsed 1.46 h\n"}
+,{"stream_name":"stdout","time":5693.562079513,"data":"chunk 12/64: 12/12 ok, 453s (37.8s/scan), total 144/760, elapsed 1.58 h\n"}
+,{"stream_name":"stdout","time":6088.409105094,"data":"chunk 13/64: 12/12 ok, 395s (32.9s/scan), total 156/760, elapsed 1.69 h\n"}
+,{"stream_name":"stdout","time":6510.271988932,"data":"chunk 14/64: 12/12 ok, 422s (35.2s/scan), total 168/760, elapsed 1.81 h\n"}
+,{"stream_name":"stdout","time":6946.044884269,"data":"chunk 15/64: 12/12 ok, 436s (36.3s/scan), total 180/760, elapsed 1.93 h\n"}
+,{"stream_name":"stdout","time":7411.058130493,"data":"chunk 16/64: 12/12 ok, 465s (38.8s/scan), total 192/760, elapsed 2.06 h\n"}
+,{"stream_name":"stdout","time":7821.397376015,"data":"chunk 17/64: 12/12 ok, 410s (34.2s/scan), total 204/760, elapsed 2.17 h\n"}
+,{"stream_name":"stdout","time":8232.644433847,"data":"chunk 18/64: 12/12 ok, 411s (34.3s/scan), total 216/760, elapsed 2.29 h\n"}
+,{"stream_name":"stdout","time":8643.002736071,"data":"chunk 19/64: 12/12 ok, 410s (34.2s/scan), total 228/760, elapsed 2.40 h\n"}
+,{"stream_name":"stdout","time":9058.398321956,"data":"chunk 20/64: 12/12 ok, 415s (34.6s/scan), total 240/760, elapsed 2.52 h\n"}
+,{"stream_name":"stdout","time":9468.589932998,"data":"chunk 21/64: 12/12 ok, 410s (34.2s/scan), total 252/760, elapsed 2.63 h\n"}
+,{"stream_name":"stdout","time":9842.887469493,"data":"chunk 22/64: 12/12 ok, 374s (31.2s/scan), total 264/760, elapsed 2.73 h\n"}
+,{"stream_name":"stdout","time":10299.827696212,"data":"chunk 23/64: 12/12 ok, 457s (38.1s/scan), total 276/760, elapsed 2.86 h\n"}
+,{"stream_name":"stdout","time":10687.674019463,"data":"chunk 24/64: 12/12 ok, 388s (32.3s/scan), total 288/760, elapsed 2.97 h\n"}
+,{"stream_name":"stdout","time":11087.372591009,"data":"chunk 25/64: 12/12 ok, 400s (33.3s/scan), total 300/760, elapsed 3.08 h\n"}
+,{"stream_name":"stdout","time":11505.867302565,"data":"chunk 26/64: 12/12 ok, 418s (34.9s/scan), total 312/760, elapsed 3.20 h\n"}
+,{"stream_name":"stdout","time":12020.35727552,"data":"chunk 27/64: 12/12 ok, 514s (42.9s/scan), total 324/760, elapsed 3.34 h\n"}
+,{"stream_name":"stdout","time":12384.19041188,"data":"chunk 28/64: 12/12 ok, 364s (30.3s/scan), total 336/760, elapsed 3.44 h\n"}
+,{"stream_name":"stdout","time":12743.686170728,"data":"chunk 29/64: 12/12 ok, 359s (30.0s/scan), total 348/760, elapsed 3.54 h\n"}
+,{"stream_name":"stdout","time":13104.67303679,"data":"chunk 30/64: 12/12 ok, 361s (30.1s/scan), total 360/760, elapsed 3.64 h\n"}
+,{"stream_name":"stdout","time":13465.837018252,"data":"chunk 31/64: 12/12 ok, 361s (30.1s/scan), total 372/760, elapsed 3.74 h\n"}
+,{"stream_name":"stdout","time":13825.521054759,"data":"chunk 32/64: 12/12 ok, 360s (30.0s/scan), total 384/760, elapsed 3.84 h\n"}
+,{"stream_name":"stdout","time":14186.068999925,"data":"chunk 33/64: 12/12 ok, 361s (30.0s/scan), total 396/760, elapsed 3.94 h\n"}
+,{"stream_name":"stdout","time":14617.774307264,"data":"chunk 34/64: 12/12 ok, 432s (36.0s/scan), total 408/760, elapsed 4.06 h\n"}
+,{"stream_name":"stdout","time":15046.375139257,"data":"chunk 35/64: 12/12 ok, 429s (35.7s/scan), total 420/760, elapsed 4.18 h\n"}
+,{"stream_name":"stdout","time":15414.278493713,"data":"chunk 36/64: 12/12 ok, 368s (30.7s/scan), total 432/760, elapsed 4.28 h\n"}
+,{"stream_name":"stdout","time":15851.84736271,"data":"chunk 37/64: 12/12 ok, 438s (36.5s/scan), total 444/760, elapsed 4.40 h\n"}
+,{"stream_name":"stdout","time":16213.398421171,"data":"chunk 38/64: 12/12 ok, 362s (30.1s/scan), total 456/760, elapsed 4.50 h\n"}
+,{"stream_name":"stdout","time":16645.218616059,"data":"chunk 39/64: 12/12 ok, 432s (36.0s/scan), total 468/760, elapsed 4.62 h\n"}
+,{"stream_name":"stdout","time":17001.672418142,"data":"chunk 40/64: 12/12 ok, 356s (29.7s/scan), total 480/760, elapsed 4.72 h\n"}
+,{"stream_name":"stdout","time":17445.892803627,"data":"  FAIL seg ds007522__sub-HML0077__2748\n"}
+,{"stream_name":"stdout","time":17446.142289074,"data":"  FAIL seg ds007522__sub-HML0214__2750\n"}
+,{"stream_name":"stdout","time":17446.142336637,"data":"  FAIL seg ds005405__sub-084__2762\n"}
+,{"stream_name":"stdout","time":17446.510158211,"data":"  synthstrip missing ds005405__sub-084__2764: : Skull-Stripping for Any Brain Image\n"}
+,{"stream_name":"stdout","time":17446.510187401,"data":"A Hoopes, JS Mora, AV Dalca, B Fischl, M Hoffmann\n"}
+,{"stream_name":"stdout","time":17446.510193713,"data":"NeuroImage 206 (2022), 119474\n"}
+,{"stream_name":"stdout","time":17446.510198524,"data":"https://doi.org/10.1016/j.neuroimage.2022.119474\n"}
+,{"stream_name":"stdout","time":17446.51020334,"data":"\n"}
+,{"stream_name":"stdout","time":17446.510207992,"data":"Website: https://synthstrip.io\n"}
+,{"stream_name":"stdout","time":17446.510212811,"data":"\n"}
+,{"stream_name":"stdout","time":17446.51021737,"data":" RuntimeWarning: divide by zero encountered in divide\n"}
+,{"stream_name":"stdout","time":17446.510222172,"data":"RuntimeWarning: invalid value encountered in divide\n"}
+,{"stream_name":"stdout","time":17446.510226842,"data":"\n"}
+,{"stream_name":"stdout","time":17446.751699505,"data":"  FAIL seg oasis1__OAS1_0115_MR1__mpr-2\n"}
+,{"stream_name":"stdout","time":17447.229282359,"data":"chunk 41/64: 8/12 ok, 446s (37.1s/scan), total 488/760, elapsed 4.85 h\n"}
+,{"stream_name":"stdout","time":17880.846345203,"data":"chunk 42/64: 12/12 ok, 434s (36.1s/scan), total 500/760, elapsed 4.97 h\n"}
+,{"stream_name":"stdout","time":18242.679990888,"data":"chunk 43/64: 12/12 ok, 362s (30.2s/scan), total 512/760, elapsed 5.07 h\n"}
+,{"stream_name":"stdout","time":18670.523955247,"data":"chunk 44/64: 12/12 ok, 428s (35.7s/scan), total 524/760, elapsed 5.19 h\n"}
+,{"stream_name":"stdout","time":19097.913441009,"data":"chunk 45/64: 12/12 ok, 427s (35.6s/scan), total 536/760, elapsed 5.30 h\n"}
+,{"stream_name":"stdout","time":19462.66779444,"data":"chunk 46/64: 12/12 ok, 365s (30.4s/scan), total 548/760, elapsed 5.41 h\n"}
+,{"stream_name":"stdout","time":19896.595902837,"data":"chunk 47/64: 12/12 ok, 434s (36.2s/scan), total 560/760, elapsed 5.53 h\n"}
+,{"stream_name":"stdout","time":20325.913513135,"data":"chunk 48/64: 12/12 ok, 429s (35.8s/scan), total 572/760, elapsed 5.65 h\n"}
+,{"stream_name":"stdout","time":20603.848468369,"data":"  FAIL seg oasis1__OAS1_0094_MR1__mpr-2\n"}
+,{"stream_name":"stdout","time":20603.848508549,"data":"  FAIL seg oasis1__OAS1_0143_MR1__mpr-2\n"}
+,{"stream_name":"stdout","time":20603.848514344,"data":"  FAIL seg oasis1__OAS1_0438_MR1__mpr-2\n"}
+,{"stream_name":"stdout","time":20604.091927306,"data":"  FAIL seg ds007522__sub-HML0365__2927\n"}
+,{"stream_name":"stdout","time":20604.091958102,"data":"  FAIL seg ds007522__sub-HML0380__2928\n"}
+,{"stream_name":"stdout","time":20604.091963616,"data":"  FAIL seg ds007522__sub-HML0739__2929\n"}
+,{"stream_name":"stdout","time":20604.338267703,"data":"  FAIL seg ds005405__sub-145__2962\n"}
+,{"stream_name":"stdout","time":20604.338596378,"data":"chunk 49/64: 5/12 ok, 278s (23.2s/scan), total 577/760, elapsed 5.72 h\n"}
+,{"stream_name":"stdout","time":21036.195630832,"data":"chunk 50/64: 12/12 ok, 432s (36.0s/scan), total 589/760, elapsed 5.84 h\n"}
+,{"stream_name":"stdout","time":21470.42082307,"data":"chunk 51/64: 12/12 ok, 434s (36.2s/scan), total 601/760, elapsed 5.96 h\n"}
+,{"stream_name":"stdout","time":21909.070296984,"data":"chunk 52/64: 12/12 ok, 439s (36.6s/scan), total 613/760, elapsed 6.09 h\n"}
+,{"stream_name":"stdout","time":22352.268472889,"data":"chunk 53/64: 12/12 ok, 443s (36.9s/scan), total 625/760, elapsed 6.21 h\n"}
+,{"stream_name":"stdout","time":22724.707284684,"data":"chunk 54/64: 12/12 ok, 372s (31.0s/scan), total 637/760, elapsed 6.31 h\n"}
+,{"stream_name":"stdout","time":23161.911309428,"data":"chunk 55/64: 12/12 ok, 437s (36.4s/scan), total 649/760, elapsed 6.43 h\n"}
+,{"stream_name":"stdout","time":23597.374958563,"data":"chunk 56/64: 12/12 ok, 435s (36.3s/scan), total 661/760, elapsed 6.55 h\n"}
+,{"stream_name":"stdout","time":24035.982014848,"data":"chunk 57/64: 12/12 ok, 439s (36.6s/scan), total 673/760, elapsed 6.68 h\n"}
+,{"stream_name":"stdout","time":24413.690931766,"data":"chunk 58/64: 12/12 ok, 378s (31.5s/scan), total 685/760, elapsed 6.78 h\n"}
+,{"stream_name":"stdout","time":24785.908265418,"data":"chunk 59/64: 12/12 ok, 372s (31.0s/scan), total 697/760, elapsed 6.88 h\n"}
+,{"stream_name":"stdout","time":25218.640300778,"data":"chunk 60/64: 12/12 ok, 433s (36.1s/scan), total 709/760, elapsed 7.00 h\n"}
+,{"stream_name":"stdout","time":25582.926199245,"data":"chunk 61/64: 12/12 ok, 364s (30.4s/scan), total 721/760, elapsed 7.11 h\n"}
+,{"stream_name":"stdout","time":26016.081904297,"data":"chunk 62/64: 12/12 ok, 433s (36.1s/scan), total 733/760, elapsed 7.23 h\n"}
+,{"stream_name":"stdout","time":26449.003650951,"data":"chunk 63/64: 12/12 ok, 433s (36.1s/scan), total 745/760, elapsed 7.35 h\n"}
+,{"stream_name":"stdout","time":26611.156062498,"data":"chunk 64/64: 4/4 ok, 162s (40.5s/scan), total 749/760, elapsed 7.39 h\n"}
+,{"stream_name":"stdout","time":26611.15613838,"data":"finished: 749 rows, 7.39 h\n"}
+,{"stream_name":"stderr","time":26613.689364544,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":26613.6893916,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":26613.991709424,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":26613.991735525,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":26614.770240717,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":26615.863389774,"data":"[NbConvertApp] Writing 431381 bytes to __results__.html\n"}
+]

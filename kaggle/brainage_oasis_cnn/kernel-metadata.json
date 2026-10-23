@@ -1,0 +1,18 @@
+{
+  "id": "kavianasli/brainage-oasis-cnn",
+  "title": "brainage-oasis-cnn",
+  "code_file": "brainage_oasis_cnn.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "ninadaithal/imagesoasis",
+    "jboysen/mri-and-alzheimers"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

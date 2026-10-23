@@ -1,0 +1,36 @@
+members in archive: 9072
+to read: 4261
+  skipped, ADNI-GO/2 v-code, unmappable: 2913
+  skipped, no matching ADNIMERGE visit: 1898
+  500/4261  kept=500  27s  eta 203s
+  1000/4261  kept=1000  54s  eta 176s
+  1500/4261  kept=1500  79s  eta 146s
+  2000/4261  kept=2000  106s  eta 120s
+  2500/4261  kept=2500  132s  eta 93s
+  3000/4261  kept=3000  158s  eta 67s
+  3500/4261  kept=3500  185s  eta 40s
+  4000/4261  kept=4000  211s  eta 14s
+
+cached 4261 volumes x 32,768 voxels (558 MB)
+subjects: 1246
+
+visits per subject:
+1    433
+2    152
+3     72
+4    137
+5    146
+6    151
+7    118
+8     35
+9      2
+
+DX at baseline:
+DX
+MCI         560
+CN          494
+Dementia    249
+NaN           5
+
+baseline scans with full volumetrics + DX: 1062
+saved -> C:\Users\Sibetalaee\Desktop\PhD\Brain Age Estimation\pilot\adni_vox32.npz

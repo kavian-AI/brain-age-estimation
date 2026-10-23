@@ -1,0 +1,4 @@
+10:36 {"status": "RUNNING", "failureMessage": null}
+10:41 {"status": "RUNNING", "failureMessage": null}
+10:46 {"status": "COMPLETE", "failureMessage": null}
+ixi-lba-p1: fetched 284 files, 276 JSONL rows

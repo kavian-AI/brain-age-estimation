@@ -1,0 +1,188 @@
+[{"stream_name":"stdout","time":227.478284292,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 409.1/409.1 kB 1.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":231.064919163,"data":"pip: 0\n"}
+,{"stream_name":"stdout","time":246.818072801,"data":"normative model: SHASH\n"}
+,{"stream_name":"stdout","time":246.818863961,"data":"FULL POOL: 7603 healthy people, 77 sites, ages 5.9-94.0; aged 60+: 1885\n"}
+,{"stream_name":"stdout","time":246.826033391,"data":"                n  age_min  age_max   men  sites\n"}
+,{"stream_name":"stdout","time":246.826062051,"data":"dataset                                         \n"}
+,{"stream_name":"stdout","time":246.826066551,"data":"DLBS          464    21.00    89.00  0.38      1\n"}
+,{"stream_name":"stdout","time":246.826069751,"data":"IXI           536    19.98    86.32  0.42      3\n"}
+,{"stream_name":"stdout","time":246.826072841,"data":"OASIS2         72    60.00    93.00  0.31      1\n"}
+,{"stream_name":"stdout","time":246.826076121,"data":"ds003592      299    18.00    83.00  0.44      2\n"}
+,{"stream_name":"stdout","time":246.826079101,"data":"ds004711      187    16.22    81.48  0.48      1\n"}
+,{"stream_name":"stdout","time":246.826082061,"data":"ds004725       87    18.29    80.73  0.48      1\n"}
+,{"stream_name":"stdout","time":246.826084821,"data":"ds005026       30    49.00    78.00  0.33      1\n"}
+,{"stream_name":"stdout","time":246.826087851,"data":"ds005123      110    21.00    80.00  0.36      1\n"}
+,{"stream_name":"stdout","time":246.826090861,"data":"ds005270      158    20.00    86.00  0.37      1\n"}
+,{"stream_name":"stdout","time":246.826094371,"data":"ds005405      101    21.00    79.00  0.52      1\n"}
+,{"stream_name":"stdout","time":246.826097801,"data":"ds005752      236    18.00    72.00  0.39      1\n"}
+,{"stream_name":"stdout","time":246.826101011,"data":"ds006395       37    19.00    69.00  0.46      1\n"}
+,{"stream_name":"stdout","time":246.826104521,"data":"ds007522      968    49.00    79.00  0.31      4\n"}
+,{"stream_name":"stdout","time":246.826107971,"data":"ds007831      109    22.45    84.15  0.49      1\n"}
+,{"stream_name":"stdout","time":246.826110801,"data":"oasis1        316    18.00    94.00  0.38      1\n"}
+,{"stream_name":"stdout","time":246.826113711,"data":"openbhb_s1    407     6.47    56.20  0.83     13\n"}
+,{"stream_name":"stdout","time":246.826116781,"data":"openbhb_s10    34    18.00    40.00  0.50      1\n"}
+,{"stream_name":"stdout","time":246.826119801,"data":"openbhb_s2    420     5.90    64.00  0.72     12\n"}
+,{"stream_name":"stdout","time":246.826122561,"data":"openbhb_s3    598     6.00    88.00  0.48     17\n"}
+,{"stream_name":"stdout","time":246.826125591,"data":"openbhb_s4   1342    19.00    35.00  0.42      5\n"}
+,{"stream_name":"stdout","time":246.826128731,"data":"openbhb_s6     54    18.00    49.00  0.39      2\n"}
+,{"stream_name":"stdout","time":246.826132081,"data":"openbhb_s7    237    22.50    77.50  0.58      1\n"}
+,{"stream_name":"stdout","time":246.826135181,"data":"openbhb_s8    251    18.00    53.00  0.40      3\n"}
+,{"stream_name":"stdout","time":246.826138101,"data":"openbhb_s9     56    20.00    35.00  0.46      1\n"}
+,{"stream_name":"stdout","time":246.826141561,"data":"sald          494    19.00    80.00  0.38      1\n"}
+,{"stream_name":"stdout","time":250.060838914,"data":"repeat pairs: {'OASIS-1': 424, 'ds005405': 185, 'OASIS-2': 150}\n"}
+,{"stream_name":"stdout","time":251.217103439,"data":"              region age_band  people  followup_yrs_median  median_rate_pct_yr   p10   p90  observed_sd  noise_sd  true_sd  share_true  share_growing_observed\n"}
+,{"stream_name":"stdout","time":251.217160519,"data":"         hippocampus    20-40      51                  9.0                0.19 -0.19  0.56         0.35      0.63     0.00        0.00                    0.67\n"}
+,{"stream_name":"stdout","time":251.217166199,"data":"         hippocampus    40-60      83                  9.0               -0.03 -0.51  0.48         0.51      0.62     0.00        0.00                    0.49\n"}
+,{"stream_name":"stdout","time":251.217169868,"data":"         hippocampus    60-70      77                  7.0               -0.32 -1.20  0.43         0.75      0.85     0.00        0.00                    0.30\n"}
+,{"stream_name":"stdout","time":251.217173139,"data":"         hippocampus    70-80     111                  4.0               -0.84 -2.17  0.10         1.00      0.93     0.37        0.14                    0.12\n"}
+,{"stream_name":"stdout","time":251.217176248,"data":"         hippocampus   80-100      57                  4.0               -0.99 -2.47  0.89         1.59      1.01     1.22        0.59                    0.25\n"}
+,{"stream_name":"stdout","time":251.217179668,"data":"          entorhinal    20-40      51                  9.0                0.06 -0.83  2.18         1.19      1.54     0.00        0.00                    0.53\n"}
+,{"stream_name":"stdout","time":251.217183388,"data":"          entorhinal    40-60      83                  9.0               -0.12 -1.25  1.52         1.28      1.53     0.00        0.00                    0.41\n"}
+,{"stream_name":"stdout","time":251.217187059,"data":"          entorhinal    60-70      75                  7.0               -0.44 -2.90  1.49         1.71      2.03     0.00        0.00                    0.31\n"}
+,{"stream_name":"stdout","time":251.217190628,"data":"          entorhinal    70-80     111                  4.0               -1.33 -4.04  0.30         1.85      2.28     0.00        0.00                    0.17\n"}
+,{"stream_name":"stdout","time":251.217193759,"data":"          entorhinal   80-100      57                  4.0               -2.02 -5.25  1.03         2.86      2.49     1.41        0.24                    0.25\n"}
+,{"stream_name":"stdout","time":251.217197188,"data":"            amygdala    20-40      51                  9.0                0.05 -0.48  0.83         0.67      1.12     0.00        0.00                    0.59\n"}
+,{"stream_name":"stdout","time":251.217202149,"data":"            amygdala    40-60      83                  9.0               -0.20 -1.32  0.68         0.83      1.12     0.00        0.00                    0.37\n"}
+,{"stream_name":"stdout","time":251.217205619,"data":"            amygdala    60-70      77                  7.0               -0.53 -2.30  0.99         1.39      1.52     0.00        0.00                    0.29\n"}
+,{"stream_name":"stdout","time":251.217209259,"data":"            amygdala    70-80     109                  4.0               -0.95 -2.83  0.18         1.39      1.67     0.00        0.00                    0.15\n"}
+,{"stream_name":"stdout","time":251.217212818,"data":"            amygdala   80-100      57                  4.0               -1.64 -4.19  0.93         2.00      1.82     0.82        0.17                    0.21\n"}
+,{"stream_name":"stdout","time":251.217216389,"data":"  lateral ventricles    20-40      51                  9.0                1.46  0.37  2.74         1.09      1.05     0.30        0.07                    0.92\n"}
+,{"stream_name":"stdout","time":251.217219769,"data":"  lateral ventricles    40-60      84                  9.0                2.13  0.27  4.85         2.07      1.06     1.78        0.74                    0.93\n"}
+,{"stream_name":"stdout","time":251.217223409,"data":"  lateral ventricles    60-70      77                  7.0                3.59  1.64  6.07         1.85      1.42     1.18        0.41                    1.00\n"}
+,{"stream_name":"stdout","time":251.217234169,"data":"  lateral ventricles    70-80     109                  4.0                3.86  1.55  6.73         2.46      1.54     1.91        0.61                    0.95\n"}
+,{"stream_name":"stdout","time":251.217237889,"data":"  lateral ventricles   80-100      57                  4.0                3.22  1.40  6.01         1.85      1.70     0.75        0.16                    0.96\n"}
+,{"stream_name":"stdout","time":251.217240998,"data":"inf. lat. ventricles    20-40      51                  9.0                1.44 -0.53  4.95         2.67      2.83     0.00        0.00                    0.78\n"}
+,{"stream_name":"stdout","time":251.217244269,"data":"inf. lat. ventricles    40-60      83                  9.0                0.87 -1.96  4.91         2.87      2.82     0.57        0.04                    0.67\n"}
+,{"stream_name":"stdout","time":251.217247478,"data":"inf. lat. ventricles    60-70      77                  7.0                3.08 -0.11  8.94         3.81      3.84     0.00        0.00                    0.90\n"}
+,{"stream_name":"stdout","time":251.217250938,"data":"inf. lat. ventricles    70-80     110                  4.0                5.11  0.31 11.27         4.73      4.18     2.21        0.22                    0.92\n"}
+,{"stream_name":"stdout","time":251.217254989,"data":"inf. lat. ventricles   80-100      57                  4.0                4.60  1.02  9.67         3.68      4.58     0.00        0.00                    0.95\n"}
+,{"stream_name":"stdout","time":251.217258169,"data":"     third ventricle    20-40      51                  9.0                1.25 -0.78  2.46         1.86      1.36     1.27        0.47                    0.76\n"}
+,{"stream_name":"stdout","time":251.217261518,"data":"     third ventricle    40-60      84                  9.0                2.03  0.37  4.27         1.60      1.38     0.81        0.26                    0.96\n"}
+,{"stream_name":"stdout","time":251.217264629,"data":"     third ventricle    60-70      77                  7.0                2.64  0.77  4.38         1.56      1.85     0.00        0.00                    0.97\n"}
+,{"stream_name":"stdout","time":251.217267669,"data":"     third ventricle    70-80     109                  4.0                2.34 -0.16  5.36         2.09      2.01     0.59        0.08                    0.89\n"}
+,{"stream_name":"stdout","time":251.217271178,"data":"     third ventricle   80-100      57                  4.0                1.91 -0.24  4.66         2.02      2.20     0.00        0.00                    0.88\n"}
+,{"stream_name":"stdout","time":251.217274598,"data":"            thalamus    20-40      51                  9.0               -0.23 -0.78  0.52         0.64      0.74     0.00        0.00                    0.24\n"}
+,{"stream_name":"stdout","time":251.217278278,"data":"            thalamus    40-60      84                  9.0               -0.29 -0.92  0.36         0.57      0.75     0.00        0.00                    0.27\n"}
+,{"stream_name":"stdout","time":251.217281649,"data":"            thalamus    60-70      76                  7.0               -0.64 -1.64  0.07         0.67      1.00     0.00        0.00                    0.12\n"}
+,{"stream_name":"stdout","time":251.217285278,"data":"            thalamus    70-80     109                  4.0               -0.47 -1.45  0.56         0.89      1.08     0.00        0.00                    0.20\n"}
+,{"stream_name":"stdout","time":251.217288458,"data":"            thalamus   80-100      57                  4.0               -0.54 -1.77  0.33         0.81      1.19     0.00        0.00                    0.25\n"}
+,{"stream_name":"stdout","time":251.217292149,"data":"             putamen    20-40      51                  9.0               -0.35 -0.97  0.51         0.60      1.32     0.00        0.00                    0.24\n"}
+,{"stream_name":"stdout","time":251.217301398,"data":"             putamen    40-60      82                  9.0               -0.43 -1.20  0.26         0.64      1.31     0.00        0.00                    0.26\n"}
+,{"stream_name":"stdout","time":251.217306249,"data":"             putamen    60-70      77                  7.0               -0.24 -1.91  0.80         1.07      1.79     0.00        0.00                    0.40\n"}
+,{"stream_name":"stdout","time":251.217309769,"data":"             putamen    70-80     110                  4.0               -0.71 -2.34  0.63         1.29      1.94     0.00        0.00                    0.21\n"}
+,{"stream_name":"stdout","time":251.217313098,"data":"             putamen   80-100      57                  4.0               -0.85 -2.43  0.62         1.60      2.14     0.00        0.00                    0.23\n"}
+,{"stream_name":"stdout","time":251.217316898,"data":"           brainstem    20-40      49                  9.0                0.15 -0.18  0.56         0.32      0.87     0.00        0.00                    0.73\n"}
+,{"stream_name":"stdout","time":251.217320318,"data":"           brainstem    40-60      84                  9.0               -0.07 -0.43  0.36         0.34      0.90     0.00        0.00                    0.44\n"}
+,{"stream_name":"stdout","time":251.217324098,"data":"           brainstem    60-70      75                  7.0               -0.31 -0.95  0.20         0.48      1.17     0.00        0.00                    0.19\n"}
+,{"stream_name":"stdout","time":251.217327838,"data":"           brainstem    70-80     109                  4.0               -0.37 -1.04  0.21         0.58      1.29     0.00        0.00                    0.18\n"}
+,{"stream_name":"stdout","time":251.217332129,"data":"           brainstem   80-100      57                  4.0               -0.46 -1.32  0.66         0.78      1.44     0.00        0.00                    0.21\n"}
+,{"stream_name":"stdout","time":251.217335749,"data":"   cerebellum cortex    20-40      50                  9.0               -0.13 -0.35  0.15         0.21      0.31     0.00        0.00                    0.28\n"}
+,{"stream_name":"stdout","time":251.217339529,"data":"   cerebellum cortex    40-60      83                  9.0               -0.13 -0.41  0.15         0.27      0.31     0.00        0.00                    0.29\n"}
+,{"stream_name":"stdout","time":251.217343259,"data":"   cerebellum cortex    60-70      76                  7.0               -0.19 -0.60  0.28         0.36      0.42     0.00        0.00                    0.28\n"}
+,{"stream_name":"stdout","time":251.217346599,"data":"   cerebellum cortex    70-80     108                  4.0               -0.23 -0.88  0.29         0.47      0.45     0.15        0.10                    0.25\n"}
+,{"stream_name":"stdout","time":251.217349999,"data":"   cerebellum cortex   80-100      56                  4.0               -0.58 -1.66  0.09         0.63      0.51     0.38        0.36                    0.16\n"}
+,{"stream_name":"stdout","time":251.217354189,"data":"           precuneus    20-40      49                  9.0               -0.66 -1.05 -0.10         0.39      0.55     0.00        0.00                    0.08\n"}
+,{"stream_name":"stdout","time":251.217357859,"data":"           precuneus    40-60      83                  9.0               -0.48 -0.81  0.09         0.42      0.56     0.00        0.00                    0.12\n"}
+,{"stream_name":"stdout","time":251.217361379,"data":"           precuneus    60-70      77                  7.0               -0.52 -0.98  0.27         0.58      0.75     0.00        0.00                    0.19\n"}
+,{"stream_name":"stdout","time":251.217365068,"data":"           precuneus    70-80     109                  4.0               -0.72 -1.83  0.04         0.82      0.81     0.15        0.03                    0.13\n"}
+,{"stream_name":"stdout","time":251.217372499,"data":"           precuneus   80-100      57                  4.0               -0.89 -2.43 -0.03         1.06      0.90     0.56        0.28                    0.09\n"}
+,{"stream_name":"stdout","time":251.217376348,"data":"    superior frontal    20-40      51                  9.0               -0.66 -0.97 -0.16         0.42      0.54     0.00        0.00                    0.06\n"}
+,{"stream_name":"stdout","time":251.217379699,"data":"    superior frontal    40-60      83                  9.0               -0.47 -0.86 -0.06         0.35      0.54     0.00        0.00                    0.05\n"}
+,{"stream_name":"stdout","time":251.217383159,"data":"    superior frontal    60-70      77                  7.0               -0.55 -1.12  0.11         0.63      0.73     0.00        0.00                    0.16\n"}
+,{"stream_name":"stdout","time":251.217386508,"data":"    superior frontal    70-80     108                  4.0               -0.69 -1.44  0.17         0.69      0.76     0.00        0.00                    0.15\n"}
+,{"stream_name":"stdout","time":251.217389859,"data":"    superior frontal   80-100      57                  4.0               -0.80 -1.54  0.25         0.89      0.87     0.20        0.05                    0.16\n"}
+,{"stream_name":"stdout","time":251.217393359,"data":"   lateral occipital    20-40      51                  9.0               -0.17 -0.73  0.43         0.50      0.67     0.00        0.00                    0.37\n"}
+,{"stream_name":"stdout","time":251.217396888,"data":"   lateral occipital    40-60      83                  9.0               -0.11 -0.56  0.40         0.43      0.68     0.00        0.00                    0.36\n"}
+,{"stream_name":"stdout","time":251.217400048,"data":"   lateral occipital    60-70      77                  7.0               -0.30 -0.84  0.38         0.52      0.91     0.00        0.00                    0.35\n"}
+,{"stream_name":"stdout","time":251.217403699,"data":"   lateral occipital    70-80     108                  4.0               -0.46 -1.25  0.48         0.86      0.98     0.00        0.00                    0.28\n"}
+,{"stream_name":"stdout","time":251.217406908,"data":"   lateral occipital   80-100      57                  4.0               -0.66 -1.92  0.26         1.05      1.09     0.00        0.00                    0.18\n"}
+,{"stream_name":"stdout","time":251.217410168,"data":"          precentral    20-40      51                  9.0               -0.51 -0.84  0.02         0.38      1.32     0.00        0.00                    0.12\n"}
+,{"stream_name":"stdout","time":251.217413948,"data":"          precentral    40-60      84                  9.0               -0.46 -0.89 -0.03         0.39      1.34     0.00        0.00                    0.08\n"}
+,{"stream_name":"stdout","time":251.217417019,"data":"          precentral    60-70      77                  7.0               -0.51 -1.16  0.34         0.72      1.79     0.00        0.00                    0.25\n"}
+,{"stream_name":"stdout","time":251.217420348,"data":"          precentral    70-80     109                  4.0               -0.72 -1.64  0.58         0.90      1.93     0.00        0.00                    0.17\n"}
+,{"stream_name":"stdout","time":251.217423579,"data":"          precentral   80-100      57                  4.0               -1.00 -2.10  0.21         0.94      2.14     0.00        0.00                    0.14\n"}
+,{"stream_name":"stdout","time":251.217426848,"data":"              cortex    20-40      51                  9.0               -0.51 -0.82 -0.03         0.31      0.51     0.00        0.00                    0.08\n"}
+,{"stream_name":"stdout","time":251.217430028,"data":"              cortex    40-60      84                  9.0               -0.37 -0.68 -0.02         0.29      0.52     0.00        0.00                    0.10\n"}
+,{"stream_name":"stdout","time":251.217437919,"data":"              cortex    60-70      77                  7.0               -0.48 -0.95  0.10         0.46      0.69     0.00        0.00                    0.16\n"}
+,{"stream_name":"stdout","time":251.217441668,"data":"              cortex    70-80     107                  4.0               -0.71 -1.21 -0.06         0.49      0.73     0.00        0.00                    0.09\n"}
+,{"stream_name":"stdout","time":251.217444959,"data":"              cortex   80-100      57                  4.0               -0.82 -1.62 -0.29         0.62      0.83     0.00        0.00                    0.07\n"}
+,{"stream_name":"stdout","time":251.217448339,"data":"         cerebral WM    20-40      51                  9.0                0.29 -0.03  0.60         0.27      0.44     0.00        0.00                    0.86\n"}
+,{"stream_name":"stdout","time":251.217452148,"data":"         cerebral WM    40-60      84                  9.0               -0.02 -0.34  0.35         0.31      0.44     0.00        0.00                    0.48\n"}
+,{"stream_name":"stdout","time":251.217455439,"data":"         cerebral WM    60-70      76                  7.0               -0.45 -0.90 -0.04         0.39      0.59     0.00        0.00                    0.09\n"}
+,{"stream_name":"stdout","time":251.217458488,"data":"         cerebral WM    70-80     109                  4.0               -0.61 -1.30 -0.07         0.61      0.63     0.00        0.00                    0.08\n"}
+,{"stream_name":"stdout","time":251.217461988,"data":"         cerebral WM   80-100      57                  4.0               -0.62 -1.81 -0.05         0.71      0.70     0.07        0.01                    0.09\n"}
+,{"stream_name":"stdout","time":251.217465408,"data":"         total brain    20-40      50                  9.0               -0.14 -0.29  0.13         0.19      0.36     0.00        0.00                    0.26\n"}
+,{"stream_name":"stdout","time":251.217468759,"data":"         total brain    40-60      84                  9.0               -0.17 -0.43  0.16         0.23      0.37     0.00        0.00                    0.18\n"}
+,{"stream_name":"stdout","time":251.217471908,"data":"         total brain    60-70      76                  7.0               -0.43 -0.79 -0.11         0.31      0.49     0.00        0.00                    0.05\n"}
+,{"stream_name":"stdout","time":251.217475589,"data":"         total brain    70-80     107                  4.0               -0.55 -1.08 -0.28         0.37      0.51     0.00        0.00                    0.02\n"}
+,{"stream_name":"stdout","time":251.217478929,"data":"         total brain   80-100      57                  4.0               -0.61 -1.56 -0.14         0.54      0.59     0.00        0.00                    0.07\n"}
+,{"stream_name":"stdout","time":251.219944859,"data":"              region  eps_same_session_pct  eps_longitudinal_pct  eps_longitudinal_DLBS  eps_longitudinal_OASIS-2  people  people_3plus_scans\n"}
+,{"stream_name":"stdout","time":251.219985609,"data":"         hippocampus                  0.85                  2.64                   2.87                      1.42     380                 213\n"}
+,{"stream_name":"stdout","time":251.219990719,"data":"          entorhinal                  3.56                  6.47                   6.79                      5.02     380                 213\n"}
+,{"stream_name":"stdout","time":251.219994019,"data":"            amygdala                  2.19                  4.73                   5.03                      3.31     380                 213\n"}
+,{"stream_name":"stdout","time":251.219997689,"data":"  lateral ventricles                  0.64                  4.41                   4.66                      3.31     380                 213\n"}
+,{"stream_name":"stdout","time":251.220015519,"data":"inf. lat. ventricles                  3.69                 11.91                  12.77                      7.66     380                 213\n"}
+,{"stream_name":"stdout","time":251.220017679,"data":"     third ventricle                  2.07                  5.73                   6.24                      2.99     380                 213\n"}
+,{"stream_name":"stdout","time":251.220019669,"data":"            thalamus                  0.71                  3.11                   3.38                      1.67     380                 213\n"}
+,{"stream_name":"stdout","time":251.220021678,"data":"             putamen                  0.78                  5.57                   6.15                      2.19     380                 213\n"}
+,{"stream_name":"stdout","time":251.220023649,"data":"           brainstem                  0.84                  3.76                   4.10                      1.93     380                 213\n"}
+,{"stream_name":"stdout","time":251.220025618,"data":"   cerebellum cortex                  0.51                  1.32                   1.25                      1.55     380                 213\n"}
+,{"stream_name":"stdout","time":251.220027609,"data":"           precuneus                  0.98                  2.33                   2.44                      1.89     380                 213\n"}
+,{"stream_name":"stdout","time":251.220029718,"data":"    superior frontal                  0.73                  2.25                   2.32                      1.96     380                 213\n"}
+,{"stream_name":"stdout","time":251.220032189,"data":"   lateral occipital                  1.08                  2.84                   2.33                      4.28     380                 213\n"}
+,{"stream_name":"stdout","time":251.220035718,"data":"          precentral                  0.89                  5.57                   6.14                      2.16     380                 213\n"}
+,{"stream_name":"stdout","time":251.220037729,"data":"              cortex                  0.43                  2.15                   2.24                      1.75     380                 213\n"}
+,{"stream_name":"stdout","time":251.220039698,"data":"         cerebral WM                  0.34                  1.83                   1.99                      1.02     380                 213\n"}
+,{"stream_name":"stdout","time":251.220041658,"data":"         total brain                  0.21                  1.52                   1.59                      1.22     380                 213\n"}
+,{"stream_name":"stdout","time":578.363899111,"data":"  hippocampus            n= 7603 sites= 77 ages 7-89 LR p=8.0e-07  (337s)\n"}
+,{"stream_name":"stdout","time":814.450483698,"data":"  entorhinal             n= 7603 sites= 77 ages 7-89 LR p=4.7e-39  (573s)\n"}
+,{"stream_name":"stdout","time":1083.783403281,"data":"  amygdala               n= 7603 sites= 77 ages 7-89 LR p=1.4e-18  (842s)\n"}
+,{"stream_name":"stdout","time":1245.789029114,"data":"  lateral ventricles     n= 7603 sites= 77 ages 7-89 LR p=2.2e-03  (1004s)\n"}
+,{"stream_name":"stdout","time":1416.983227146,"data":"  inf. lat. ventricles   n= 7603 sites= 77 ages 7-89 LR p=2.4e-27  (1175s)\n"}
+,{"stream_name":"stdout","time":1599.969757051,"data":"  third ventricle        n= 7603 sites= 77 ages 7-89 LR p=3.1e-20  (1358s)\n"}
+,{"stream_name":"stdout","time":1907.782147561,"data":"  thalamus               n= 7603 sites= 77 ages 7-89 LR p=1.2e-09  (1666s)\n"}
+,{"stream_name":"stdout","time":2202.142548691,"data":"  putamen                n= 7603 sites= 77 ages 7-89 LR p=6.6e-03  (1960s)\n"}
+,{"stream_name":"stdout","time":2455.702495777,"data":"  brainstem              n= 7565 sites= 77 ages 8-89 LR p=2.7e-05  (2214s)\n"}
+,{"stream_name":"stdout","time":2723.857725875,"data":"  cerebellum cortex      n= 7565 sites= 77 ages 8-89 LR p=6.8e-16  (2482s)\n"}
+,{"stream_name":"stdout","time":2982.713227907,"data":"  precuneus              n= 7603 sites= 77 ages 7-89 LR p=1.3e-02  (2741s)\n"}
+,{"stream_name":"stdout","time":3261.60721491,"data":"  superior frontal       n= 7603 sites= 77 ages 7-89 LR p=5.8e-12  (3020s)\n"}
+,{"stream_name":"stdout","time":3496.920792486,"data":"  lateral occipital      n= 7603 sites= 77 ages 7-89 LR p=6.0e-07  (3255s)\n"}
+,{"stream_name":"stdout","time":3775.23187428,"data":"  precentral             n= 7603 sites= 77 ages 7-89 LR p=1.6e-02  (3533s)\n"}
+,{"stream_name":"stdout","time":4099.753810531,"data":"  cortex                 n= 7603 sites= 77 ages 7-89 LR p=1.8e-09  (3858s)\n"}
+,{"stream_name":"stdout","time":4404.247675756,"data":"  cerebral WM            n= 7603 sites= 77 ages 7-89 LR p=7.5e-09  (4162s)\n"}
+,{"stream_name":"stdout","time":4735.546764071,"data":"  total brain            n= 7565 sites= 77 ages 8-89 LR p=3.5e-23  (4494s)\n"}
+,{"stream_name":"stdout","time":4987.23073405,"data":"held-out calibration: {'n': 129137.0, 'sd_z': 1.032, 'within_1.96': 0.943, 'within_1': 0.675, 'skew': -0.016, 'excess_kurt': 0.386}\n"}
+,{"stream_name":"stdout","time":4987.250547111,"data":"             n   sd_z  within_1.96  within_1   skew  excess_kurt\n"}
+,{"stream_name":"stdout","time":4987.25058332,"data":"band                                                            \n"}
+,{"stream_name":"stdout","time":4987.25058946,"data":"\u003c18    14756.0  1.087        0.929     0.662 -0.013        0.575\n"}
+,{"stream_name":"stdout","time":4987.25059451,"data":"18-40  62954.0  1.029        0.944     0.674  0.037        0.238\n"}
+,{"stream_name":"stdout","time":4987.250599,"data":"40-60  21102.0  1.026        0.946     0.676 -0.100        0.555\n"}
+,{"stream_name":"stdout","time":4987.25060345,"data":"60-75  24531.0  1.016        0.946     0.686 -0.057        0.408\n"}
+,{"stream_name":"stdout","time":4987.25060822,"data":"75+     5794.0  1.023        0.949     0.674 -0.127        0.558\n"}
+,{"stream_name":"stdout","time":5271.315424603,"data":" age  n_window  p  R_brain_cross  SD_g_heldout_cross  best_single_R_cross  R_brain_long  SD_g_heldout_long  best_single_R_long\n"}
+,{"stream_name":"stdout","time":5271.315471233,"data":"10.0       667 85           1.68                1.90                 3.43          1.93               2.04                4.72\n"}
+,{"stream_name":"stdout","time":5271.315476603,"data":"15.0      1484 85           2.19                2.33                 4.78          2.13               2.18                5.39\n"}
+,{"stream_name":"stdout","time":5271.315480923,"data":"20.0      2862 85           3.29                3.42                 6.42          2.46               2.49                6.58\n"}
+,{"stream_name":"stdout","time":5271.315485033,"data":"25.0      2548 85           5.87                6.07                12.22          2.95               3.00                8.44\n"}
+,{"stream_name":"stdout","time":5271.315489243,"data":"30.0      1079 85           7.58                8.21                15.42          3.52               3.72               10.62\n"}
+,{"stream_name":"stdout","time":5271.315493573,"data":"35.0       555 85           7.72                8.73                14.64          4.11               4.74               11.43\n"}
+,{"stream_name":"stdout","time":5271.315497673,"data":"40.0       404 85           8.13                9.86                14.27          4.97               5.95               12.20\n"}
+,{"stream_name":"stdout","time":5271.315501873,"data":"45.0       457 85           8.21                9.59                15.89          5.03               5.82               12.92\n"}
+,{"stream_name":"stdout","time":5271.315522353,"data":"50.0       636 85           8.27                9.54                13.95          5.40               6.12               12.99\n"}
+,{"stream_name":"stdout","time":5271.315526103,"data":"55.0       881 85           8.32                9.24                12.00          5.53               6.11               12.42\n"}
+,{"stream_name":"stdout","time":5271.315529383,"data":"60.0      1034 85           7.71                8.44                11.48          5.18               5.69               11.93\n"}
+,{"stream_name":"stdout","time":5271.315532903,"data":"65.0      1124 85           7.23                7.85                12.04          4.93               5.20               11.46\n"}
+,{"stream_name":"stdout","time":5271.315536093,"data":"70.0       997 85           6.70                7.28                11.51          4.64               5.09               11.21\n"}
+,{"stream_name":"stdout","time":5271.315539173,"data":"75.0       710 85           5.96                6.80                10.21          4.06               4.67               10.02\n"}
+,{"stream_name":"stdout","time":5271.315542083,"data":"80.0       353 85           5.18                6.36                 9.42          3.19               3.75                8.91\n"}
+,{"stream_name":"stdout","time":5271.316734313,"data":"85.0       145 85           4.39                6.86                 8.76          2.72               4.00                7.75\n"}
+,{"stream_name":"stdout","time":5271.342725183,"data":"part A done in 83.8 min\n"}
+,{"stream_name":"stdout","time":5272.803324286,"data":"analysis rc 0\n"}
+,{"stream_name":"stdout","time":5279.877663841,"data":"CompletedProcess(args=['/usr/bin/python3', '-c', \"\\nimport os, sys, json, pandas as pd\\nsys.path.insert(0, 'pilot')\\nimport p4_figures as F\\nF.D = os.path.join('pilot', 'p5_out')\\nif os.path.exists(os.path.join(F.D, 'everyage_table.csv')):\\n    F.T = pd.read_csv(os.path.join(F.D, 'everyage_table.csv'))\\n    F.meta = json.load(open(os.path.join(F.D, 'everyage_meta.json')))\\n    F.fig_charts(); F.fig_resolution()\\n    for f in (F.fig_trajectories, F.fig_normalization):\\n        try:\\n            f()\\n        except Exception as e:\\n            print('figure failed', f.__name__, type(e).__name__, e)\\nif os.path.exists(os.path.join(F.D, 'model_comparison.csv')):\\n    F.M = pd.read_csv(os.path.join(F.D, 'model_comparison.csv')); F.fig_models()\\nprint('figures done')\\n\"], returncode=0, stdout='figures done\\n', stderr='')\n"}
+,{"stream_name":"stderr","time":5282.308172999,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":5282.308207319,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":5282.735267757,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":5282.735304297,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":5283.586459913,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":5285.075752855,"data":"[NbConvertApp] Writing 278716 bytes to __results__.html\n"}
+]

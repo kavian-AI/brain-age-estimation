@@ -1,0 +1,7 @@
+10-20 20:43 p5-cloud-b {"status": "COMPLETE", "failureMessage": null} -> 6 files
+10-20 21:10 p5-cloud-a status error ConnectionError
+10-20 21:16 p5-cloud-a status error ConnectionError
+10-20 21:23 p5-cloud-a status error SSLError
+10-20 21:28 p5-cloud-a status error ProxyError
+10-20 21:36 p5-cloud-a {"status": "COMPLETE", "failureMessage": null} -> 20 files
+done; unfinished: []

@@ -1,0 +1,31 @@
+[{"stream_name":"stdout","time":68.60722169,"data":"pip surfa (PyPI) rc 0 \n"}
+,{"stream_name":"stdout","time":71.03238064,"data":"model bytes 30851709\n"}
+,{"stream_name":"stdout","time":72.436900764,"data":"dlbs part 0 jobs 484\n"}
+,{"stream_name":"stdout","time":102.083923348,"data":"  [1/484] 12-1-1 ICV 1553 cm3 30s elapsed 0.03 h\n"}
+,{"stream_name":"stdout","time":786.734984923,"data":"  [26/484] 159-1-1 ICV 1827 cm3 28s elapsed 0.22 h\n"}
+,{"stream_name":"stdout","time":1487.763048993,"data":"  [51/484] 224-1-1 ICV 1729 cm3 28s elapsed 0.41 h\n"}
+,{"stream_name":"stdout","time":2187.964696172,"data":"  [76/484] 381-1-1 ICV 1517 cm3 28s elapsed 0.61 h\n"}
+,{"stream_name":"stdout","time":2891.314248248,"data":"  [101/484] 575-1-1 ICV 1523 cm3 28s elapsed 0.80 h\n"}
+,{"stream_name":"stdout","time":3586.691777236,"data":"  [126/484] 695-1-1 ICV 1526 cm3 28s elapsed 1.00 h\n"}
+,{"stream_name":"stdout","time":4284.362369172,"data":"  [151/484] 829-1-1 ICV 1773 cm3 28s elapsed 1.19 h\n"}
+,{"stream_name":"stdout","time":4986.554821271,"data":"  [176/484] 927-2-1 ICV 1300 cm3 28s elapsed 1.38 h\n"}
+,{"stream_name":"stdout","time":5678.212461067,"data":"  [201/484] 1013-3-1 ICV 1487 cm3 28s elapsed 1.58 h\n"}
+,{"stream_name":"stdout","time":6381.015871,"data":"  [226/484] 1165-1-1 ICV 1433 cm3 28s elapsed 1.77 h\n"}
+,{"stream_name":"stdout","time":7072.042772631,"data":"  [251/484] 1370-3-1 ICV 1332 cm3 27s elapsed 1.96 h\n"}
+,{"stream_name":"stdout","time":7760.371756661,"data":"  [276/484] 1637-2-1 ICV 1548 cm3 28s elapsed 2.16 h\n"}
+,{"stream_name":"stdout","time":8453.775198066,"data":"  [301/484] 1866-1-1 ICV 1454 cm3 28s elapsed 2.35 h\n"}
+,{"stream_name":"stdout","time":9145.403512071,"data":"  [326/484] 2093-2-1 ICV 1752 cm3 28s elapsed 2.54 h\n"}
+,{"stream_name":"stdout","time":9844.108039833,"data":"  [351/484] 2872-1-1 ICV 1554 cm3 28s elapsed 2.73 h\n"}
+,{"stream_name":"stdout","time":10528.043220954,"data":"  [376/484] 3182-2-1 ICV 1823 cm3 28s elapsed 2.92 h\n"}
+,{"stream_name":"stdout","time":11216.124663481,"data":"  [401/484] 3639-1-1 ICV 1427 cm3 27s elapsed 3.12 h\n"}
+,{"stream_name":"stdout","time":11906.830044653,"data":"  [426/484] 4172-2-1 ICV 1721 cm3 28s elapsed 3.31 h\n"}
+,{"stream_name":"stdout","time":12609.029654071,"data":"  [451/484] 4582-2-1 ICV 1540 cm3 28s elapsed 3.50 h\n"}
+,{"stream_name":"stdout","time":13319.399455847,"data":"  [476/484] 4805-1-1 ICV 1382 cm3 28s elapsed 3.70 h\n"}
+,{"stream_name":"stdout","time":13549.364186604,"data":"finished 484 rows 3.76 h\n"}
+,{"stream_name":"stderr","time":13552.005733452,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":13552.005768945,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":13552.35759957,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":13552.35762983,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":13553.25761499,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":13554.550335536,"data":"[NbConvertApp] Writing 306247 bytes to __results__.html\n"}
+]

@@ -1,0 +1,21 @@
+{
+  "Name": "The NKI Rockland Sample",
+  "Authors": [
+    "Michael Milham",
+    "Cameron Craddock",
+    "Russ Tobe",
+    "Anna MacKay-Brandt",
+    "Stan Colcombe",
+    "Bennett Leventhal",
+    "F. Xavier Castellanos",
+    "Alexandre R. Franco"
+  ],
+  "BIDSVersion": "1.0.0",
+  "Funding": [
+    "NIMH BRAINS R01MH094639-01",
+    "1FDN2012-1",
+    "NIMH R01MH081218",
+    "R01MH083246",
+    "R21MH084126"
+  ]
+}

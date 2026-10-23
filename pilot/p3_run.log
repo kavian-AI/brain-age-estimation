@@ -1,0 +1,68 @@
+pooled healthy people: 1471
+                        n  age_min  age_max   men
+site                                             
+ADNI FreeSurfer 1.5T  204    59.90    89.60  0.52
+ADNI FreeSurfer 3T    195    59.70    89.00  0.46
+DLBS Philips 3T       464    21.00    89.00  0.38
+IXI GE 1.5T            68    19.98    86.32  0.35
+IXI Philips 1.5T      295    20.07    83.81  0.41
+IXI Philips 3T        173    20.17    81.94  0.47
+OASIS-2 Siemens 1.5T   72    60.00    93.00  0.31
+
+median dBIC vs 'site spread' (negative = better):
+model
+common spread               -20.1
+common spread + age x sex   -20.3
+site spread                   0.0
+site spread + age x sex       4.2
+  hippocampus            n=1471 sites=7 b=0.70 | at 70: slope -0.54 long -0.50 %/yr, sigma 8.2 %, R_cross 15.1 R_long 16.2 y
+  entorhinal             n=1471 sites=7 b=0.69 | at 70: slope -0.36 long -0.86 %/yr, sigma 12.9 %, R_cross 35.7 R_long 14.9 y
+  amygdala               n=1471 sites=7 b=0.74 | at 70: slope -0.58 long -0.85 %/yr, sigma 10.1 %, R_cross 17.4 R_long 11.9 y
+  lateral ventricles     n=1471 sites=7 b=2.35 | at 70: slope +3.60 long +3.46 %/yr, sigma 42.1 %, R_cross 11.7 R_long 12.2 y
+  inf. lat. ventricles   n=1471 sites=7 b=1.19 | at 70: slope +4.46 long +3.91 %/yr, sigma 49.7 %, R_cross 11.2 R_long 12.7 y
+  third ventricle        n=1471 sites=7 b=1.42 | at 70: slope +2.67 long +2.58 %/yr, sigma 28.0 %, R_cross 10.5 R_long 10.9 y
+  thalamus               n=1471 sites=7 b=0.78 | at 70: slope -0.59 long -0.60 %/yr, sigma 6.6 %, R_cross 11.2 R_long 11.0 y
+  putamen                n=1471 sites=7 b=0.70 | at 70: slope -0.30 long -0.66 %/yr, sigma 10.3 %, R_cross 34.0 R_long 15.6 y
+  brainstem              n=1471 sites=7 b=0.78 | at 70: slope -0.15 long -0.35 %/yr, sigma 7.8 %, R_cross 50.6 R_long 22.2 y
+  cerebellum cortex      n=1471 sites=7 b=0.66 | at 70: slope -0.29 long -0.25 %/yr, sigma 7.7 %, R_cross 26.7 R_long 31.2 y
+  precuneus              n=1471 sites=7 b=1.05 | at 70: slope -0.35 long -0.63 %/yr, sigma 9.0 %, R_cross 25.8 R_long 14.4 y
+  superior frontal       n=1471 sites=7 b=0.91 | at 70: slope -0.32 long -0.58 %/yr, sigma 7.2 %, R_cross 22.4 R_long 12.6 y
+  lateral occipital      n=1471 sites=7 b=0.87 | at 70: slope -0.48 long -0.33 %/yr, sigma 10.0 %, R_cross 20.9 R_long 30.4 y
+  precentral             n=1471 sites=7 b=0.81 | at 70: slope -0.30 long -0.62 %/yr, sigma 8.8 %, R_cross 29.7 R_long 14.1 y
+  cortex                 n=1072 sites=5 b=0.99 | at 70: slope -0.34 long -0.56 %/yr, sigma 4.3 %, R_cross 12.9 R_long 7.7 y
+  cerebral WM            n=1072 sites=5 b=1.16 | at 70: slope -0.44 long -0.46 %/yr, sigma 6.4 %, R_cross 14.4 R_long 13.9 y
+  total brain            n=1072 sites=5 b=1.02 | at 70: slope -0.38 long -0.47 %/yr, sigma 3.5 %, R_cross 9.2 R_long 7.4 y
+
+held-out calibration, all: {'n': 23810.0, 'mean_z': -0.001, 'sd_z': 1.021, 'within_1': 0.686, 'within_1.96': 0.946, 'skew': -0.143, 'excess_kurt': 0.708}
+                           n  mean_z   sd_z  within_1  within_1.96   skew  excess_kurt
+site                                                                                  
+ADNI FreeSurfer 1.5T  2856.0  -0.003  1.017     0.692        0.948 -0.320        0.993
+ADNI FreeSurfer 3T    2730.0  -0.000  1.017     0.691        0.948  0.164        1.245
+DLBS Philips 3T       7888.0  -0.003  1.018     0.688        0.946 -0.231        0.787
+IXI GE 1.5T           1156.0   0.010  1.049     0.679        0.938 -0.134        0.697
+IXI Philips 1.5T      5015.0   0.002  1.016     0.688        0.947 -0.095        0.340
+IXI Philips 3T        2941.0  -0.002  1.021     0.675        0.943 -0.091        0.304
+OASIS-2 Siemens 1.5T  1224.0   0.002  1.054     0.672        0.940 -0.181        0.776
+            n  mean_z   sd_z  within_1  within_1.96   skew  excess_kurt
+band                                                                   
+18-40  4879.0  -0.001  1.024     0.675        0.945 -0.109        0.242
+40-60  5210.0   0.001  1.027     0.680        0.944 -0.100        0.426
+60-75  9131.0   0.009  1.014     0.695        0.945 -0.115        1.035
+75+    4590.0  -0.021  1.023     0.686        0.949 -0.286        0.886
+
+floor:
+  age  n_window  p  R_brain_cross  SD_g_heldout_cross  best_single_R_cross  R_brain_long  SD_g_heldout_long  best_single_R_long
+20.0       107 91           3.28                4.49                 9.43          2.64               3.56                7.72
+25.0       184 91           3.68                4.93                10.07          2.99               3.85                9.66
+30.0       234 91           4.46                5.65                11.33          3.29               3.92               10.82
+35.0       214 91           5.33                6.89                13.57          3.56               4.51               11.72
+40.0       197 91           5.51                7.60                16.39          4.14               5.45               12.59
+45.0       183 91           6.04                7.95                19.31          4.74               6.82               13.35
+50.0       217 91           6.77                8.56                14.20          4.98               7.10               12.92
+55.0       272 91           6.17                7.74                10.99          5.10               6.64               12.02
+60.0       317 91           5.93                7.65                10.37          4.64               5.77               11.27
+65.0       341 91           5.79                7.35                11.26          4.40               5.68               10.87
+70.0       313 91           5.70                7.24                11.86          4.10               5.51               10.74
+75.0       266 91           5.22                6.82                11.81          3.91               5.42               10.58
+80.0       177 91           4.63                6.49                11.47          3.29               4.77                9.07
+85.0       105 91           4.23                6.79                10.87          2.73               4.34                7.78

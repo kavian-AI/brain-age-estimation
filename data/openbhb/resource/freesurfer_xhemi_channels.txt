@@ -1,0 +1,8 @@
+lh.aparc.annot.mgz
+lh.curv.mgz
+lh.sulc.mgz
+lh.thickness.mgz
+rh.aparc.annot.mgz
+rh.curv.mgz
+rh.sulc.mgz
+rh.thickness.mgz

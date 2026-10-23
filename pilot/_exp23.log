@@ -1,0 +1,43 @@
+volumes (4261, 32768), subjects 1246
+baseline, complete: n=931   {'CN': 392, 'MCI': 382, 'Dementia': 157}
+age 50-91, mean 73.0
+
+==========================================================================
+AD vs CN   n=549  (neg 392, pos 157)
+==========================================================================
+  (age MAE / r are on healthy test subjects, BEFORE bias correction)
+  gap from TAB   volumes+ICV+sex    AUC = 0.923 [0.921, 0.925]   age MAE 4.3 y, r=0.57
+  gap from IMG   voxel PCA          AUC = 0.627 [0.615, 0.640]   age MAE 4.9 y, r=0.38
+  gap from BOTH                     AUC = 0.873 [0.863, 0.882]   age MAE 4.5 y, r=0.53
+
+  fair baselines - straight to disease, chronological age included:
+  TAB   volumes+ICV+sex + age      AUC = 0.952 [0.950, 0.953]
+  IMG   voxel PCA + age            AUC = 0.648 [0.629, 0.662]
+  BOTH + age                       AUC = 0.931 [0.923, 0.939]
+
+  image vs tabular, as a gap             -0.295   p=0.000
+  image vs tabular, direct               -0.304   p=0.000
+  does the image ADD to volumes?         -0.021   p=0.000
+  gap vs direct (tabular)                -0.029   p=0.000
+  gap vs direct (image)                  -0.020   p=0.000
+
+==========================================================================
+MCI vs CN  (the harder, earlier question)   n=774  (neg 392, pos 382)
+==========================================================================
+  (age MAE / r are on healthy test subjects, BEFORE bias correction)
+  gap from TAB   volumes+ICV+sex    AUC = 0.764 [0.761, 0.768]   age MAE 4.3 y, r=0.57
+  gap from IMG   voxel PCA          AUC = 0.587 [0.568, 0.603]   age MAE 4.9 y, r=0.38
+  gap from BOTH                     AUC = 0.711 [0.700, 0.723]   age MAE 4.5 y, r=0.53
+
+  fair baselines - straight to disease, chronological age included:
+  TAB   volumes+ICV+sex + age      AUC = 0.785 [0.782, 0.790]
+  IMG   voxel PCA + age            AUC = 0.613 [0.591, 0.627]
+  BOTH + age                       AUC = 0.739 [0.728, 0.756]
+
+  image vs tabular, as a gap             -0.177   p=0.000
+  image vs tabular, direct               -0.172   p=0.000
+  does the image ADD to volumes?         -0.046   p=0.000
+  gap vs direct (tabular)                -0.021   p=0.000
+  gap vs direct (image)                  -0.026   p=0.000
+
+saved -> C:\Users\Sibetalaee\Desktop\PhD\Brain Age Estimation\pilot\exp23_adni_image.npz

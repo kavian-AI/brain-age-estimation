@@ -1,0 +1,12 @@
+[{"stream_name":"stdout","time":6.298617017,"data":"==================================================\n"}
+,{"stream_name":"stdout","time":6.298742495,"data":"GPU      available: False\n"}
+,{"stream_name":"stdout","time":6.298749389,"data":"!! NO GPU - account is probably not phone-verified\n"}
+,{"stream_name":"stdout","time":38.33503557,"data":"!! NO INTERNET: gaierror [Errno -3] Temporary failure in name resolution\n"}
+,{"stream_name":"stdout","time":38.335084086,"data":"==================================================\n"}
+,{"stream_name":"stderr","time":41.788892874,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":41.788953039,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":42.180563772,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":42.180604164,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":43.063246825,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":44.902985125,"data":"[NbConvertApp] Writing 278393 bytes to __results__.html\n"}
+]

@@ -1,0 +1,55 @@
+[{"stream_name":"stdout","time":1.137111499,"data":"PART 1\n"}
+,{"stream_name":"stdout","time":2.829091611,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":2.850713569,"data":"numpy2 patch: 1\n"}
+,{"stream_name":"stdout","time":6.9403578150000005,"data":"lba clone rc 0 62928851\n"}
+,{"stream_name":"stdout","time":25.3377151,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":35.564456233,"data":"torch 2.11.0+cu128 cuda True Tesla T4 numpy 2.1.3\n"}
+,{"stream_name":"stdout","time":35.565161032,"data":"Failed to load libcublasLt.so.13: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":35.565475471,"data":"Failed to load libcublas.so.13: libcublas.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":35.566151473,"data":"Failed to load libcudart.so.13: libcudart.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":35.56616297,"data":"Please follow https://onnxruntime.ai/docs/install/#cuda-and-cudnn to install CUDA.\n"}
+,{"stream_name":"stderr","time":35.625658721,"data":"\u001b[1;31m2026-10-11 19:58:23.459110087 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stderr","time":35.625690791,"data":"\u001b[m\n"}
+,{"stream_name":"stderr","time":35.625695281,"data":"\u001b[0;93m2026-10-11 19:58:23.459174049 [W:onnxruntime:Default, onnxruntime_pybind_state.cc:1295 CreateExecutionProviderFactoryInstance] Failed to create CUDAExecutionProvider. Require cuDNN 9.* and CUDA 13.*. Please install all dependencies as mentioned in the GPU requirements page (https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html#requirements), make sure they're in the PATH, and that your GPU is supported.\u001b[m\n"}
+,{"stream_name":"stdout","time":44.447914133,"data":"ORT providers ['CPUExecutionProvider']\n"}
+,{"stream_name":"stdout","time":45.802265331,"data":"IXI T1 files found 581\n"}
+,{"stream_name":"stdout","time":45.802302924,"data":"jobs for this part 290\n"}
+,{"stream_name":"stdout","time":192.07750419,"data":"  [1/290] IXI012-HH-1211-T1 seg 146s | rows 0 | last: cap nan hm nan sd nan post 0s | elapsed 0.05 h\n"}
+,{"stream_name":"stdout","time":244.482488852,"data":"  [2/290] IXI014-HH-1236-T1 seg 52s | rows 0 | last: cap nan hm nan sd nan post 0s | elapsed 0.07 h\n"}
+,{"stream_name":"stdout","time":400.302920493,"data":"  [3/290] IXI016-Guys-0697-T1 seg 53s | rows 1 | last: cap 62.9 hm 65.2 sd 0.37 post 155.3s | elapsed 0.11 h\n"}
+,{"stream_name":"stdout","time":1566.63932625,"data":"  [11/290] IXI034-HH-1260-T1 seg 54s | rows 9 | last: cap 66.3 hm 70.3 sd 0.32 post 143.4s | elapsed 0.43 h\n"}
+,{"stream_name":"stdout","time":3042.051062162,"data":"  [21/290] IXI055-Guys-0730-T1 seg 53s | rows 19 | last: cap 53.4 hm 61.7 sd 0.39 post 153.0s | elapsed 0.84 h\n"}
+,{"stream_name":"stdout","time":4504.639569504,"data":"  [31/290] IXI075-Guys-0754-T1 seg 53s | rows 29 | last: cap 53.3 hm 57.7 sd 0.45 post 143.1s | elapsed 1.25 h\n"}
+,{"stream_name":"stdout","time":5968.555995754,"data":"  [41/290] IXI096-HH-1391-T1 seg 53s | rows 39 | last: cap 53.5 hm 64.4 sd 0.51 post 142.3s | elapsed 1.66 h\n"}
+,{"stream_name":"stdout","time":7442.1908853,"data":"  [51/290] IXI116-Guys-0739-T1 seg 53s | rows 49 | last: cap 55.4 hm 58.2 sd 0.57 post 153.2s | elapsed 2.07 h\n"}
+,{"stream_name":"stdout","time":8903.552141558,"data":"  [61/290] IXI139-Guys-0815-T1 seg 53s | rows 59 | last: cap 52.6 hm 58.6 sd 0.40 post 143.0s | elapsed 2.47 h\n"}
+,{"stream_name":"stdout","time":10370.927506679,"data":"  [71/290] IXI163-HH-1621-T1 seg 53s | rows 69 | last: cap 56.1 hm 63.2 sd 0.48 post 142.7s | elapsed 2.88 h\n"}
+,{"stream_name":"stdout","time":11841.695931341,"data":"  [81/290] IXI184-Guys-0794-T1 seg 53s | rows 79 | last: cap 53.8 hm 59.3 sd 0.49 post 153.7s | elapsed 3.29 h\n"}
+,{"stream_name":"stdout","time":13303.430339807,"data":"  [91/290] IXI207-Guys-0809-T1 seg 53s | rows 89 | last: cap 49.5 hm 57.9 sd 0.40 post 143.1s | elapsed 3.70 h\n"}
+,{"stream_name":"stdout","time":14770.381480952,"data":"  [101/290] IXI229-Guys-0980-T1 seg 52s | rows 99 | last: cap 62.3 hm 63.8 sd 0.34 post 143.0s | elapsed 4.10 h\n"}
+,{"stream_name":"stdout","time":16239.600180257,"data":"  [111/290] IXI252-HH-1693-T1 seg 52s | rows 109 | last: cap 64.2 hm 66.5 sd 0.33 post 152.8s | elapsed 4.51 h\n"}
+,{"stream_name":"stdout","time":17698.621430375,"data":"  [121/290] IXI275-HH-1803-T1 seg 52s | rows 119 | last: cap 54.6 hm 59.8 sd 0.37 post 143.0s | elapsed 4.92 h\n"}
+,{"stream_name":"stdout","time":19154.568227177,"data":"  [131/290] IXI297-Guys-0886-T1 seg 53s | rows 129 | last: cap 54.4 hm 61.8 sd 0.32 post 142.9s | elapsed 5.32 h\n"}
+,{"stream_name":"stdout","time":20625.112706469,"data":"  [141/290] IXI318-Guys-0895-T1 seg 53s | rows 139 | last: cap 59.0 hm 65.4 sd 0.39 post 153.5s | elapsed 5.73 h\n"}
+,{"stream_name":"stdout","time":22093.646203241,"data":"  [151/290] IXI340-IOP-0915-T1 seg 53s | rows 149 | last: cap 70.8 hm 74.5 sd 0.33 post 142.8s | elapsed 6.14 h\n"}
+,{"stream_name":"stdout","time":23562.211774654,"data":"  [161/290] IXI365-Guys-0923-T1 seg 53s | rows 159 | last: cap 62.2 hm 67.8 sd 0.40 post 144.2s | elapsed 6.54 h\n"}
+,{"stream_name":"stdout","time":25038.316200132,"data":"  [171/290] IXI387-HH-2101-T1 seg 53s | rows 169 | last: cap 70.3 hm 73.5 sd 0.34 post 153.5s | elapsed 6.95 h\n"}
+,{"stream_name":"stdout","time":26504.588287789,"data":"  [181/290] IXI407-Guys-0964-T1 seg 53s | rows 179 | last: cap 64.9 hm 67.6 sd 0.28 post 142.2s | elapsed 7.36 h\n"}
+,{"stream_name":"stdout","time":27976.028667516,"data":"  [191/290] IXI428-Guys-0996-T1 seg 52s | rows 189 | last: cap 57.3 hm 64.8 sd 0.52 post 143.8s | elapsed 7.77 h\n"}
+,{"stream_name":"stdout","time":29455.404059577,"data":"  [201/290] IXI448-HH-2393-T1 seg 53s | rows 199 | last: cap 65.8 hm 70.0 sd 0.35 post 153.6s | elapsed 8.18 h\n"}
+,{"stream_name":"stdout","time":30913.480208708,"data":"  [211/290] IXI469-IOP-1136-T1 seg 53s | rows 209 | last: cap 73.1 hm 77.5 sd 0.33 post 143.2s | elapsed 8.59 h\n"}
+,{"stream_name":"stdout","time":32374.862328732,"data":"  [221/290] IXI491-Guys-1032-T1 seg 53s | rows 219 | last: cap 68.4 hm 69.8 sd 0.32 post 142.9s | elapsed 8.99 h\n"}
+,{"stream_name":"stdout","time":33845.938698182,"data":"  [231/290] IXI512-Guys-1054-T1 seg 53s | rows 229 | last: cap 70.1 hm 69.6 sd 0.35 post 153.7s | elapsed 9.40 h\n"}
+,{"stream_name":"stdout","time":35300.932166386,"data":"  [241/290] IXI537-HH-2378-T1 seg 53s | rows 239 | last: cap 70.5 hm 69.8 sd 0.30 post 142.6s | elapsed 9.81 h\n"}
+,{"stream_name":"stdout","time":36757.656644301,"data":"  [251/290] IXI560-Guys-1070-T1 seg 53s | rows 249 | last: cap 69.6 hm 69.9 sd 0.32 post 142.1s | elapsed 10.21 h\n"}
+,{"stream_name":"stdout","time":38221.383382833,"data":"  [261/290] IXI585-Guys-1130-T1 seg 54s | rows 259 | last: cap 63.5 hm 67.5 sd 0.33 post 152.4s | elapsed 10.62 h\n"}
+,{"stream_name":"stdout","time":39679.245995281,"data":"  [271/290] IXI608-HH-2599-T1 seg 53s | rows 269 | last: cap 66.6 hm 68.9 sd 0.32 post 142.7s | elapsed 11.02 h\n"}
+,{"stream_name":"stdout","time":40404.850628472,"data":"time budget reached, stopping\n"}
+,{"stream_name":"stdout","time":40617.904339505,"data":"finished: 276 rows, 11.28 h\n"}
+,{"stream_name":"stderr","time":40620.758161858,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":40620.75818511,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":40621.065043469,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":40621.065066681,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":40621.861481669,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":40622.952820504,"data":"[NbConvertApp] Writing 332636 bytes to __results__.html\n"}
+]

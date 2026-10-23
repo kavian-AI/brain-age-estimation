@@ -1,0 +1,49 @@
+cached volumes (4261, 32768), subjects 1246
+age model trained on 429 CN subjects (one scan each)
+  TAB   in-sample |gap| on CN: 2.78 y
+  IMG   in-sample |gap| on CN: 1.87 y
+  BOTH  in-sample |gap| on CN: 2.17 y
+
+==========================================================================
+LANDMARK L = 1.0 y   (rate from scans in [0,1.25], conversion counted after 1.0)
+==========================================================================
+  n = 234   converters = 135   median follow-up 2.0 y
+  age only                     C = 0.527 [0.517, 0.534]
+  hippocampus at baseline      C = 0.643 [0.637, 0.647]
+  hippocampus RATE             C = 0.598 [0.588, 0.604]
+  gap value  (tabular)         C = 0.654 [0.649, 0.658]
+  gap RATE   (tabular)         C = 0.651 [0.643, 0.656]
+  gap value  (image)           C = 0.512 [0.486, 0.532]
+  gap RATE   (image)           C = 0.510 [0.494, 0.522]
+  gap RATE   (both)            C = 0.548 [0.538, 0.555]
+  gap RATE tabular + image     C = 0.648 [0.638, 0.655]
+
+  rate vs value (tabular)            -0.003   p=0.400
+  rate vs value (image)              -0.002   p=1.000
+  image rate vs tabular rate         -0.141   p=0.000
+  image rate vs hippocampus rate     -0.087   p=0.000
+  tabular rate vs hippocampus rate   +0.054   p=0.000
+  does image ADD to tabular rate?    -0.004   p=0.100
+
+==========================================================================
+LANDMARK L = 2.0 y   (rate from scans in [0,2.25], conversion counted after 2.0)
+==========================================================================
+  n = 207   converters = 127   median follow-up 1.0 y
+  age only                     C = 0.529 [0.496, 0.543]
+  hippocampus at baseline      C = 0.617 [0.603, 0.622]
+  hippocampus RATE             C = 0.638 [0.623, 0.643]
+  gap value  (tabular)         C = 0.629 [0.618, 0.634]
+  gap RATE   (tabular)         C = 0.683 [0.673, 0.688]
+  gap value  (image)           C = 0.518 [0.472, 0.540]
+  gap RATE   (image)           C = 0.509 [0.465, 0.532]
+  gap RATE   (both)            C = 0.574 [0.552, 0.588]
+  gap RATE tabular + image     C = 0.675 [0.663, 0.684]
+
+  rate vs value (tabular)            +0.054   p=0.000
+  rate vs value (image)              -0.009   p=0.500
+  image rate vs tabular rate         -0.174   p=0.000
+  image rate vs hippocampus rate     -0.128   p=0.000
+  tabular rate vs hippocampus rate   +0.045   p=0.000
+  does image ADD to tabular rate?    -0.008   p=0.000
+
+saved -> C:\Users\Sibetalaee\Desktop\PhD\Brain Age Estimation\pilot\exp24_rate_L*.npz

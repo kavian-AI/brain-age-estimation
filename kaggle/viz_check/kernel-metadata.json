@@ -1,0 +1,18 @@
+{
+  "id": "mohammadparsakavian/viz-check-seg",
+  "title": "viz-check-seg",
+  "code_file": "viz_run.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "gowthamchand999/ixi-t1",
+    "javidtheimmortal/oasis-2"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

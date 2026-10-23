@@ -1,0 +1,116 @@
+id,name,license,n,age_col,age_min,age_max,n_ge40,n_ge60,group_cols
+ds000115,Working memory in healthy and schizophrenic individuals,,99,age,11.6687,30.7871,0,0,
+ds000202,The heterogeneity in retrieved relations between the persona,Not Specifie,95,Age (years),18.0,30.0,0,0,
+ds000221,MPI-Leipzig_Mind-Brain-Body,CC0,318,,,,0,0,
+ds000243,Washington University 120,CC0,120,Age,18.56,31.73,0,0,
+ds000201,The Stockholm Sleepy Brain Study: Effects of Sleep Deprivati,CC0,86,,,,0,0,AgeGroup
+ds000228,MRI data of 3-12 year old children and adults during viewing,CC0,155,Age,3.518138261,39.0,0,0,"AgeGroup,FB_Group"
+ds000030,UCLA Consortium for Neuropsychiatric Phenomics LA5c Study,CC0,272,age,21.0,50.0,87,0,diagnosis
+ds001461,rsfMRI_comrobidity-SmokingandSchizophrenia,CC0,81,age,17.0,60.0,16,1,"diagnosis,smoking_status"
+ds001486,Brain Correlates of Math Development,CC0,132,age_ses-T1,8.36,15.0,0,0,
+ds001720,Mouse_rest_multicentre,,255,,,,0,0,
+ds001734,NARPS,CC0,108,age,18.0,37.0,0,0,group
+ds001747,Exploring the Resting State Neural Activity of Monolinguals ,CC0,92,age,18.0,29.0,0,0,group
+ds001894,Longitudinal Brain Correlates of Multisensory Lexical Proces,CC0,188,age_ses-T1_phenotype,7.5,14.38,0,0,
+ds002236,Cross-Sectional Multidomain Lexical Processing,CC0,91,age,8.67,15.5,0,0,
+ds002345,Narratives,CC0,345,,,,0,0,condition
+ds002620,"Emotion regulation in the Ageing Brain, University of Readin",CC0,36,age,56.03,83.09,34,32,
+ds002643,Can we have a second helping? A replication study on the neu,CC0,80,age,18.0,43.0,1,0,
+ds002785,AOMIC-PIOP1,CC0,216,age,18.25,26.25,0,0,
+ds002790,AOMIC-PIOP2,CC0,226,age,18.25,25.75,0,0,
+ds002837,Naturalistic Neuroimaging Database,CC0,86,age,18.0,58.0,11,0,
+ds002843,Cognitive Training,CC0,166,age,18.0,34.0,0,0,condition
+ds003097,AOMIC-ID1000,CC0,928,age,19.0,26.0,0,0,
+ds003242,MRI data of 40 adult participants in response to a cue induc,CC0,122,age,18.0,40.0,3,0,
+ds003346,SUDMEX_CONN: The Mexican dataset of cocaine use disorder pat,CC0,145,age,18.0,50.0,19,0,group
+ds003416,"MASiVar: Multisite, Multiscanner, and Multisubject Acquisiti",CC0,169,age,5.4,47.0,11,0,
+ds003469,Speech disfluencies: Neurophysiological aspect in normal pop,CC0,81,age,18.0,39.0,0,0,
+ds003499,Developmental change in prefrontal cortex recruitment suppor,CC0,90,age,8.022222222,25.86666667,0,0,
+ds003592,"Neurocognitive aging data release with behavioral, structura",CC0,301,age,18.0,83.0,119,119,agegroup
+ds003604,A longitudinal neuroimaging dataset on language processing i,CC0,322,,,,0,0,
+ds003643,Le Petit Prince: A multilingual fMRI corpus using ecological,CC0,112,age,18.0,40.0,1,0,
+ds003653,Cortical myelin measured by the T1w/T2w ratio in individuals,CC0,87,age,19.1,44.3,5,0,"group,group_dx,number_comorbid_dx"
+ds003701,Concrete Permuted Rule Operations,CC0,105,age,18.0,38.0,0,0,group
+ds003823,Heart rate variability biofeedback training and emotion regu,CC0,193,,,,0,0,"age_group,condition"
+ds003826,Structural (t1) images of 136 young healthy adults; study of,CC0,136,age,18.0,35.0,0,0,group
+ds003949,Lausanne_TOF-MRA_Aneurysm_Cohort,CC0,296,,,,0,0,group
+ds004114,MultiRat_rest,CC0,751,,,,0,0,
+ds004116,StandardRat,CC0,209,,,,0,0,
+ds004146,Queensland Twin Adolescent Brain (QTAB),CC0,417,age,8.0,14.0,0,0,group
+ds004169,Queensland Twin IMaging (QTIM),CC0,1202,age,12.0,30.0,0,0,group
+ds004173,Movement-related artefacts (MR-ART) dataset,CC0,148,age,18.15,74.8,24,10,
+ds004199,An open presurgery MRI dataset of people with epilepsy and f,CC0,170,age_scan,3.0,13.0,0,0,"group,mri_diagnosis"
+ds004299,Characterizing habit learning in the human brain at the indi,CC0,123,,,,0,0,
+ds004455,magic_carpet,CC0,96,,,,0,0,
+ds004466,Mapping the Connectome of Synaesthesia: An Open Access MRI D,CC0,127,age,18.0,68.0,44,5,group
+ds004589,Left Out: The Effect of Handedness on fMRI Activation in Mem,CC0,109,age,18.0,47.0,1,0,
+ds004605,Emotion and Development Branch Phenotyping and DTI (2012-201,CC0,583,age,7.6,20.5,0,0,
+ds004627,Characterization and Treatment of Adolescent Depression (CAT,CC0,130,,,,0,0,
+ds004636,"Cognitive tasks, anatomical MRI, and functional MRI data eva",CC0,110,Age,18.0,45.0,3,0,
+ds004639,nav_training,CC0,1,,,,0,0,
+ds004648,Sympathovagal quotient and functional connectivity of contro,CC0,88,Age,21.0,40.0,1,0,
+ds004697,Food and Brain Study,CC0,94,age,7.0,8.99,0,0,risk_status_mom
+ds004711,AgeRisk,CC0,189,age,16.22,81.48,104,58,
+ds004725,Single Dose Intranasal Oxytocin Administration: Data from He,CC0,87,age,18.29,80.73,43,43,treatment_group
+ds004746,Paingen_placebo,CC0,397,age,27.0,77.0,42,1,
+ds004795,Simulated motion artifacts based on the (MR-ART) dataset (ht,CC0,148,age,18.15,74.8,24,10,
+ds004856,The Dallas Lifespan Brain Study,CC0,464,AgeCog_W1,21.0,89.0,375,253,
+ds004884,Aphasia Recovery Cohort (ARC) Dataset,CC0,245,age_at_stroke,23.0,80.0,229,113,
+ds004889,Stroke Outcome Optimization Project (SOOP),CC0,1505,age,16.0,88.0,1007,672,
+ds004965,Truecrime,CC0,133,age,18.0,65.0,12,2,
+ds004976,NDUFS4_mouse,CC0,119,age,21.0,39.0,0,0,
+ds005016,MBSR,CC0,147,,,,0,0,group
+ds005026,Hearing loss Connectome,CC0,82,age,47.0,78.0,82,49,
+ds005027,Michigan Longitudinal Study,CC0,175,ScanAge,18.0,28.8,0,0,
+ds005112,Structural MRI dataset from NIMH: Clinical and Translational,CC0,135,age,8.0,55.0,10,0,
+ds005123,Social Reward and Nonsocial Reward Processing Across the Adu,CC0,114,age,21.0,80.0,53,28,group
+ds005143,Spinal Cord fMRI Segmentation  Database (Multi-subject),CC0,450,,,,0,0,
+ds005166,A framework for leveraging technology to probe mechanism: A ,CC0,160,age,8.25,20.22,0,0,
+ds005237,Transdiagnostic Connectome Project,CC0,245,age,18.08,68.33,74,12,Group
+ds005256,A multimodal fMRI dataset unifying naturalistic processes wi,CC0,117,age,17.0,44.0,5,0,group
+ds005270,BOLD variability during cognitive control for an adult lifes,CC0,158,age,20.0,86.0,100,56,
+ds005364,neuroCOVID MRI dWI and fMRI with reversal learning ,CC0,100,age,19.0,66.0,51,11,
+ds005366,Large-scale fMRI dataset for the design of motor-based Brain,CC0,155,age,6.0,89.0,58,26,
+ds005405,Protecting the Aging Brain - fMRI study of the brain in keto,CC0,101,age,21.0,79.0,63,24,
+ds005449,Valenced tactile information is evoked by neutral visual cue,CC0,125,age,18.0,29.0,0,0,
+ds005460,"CLIMATE BRAIN - Questionnaires, Tasks and the Neuroimaging D",CC0,160,age,19.0,26.0,0,0,condition
+ds005498,Single-pulse TMS fMRI,CC0,152,Age,18.0,61.0,33,1,"Current PTSD Diagnosis,Lifetime PTSD Dia"
+ds005534,MultiRat_se,CC0,217,,,,0,0,
+ds005595,Precise perivascular space segmentation on T2-weighted magne,CC0,200,age,36.0,100.0,167,102,
+ds005613,NEBULA101 NeuroBehavioural Understanding of Language Aptitud,CC0,101,age,18.2,38.5,0,0,
+ds005747,7T fMRI Resting-state Dataset,CC0,90,age,18.0,40.0,2,0,
+ds005752,The NIMH Healthy Research Volunteer Dataset,CC0,1859,age,18.0,89.0,853,403,
+ds005754,Multivariate Assessment of Inhibitory Control in Youth: Link,CC0,220,age,8.1,18.0,0,0,
+ds005896,Structural and functional MRI dataset from the Adolescent He,CC0,262,Age,11.0,20.0,0,0,
+ds005901,Structural and functional MRI dataset from the Adolescent He,CC0,120,Age,15.0,23.0,0,0,
+ds006067,ThinkAloud,CC0,118,age,18.0,39.0,0,0,
+ds006148,The Multimodal Dataset to Investigate Task-Evoked Negative B,CC0,266,,,,0,0,
+ds006169,Longitudinal-Trajectories-Early-Brain-Development-Language,CC0,259,pre_beh_age,54.53350854,77.26675427,240,162,
+ds006239,A fMRI neuroimaging dataset of word reading with semantic an,CC0,92,,,,0,0,
+ds006303,Reduced Threat-Related Neural Efficiency: A Possible Biomark,CC0,149,age,8.0,18.0,0,0,group
+ds006395,"Upper limb dystonia, cervical dystonia and healthy controls ",CC0,91,age,19.0,78.0,57,16,group
+ds006533,Precise vs. Approximate Numeracy in Stroke Participants,CC0,105,age,25.0,82.0,99,64,
+ds006577,NIMH Gamified Attention Bias Modification Training to Augmen,CC0,185,,,,0,0,"group,condition"
+ds006636,Morphological Awareness in Readers With and Without Dyslexia,CC0,204,,,,0,0,
+ds006905,Organizational Skills Training,CC0,84,age_years,7.0,11.0,0,0,"Diagnosis 1,Diagnosis 2,Diagnosis 3,Diag"
+ds006926,Complex multi-echo fMRI dataset: New strategies in processin,CC0,83,age,20.0,41.0,4,0,
+ds007045,Real-world Multi-Institutional Glioblastoma MRI Dataset with,CC0,363,age,29.0,89.0,350,220,
+ds007100,Resting-state fMRI in Awake Mice,CC0,82,age_baseline,3.0,20.0,0,0,
+ds007111,NEUROLINGUA: A Neuroimaging Database Tailored to Unraveling ,CC0,725,age,18.0,82.0,186,95,
+ds007116,Penn LEAD: Penn Longitudinal Executive functioning in Adoles,CC0,132,age,8.0,16.0,0,0,"study_group,dx_none,dx_prodromal,dx_prod"
+ds007212,Chronic Brain Lesion MRI with Manual Lesion Segmentations (C,CC0,204,,,,0,0,
+ds007286,YaleNeuroConnect,CC0,410,,,,0,0,
+ds007446,Late Unbalanced Bilinguals Dataset: Structural and Functiona,CC0,118,age,18.0,34.0,0,0,
+ds007522,Precision Aging Network: Closing the Gap Between Cognitive H,CC0,969,age,49.0,79.0,969,667,
+ds007671,Longitudinal whole-brain MRI of alpha-synuclein propagation ,CC0,401,,,,0,0,
+ds007694,GRACE,CC0,139,age,18.0,25.0,0,0,group
+ds007831,The Georgetown Reading in Aging Neuroimaging Dataset (GRAND),CC0,110,age_enrollment,22.42,84.11,101,64,
+ds007857,Michigan Neural Distinctiveness (MiND) Study,CC0,289,age,65.0,87.0,273,273,group
+ds007907,Elevated translocator protein in skull bone marrow is linked,CC0,147,age,19.0,85.0,112,66,group
+ds008447,Dataset: Modality-specific reactive and predictive responses,CC0,80,age,18.0,40.0,2,0,
+ds008579,GRMPY,CC0,231,age,12.55,30.87,0,0,"group,dx_adhd,dx_adhd_remit,dx_anx,dx_an"
+ds008685,Queensland Twin IMaging (QTIM) Diffusion dataset,CC0,697,age,18.0,30.0,0,0,group
+ds008719,CIRM: high-resolution T1w and dual-echo pCASL in coronary ar,CC0,84,age,51.0,84.0,84,65,group
+ds008765,Taxonomic and Thematic Semantic Relationships across the Adu,CC0,85,age,21.0,70.0,34,34,group
+ds008807,Synthetic 3D Brain MRI Dataset from a Brain Metastasis Cohor,CC0,10000,,,,0,0,
+ds008811,Synthetic 3D Brain MRI Dataset from a Glioma Cohort,CC0,10000,,,,0,0,

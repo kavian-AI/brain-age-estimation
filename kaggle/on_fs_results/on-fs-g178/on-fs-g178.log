@@ -1,0 +1,75 @@
+[{"stream_name":"stdout","time":0.863505255,"data":"PART 178 scans 13\n"}
+,{"stream_name":"stdout","time":2.308577237,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":57.939056323,"data":"pip rc 0 \n"}
+,{"stream_name":"stderr","time":193.37042792,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":193.371801255,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 1318, in do_open\n"}
+,{"stream_name":"stderr","time":193.371819019,"data":"    h.request(req.get_method(), req.selector, req.data, headers,\n"}
+,{"stream_name":"stderr","time":193.371824186,"data":"    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.37182880699999,"data":"              encode_chunked=req.has_header('Transfer-encoding'))\n"}
+,{"stream_name":"stderr","time":193.371833404,"data":"              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.371838249,"data":"  File \"/usr/lib/python3.13/http/client.py\", line 1386, in request\n"}
+,{"stream_name":"stderr","time":193.37184271,"data":"    self._send_request(method, url, body, headers, encode_chunked)\n"}
+,{"stream_name":"stderr","time":193.371847586,"data":"    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.371851942,"data":"  File \"/usr/lib/python3.13/http/client.py\", line 1432, in _send_request\n"}
+,{"stream_name":"stderr","time":193.371856231,"data":"    self.endheaders(body, encode_chunked=encode_chunked)\n"}
+,{"stream_name":"stderr","time":193.371860672,"data":"    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.371864862,"data":"  File \"/usr/lib/python3.13/http/client.py\", line 1381, in endheaders\n"}
+,{"stream_name":"stderr","time":193.371869252,"data":"    self._send_output(message_body, encode_chunked=encode_chunked)\n"}
+,{"stream_name":"stderr","time":193.371873482,"data":"    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.371877903,"data":"  File \"/usr/lib/python3.13/http/client.py\", line 1141, in _send_output\n"}
+,{"stream_name":"stderr","time":193.371882315,"data":"    self.send(msg)\n"}
+,{"stream_name":"stderr","time":193.371886302,"data":"    ~~~~~~~~~^^^^^\n"}
+,{"stream_name":"stderr","time":193.371890416,"data":"  File \"/usr/lib/python3.13/http/client.py\", line 1085, in send\n"}
+,{"stream_name":"stderr","time":193.371898361,"data":"    self.connect()\n"}
+,{"stream_name":"stderr","time":193.371902546,"data":"    ~~~~~~~~~~~~^^\n"}
+,{"stream_name":"stderr","time":193.371906745,"data":"  File \"/usr/lib/python3.13/http/client.py\", line 1520, in connect\n"}
+,{"stream_name":"stderr","time":193.371911257,"data":"    super().connect()\n"}
+,{"stream_name":"stderr","time":193.371915499,"data":"    ~~~~~~~~~~~~~~~^^\n"}
+,{"stream_name":"stderr","time":193.371919679,"data":"  File \"/usr/lib/python3.13/http/client.py\", line 1051, in connect\n"}
+,{"stream_name":"stderr","time":193.371923703,"data":"    self.sock = self._create_connection(\n"}
+,{"stream_name":"stderr","time":193.371927859,"data":"                ~~~~~~~~~~~~~~~~~~~~~~~^\n"}
+,{"stream_name":"stderr","time":193.371932135,"data":"        (self.host,self.port), self.timeout, self.source_address)\n"}
+,{"stream_name":"stderr","time":193.371936245,"data":"        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.371940986,"data":"  File \"/usr/lib/python3.13/socket.py\", line 868, in create_connection\n"}
+,{"stream_name":"stderr","time":193.371945907,"data":"    raise exceptions[0]\n"}
+,{"stream_name":"stderr","time":193.371963769,"data":"  File \"/usr/lib/python3.13/socket.py\", line 853, in create_connection\n"}
+,{"stream_name":"stderr","time":193.371967736,"data":"    sock.connect(sa)\n"}
+,{"stream_name":"stderr","time":193.371971109,"data":"    ~~~~~~~~~~~~^^^^\n"}
+,{"stream_name":"stderr","time":193.371974463,"data":"TimeoutError: [Errno 110] Connection timed out\n"}
+,{"stream_name":"stderr","time":193.371989116,"data":"\n"}
+,{"stream_name":"stderr","time":193.371992827,"data":"During handling of the above exception, another exception occurred:\n"}
+,{"stream_name":"stderr","time":193.371996293,"data":"\n"}
+,{"stream_name":"stderr","time":193.371999322,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":193.373023527,"data":"  File \"/kaggle/src/script.py\", line 37, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":193.373039864,"data":"    urllib.request.urlretrieve(\"https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/requirements/synthstrip.1.pt\",\n"}
+,{"stream_name":"stderr","time":193.373044692,"data":"    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.37304887,"data":"                               \"/tmp/fs/models/synthstrip.1.pt\")\n"}
+,{"stream_name":"stderr","time":193.373052732,"data":"                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.373056393,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 214, in urlretrieve\n"}
+,{"stream_name":"stderr","time":193.37306057,"data":"    with contextlib.closing(urlopen(url, data)) as fp:\n"}
+,{"stream_name":"stderr","time":193.37306432,"data":"                            ~~~~~~~^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.373068631,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 189, in urlopen\n"}
+,{"stream_name":"stderr","time":193.373072488,"data":"    return opener.open(url, data, timeout)\n"}
+,{"stream_name":"stderr","time":193.373076467,"data":"           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.373080289,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 489, in open\n"}
+,{"stream_name":"stderr","time":193.373083932,"data":"    response = self._open(req, data)\n"}
+,{"stream_name":"stderr","time":193.373087668,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 506, in _open\n"}
+,{"stream_name":"stderr","time":193.373091893,"data":"    result = self._call_chain(self.handle_open, protocol, protocol +\n"}
+,{"stream_name":"stderr","time":193.373095594,"data":"                              '_open', req)\n"}
+,{"stream_name":"stderr","time":193.373099116,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 466, in _call_chain\n"}
+,{"stream_name":"stderr","time":193.373102884,"data":"    result = func(*args)\n"}
+,{"stream_name":"stderr","time":193.373107072,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 1366, in https_open\n"}
+,{"stream_name":"stderr","time":193.373110904,"data":"    return self.do_open(http.client.HTTPSConnection, req,\n"}
+,{"stream_name":"stderr","time":193.373114546,"data":"           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.373118268,"data":"                        context=self._context)\n"}
+,{"stream_name":"stderr","time":193.373121892,"data":"                        ^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":193.373125629,"data":"  File \"/usr/lib/python3.13/urllib/request.py\", line 1321, in do_open\n"}
+,{"stream_name":"stderr","time":193.373129386,"data":"    raise URLError(err)\n"}
+,{"stream_name":"stderr","time":193.373140955,"data":"urllib.error.URLError: \u003curlopen error [Errno 110] Connection timed out\u003e\n"}
+,{"stream_name":"stderr","time":195.504348458,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":195.504379288,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":195.82056387,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":195.820589273,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":196.768470048,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":197.888907356,"data":"[NbConvertApp] Writing 343324 bytes to __results__.html\n"}
+]

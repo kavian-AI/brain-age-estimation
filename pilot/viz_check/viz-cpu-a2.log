@@ -1,0 +1,17 @@
+[{"stream_name":"stdout","time":2.25759955,"data":"clone 0\n"}
+,{"stream_name":"stdout","time":8.032017234,"data":"pip 0\n"}
+,{"stream_name":"stdout","time":1003.097862374,"data":"ok 16 ds005405 cerebellum pair run-1 (cb 13 cm3)\n"}
+,{"stream_name":"stdout","time":1911.436814154,"data":"ok 17 ds005405 cerebellum pair run-2 (cb 79 cm3)\n"}
+,{"stream_name":"stdout","time":2839.082508994,"data":"ok 18 OpenBHB QC failure 347451361275\n"}
+,{"stream_name":"stdout","time":3760.090681515,"data":"ok 19 OpenBHB QC failure 792041257894\n"}
+,{"stream_name":"stdout","time":4695.094013644,"data":"ok 20 IXI typical (IXI002, age 36)\n"}
+,{"stream_name":"stdout","time":5619.17869749,"data":"ok 21 DLBS typical (sub-1003 wave 1, age 54)\n"}
+,{"stream_name":"stdout","time":6520.85839741,"data":"ok 22 OASIS-2 (OAS2_0001 visit 1, age 87)\n"}
+,{"stream_name":"stdout","time":6520.8584642,"data":"plots: 7 of 23\n"}
+,{"stream_name":"stderr","time":6523.427586283,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":6523.427627839,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":6523.706221379,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":6523.70624924,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6524.64949579,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6525.757891021,"data":"[NbConvertApp] Writing 311444 bytes to __results__.html\n"}
+]

@@ -1,0 +1,7 @@
+10-18 16:45 p5-cloud-b {"status": "COMPLETE", "failureMessage": null} -> 1 files
+10-18 17:25 p5-cloud-a {"status": "COMPLETE", "failureMessage": null} -> 12 files
+done; unfinished: []
+10-19 01:53 p5-cloud-b {"status": "COMPLETE", "failureMessage": null} -> 3 files
+done; unfinished: []
+10-19 19:49 p5-cloud-a {"status": "COMPLETE", "failureMessage": null} -> 14 files
+done; unfinished: []

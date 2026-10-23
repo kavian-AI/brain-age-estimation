@@ -1,0 +1,48 @@
+============================================================================
+A  IS THE BRAIN-AGE GAP THE WRONG ONE NUMBER?
+============================================================================
+  Both arms are ONE number per subject, plus age. The only difference
+  is which linear combination of the same information it is.
+
+  AD vs CN   one PCA component minus brain-age gap: +0.024
+             95% CI [+0.016, +0.032]  p=0.000  -> REAL
+  MCI vs CN  one PCA component minus brain-age gap: +0.005
+             95% CI [-0.002, +0.014]  p=0.196  -> not distinguishable
+
+  the single component, region by region (its loadings):
+    کل مغز           +0.451
+    هیپوکامپ         +0.450
+    گیجگاهی میانی    +0.431
+    دوکی             +0.425
+    آنتورینال        +0.396
+    بطن‌ها           -0.268
+    variance explained: 58%
+
+============================================================================
+B  IS THE COUPLING RESULT A VARIANCE ARTEFACT?  (Spearman = rank based)
+============================================================================
+  Pearson   observed 0.119   null 0.046 [0.026, 0.073]   p=0.0000
+  Spearman  observed 0.124   null 0.043 [0.024, 0.074]   p=0.0000
+
+  variance of the deviations by group (the thing that could confound):
+    CN         mean SD across regions = 0.98
+    MCI        mean SD across regions = 1.17
+    Dementia   mean SD across regions = 1.25
+
+============================================================================
+C  APOE4 AND EDUCATION (the crash in E46 was a column collision)
+============================================================================
+  CONTROLS only (n=2785) - no disease to explain anything:
+    education vs brain-age gap   r = +0.030
+    education vs هیپوکامپ         r = -0.021
+    education vs آنتورینال        r = +0.050
+    education vs دوکی             r = +0.046
+    education vs گیجگاهی میانی    r = +0.068
+    education vs بطن‌ها           r = +0.079
+    education vs کل مغز           r = +0.055
+
+  APOE4 in CONTROLS:
+    0 allele(s): n=1924  mean gap -0.07 y   mean hippocampal z +0.04
+    1 allele(s): n= 738  mean gap +0.12 y   mean hippocampal z -0.10
+    2 allele(s): n=  50  mean gap -1.03 y   mean hippocampal z +0.14
+    carriers minus non-carriers: +0.11 y  95% CI [-0.14, +0.38]  p=0.428

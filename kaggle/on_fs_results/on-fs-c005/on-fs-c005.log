@@ -1,0 +1,7 @@
+[{"stream_name":"stdout","time":0.840880871,"data":"PART 5 scans 58\n"}
+,{"stream_name":"stdout","time":3.135394649,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":71.340950827,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":13257.064934745,"data":"chunk 1/5: 12/12 ok, 13177s (1098.1s/scan), total 12/58, elapsed 3.68 h\n"}
+,{"stream_name":"stdout","time":26333.355901437,"data":"chunk 2/5: 12/12 ok, 13076s (1089.7s/scan), total 24/58, elapsed 7.31 h\n"}
+,{"stream_name":"stdout","time":39311.667427531,"data":"chunk 3/5: 12/12 ok, 12978s (1081.5s/scan), total 36/58, elapsed 10.92 h\n"}
+]

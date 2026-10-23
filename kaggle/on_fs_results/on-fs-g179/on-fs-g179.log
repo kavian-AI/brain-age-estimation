@@ -1,0 +1,19 @@
+[{"stream_name":"stdout","time":0.69681423,"data":"PART 179 scans 13\n"}
+,{"stream_name":"stdout","time":1.984020393,"data":"fastsurfer clone rc 0\n"}
+,{"stream_name":"stdout","time":55.648478604,"data":"pip rc 0 \n"}
+,{"stream_name":"stdout","time":63.885837457,"data":"GPUs used: 2\n"}
+,{"stream_name":"stdout","time":109.680983399,"data":"  oasis1 fail oasis1__OAS1_0080_MR2__mpr-1: FileNotFoundError No such file or no access: '/tmp/o1/OAS1_0080_MR2_mpr-1_anon.hdr'\n"}
+,{"stream_name":"stdout","time":109.68735737,"data":"  oasis1 fail oasis1__OAS1_0080_MR2__mpr-2: FileNotFoundError No such file or no access: '/tmp/o1/OAS1_0080_MR2_mpr-2_anon.hdr'\n"}
+,{"stream_name":"stdout","time":603.993859276,"data":"  FAIL seg oasis1__OAS1_0080_MR2__mpr-1\n"}
+,{"stream_name":"stdout","time":603.994606667,"data":"chunk 1/2: 11/12 ok, 494s (41.2s/scan), total 11/13, elapsed 0.17 h\n"}
+,{"stream_name":"stdout","time":604.101561859,"data":"  FAIL seg oasis1__OAS1_0080_MR2__mpr-2\n"}
+,{"stream_name":"stdout","time":604.101592669,"data":"chunk 2/2: 0/1 ok, 0s (0.1s/scan), total 11/13, elapsed 0.17 h\n"}
+,{"stream_name":"stdout","time":604.101598308,"data":" \n"}
+,{"stream_name":"stdout","time":604.101602723,"data":"finished: 11 rows, 0.17 h\n"}
+,{"stream_name":"stderr","time":606.547700165,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":606.547734579,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":606.785260781,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":606.785288748,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":607.522317475,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":608.484306371,"data":"[NbConvertApp] Writing 343324 bytes to __results__.html\n"}
+]
