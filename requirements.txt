@@ -1,0 +1,12 @@
+# Python packages imported by the pilot/ pipeline (p5_full_pool, p6_disease_test, pilot/v2/).
+# Tested 2026-10-24 on Python 3.13 with the versions in brackets.
+numpy>=2.0          # [2.5.3]
+pandas>=2.2         # [2.3.3]
+scipy>=1.12         # [1.18.1]
+patsy>=0.5          # [1.0.3]
+scikit-learn>=1.5   # [1.9.1]
+torch>=2.1          # [2.14.1]  SHASH fitting (CPU is enough)
+lifelines>=0.27     # [0.30.3]  imported via p1_definitions -> exp53
+statsmodels>=0.14   # [0.15.0]
+matplotlib>=3.8     # [3.11.2]
+# The PCN braincharts comparison (pilot/v2/pcn/) needs a separate Python 3.11 environment: see pilot/v2/pcn/README.md

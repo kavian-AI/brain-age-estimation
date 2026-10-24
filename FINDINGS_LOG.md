@@ -2832,3 +2832,43 @@ controls. Best standard (alpha 300): MAE 5.45, CDR AUC 0.765, decline r +0.278. 
 aware (alpha 300, gamma 2): MAE 5.64, AUC 0.794, decline r +0.305.
 AUC aware - standard +0.028 [-0.007,+0.066] p=0.119. Direction replicates, underpowered;
 at low penalties the prior amplifies noise and hurts - it needs adequate regularisation.
+
+
+---
+
+# ATLAS V2 (2026-10-24) — pilot/v2/
+Same 7,603-person pool (77 scanners, 6-94 y). Changes, each kept only after a test on this pool:
+age x sex curve (all structures), age x ICV (temporal horn, 3rd ventricle), ICV in spread (3 CSF spaces),
+empirical-Bayes scanner shrinkage (BrainChart-style), left/right models + PCN's extra subcortical structures
+(59 models). Spread by sex (CentileBrain-style) tested: no held-out gain, not added.
+
+## What the published atlas missed
+    men - women mean held-out z, published: total brain +0.21 (<18) ... -0.29 (60-75, 5.2 SE) -0.37 (75+);
+    cortex, cerebellum, amygdala, precentral similar; CSF mirror image (+0.27..+0.37 after 40).
+    Pooled-over-age sex check (mean z within 0.001) hid it: the bias flips sign across the lifespan.
+    Healthy 60+ flagged as enlarged: temporal horn women 2.6% / men 3.8%; 3rd ventricle 2.0% / 3.0%.
+    Published OASIS AUCs partly sex-confounded: patients more male (CDR 0.5 44% vs 28%; OASIS-2 56% vs 31%),
+    sex alone AUC 0.58 / 0.52 / 0.63; within sex, v2 and published AD signatures are identical.
+
+## Atlas v2 validation
+    held-out (59 models): SD 1.009-1.024, in +-1.96 94.4-95.5%, age bands with sex bias > 2 SE: 0 in 57/59,
+    small sites (n<40) in +-1.96 median 94.2% (published ~92%); |r(z, ICV)| within sex x age at noise level.
+    new scanner (10 left out): median |bias| 0.40 (0 controls) 0.27 (5) 0.22 (10) 0.18 (20) 0.13 (40) 0.10 (80);
+      90th pct 0.97 uncalibrated -> 0.23 with 20 controls.
+    OASIS, AUC within sex (CDR 0.5 / CDR>=1 / OASIS-2 demented):
+      v2 learned27 0.886 / 0.930 / 0.891   published learned17 0.843 / 0.909 / 0.878   PCN learned27 0.897 / 0.947 / 0.902
+      v2 - published +0.043 [p .026] / +0.021 / +0.013;  v2 - PCN -0.011 / -0.016 / -0.011 (all n.s.)
+    OASIS controls: v2 SD 1.02-1.06, PCN 0.67-0.80; |r ICV| v2 0.06, PCN 0.34-0.43.
+★ A 7.6K single-pipeline atlas matches a 57K multi-pipeline atlas on discrimination and is better calibrated.
+
+## Deep models
+    neural SHASH (3-net ensemble, same folds): held-out logp worse 8/8 (-0.020/person); aging rate @70
+    network/v2: entorhinal 0.25, hippocampus 0.64, temporal horn 0.64, lat. vent. 0.85, precuneus 0.82.
+    residual auditors (boosted trees, MLP) on held-out z: planted 0.2 SD bias in men 60+ undetected,
+    0.3 SD borderline (MLP p .013) -> black-box audits are underpowered at n = 7.6K; targeted checks are not.
+
+## Open
+    older men: heavier low tail in brainstem / cerebellum / ventral DC / total brain (brainstem 3.8% vs 2.1%),
+      not in cut-off datasets or large heads (FOV ruled out); sex-specific shape untested.
+    temporal horn: 3.5% of healthy 60+ beyond +1.96 in both sexes (preclinical disease in 'healthy' samples?).
+    all atlases weaker in men (male controls 22-32); converters unseparated (AUC 0.54-0.63).

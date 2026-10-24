@@ -1,0 +1,14 @@
+{
+ "sexcurve": "all structures",
+ "age_x_icv_mean": ["inf. lat. ventricles", "third ventricle"],
+ "icv_in_spread": ["lateral ventricles", "inf. lat. ventricles", "third ventricle"],
+ "scale_sex": false,
+ "shrink": true,
+ "evidence": {
+  "sexcurve": "age x sex significant in 12/14 tissue + 3/3 CSF regions; curve fixes 75+ (hippocampus gap -0.47 -> -0.12)",
+  "age_x_icv_mean": "LR p 4e-4 (temporal horn), 1e-6 (third ventricle) on top of age x sex; lateral ventricles p 0.14 -> not added",
+  "icv_in_spread": "held-out logp gains concentrated in the 3 CSF regions; extreme head-size SD 1.105 -> 1.053 (3rd), 1.070 -> 1.028 (lat)",
+  "scale_sex": "no held-out gain (6/17 regions better, -0.1 x1e-3)",
+  "shrink": "held-out logp better in 17/17 regions; small-site SD z 1.13 -> 1.06, in +-1.96 92.1% -> 94.0%"
+ }
+}

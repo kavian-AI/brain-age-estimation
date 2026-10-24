@@ -39,3 +39,16 @@ venv/
 .venv/
 env/
 .ipynb_checkpoints/
+
+# ---- atlas v2: regenerable intermediates + person-level tables (repo is public) ----
+pilot/v2/_tmp/
+pilot/v2/smoke/
+pilot/v2/*heldout*.csv.gz
+pilot/v2/v2_oasis_scores.csv
+pilot/v2/v2_final_scores_all.csv
+pilot/v2/pcn/people.csv
+pilot/v2/pcn/adapt_pool.csv
+pilot/v2/pcn/pcn_z.csv
+pilot/v2/pcn/cmp_scores_all.csv
+pilot/v2/pcn/pcn_models/
+external/pcn_braincharts/

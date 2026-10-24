@@ -1,0 +1,107 @@
+{
+ "reference_icv_mm3": 1538153.374166538,
+ "n_people": 7603,
+ "n_sites": 77,
+ "config": {
+  "sexcurve": "all structures",
+  "age_x_icv_mean": [
+   "inf. lat. ventricles",
+   "third ventricle"
+  ],
+  "icv_in_spread": [
+   "lateral ventricles",
+   "inf. lat. ventricles",
+   "third ventricle"
+  ],
+  "scale_sex": false,
+  "shrink": true,
+  "evidence": {
+   "sexcurve": "age x sex significant in 12/14 tissue + 3/3 CSF regions; curve fixes 75+ (hippocampus gap -0.47 -> -0.12)",
+   "age_x_icv_mean": "LR p 4e-4 (temporal horn), 1e-6 (third ventricle) on top of age x sex; lateral ventricles p 0.14 -> not added",
+   "icv_in_spread": "held-out logp gains concentrated in the 3 CSF regions; extreme head-size SD 1.105 -> 1.053 (3rd), 1.070 -> 1.028 (lat)",
+   "scale_sex": "no held-out gain (6/17 regions better, -0.1 x1e-3)",
+   "shrink": "held-out logp better in 17/17 regions; small-site SD z 1.13 -> 1.06, in +-1.96 92.1% -> 94.0%"
+  }
+ },
+ "features": [
+  "hippocampus",
+  "entorhinal",
+  "amygdala",
+  "lateral ventricles",
+  "inf. lat. ventricles",
+  "third ventricle",
+  "thalamus",
+  "putamen",
+  "brainstem",
+  "cerebellum cortex",
+  "precuneus",
+  "superior frontal",
+  "lateral occipital",
+  "precentral",
+  "cortex",
+  "cerebral WM",
+  "total brain",
+  "caudate",
+  "pallidum",
+  "accumbens",
+  "ventral DC",
+  "cerebellum WM",
+  "fourth ventricle",
+  "L_hippocampus",
+  "R_hippocampus",
+  "L_amygdala",
+  "R_amygdala",
+  "L_lateral_ventricles",
+  "R_lateral_ventricles",
+  "L_inf_lat_ventricles",
+  "R_inf_lat_ventricles",
+  "L_thalamus",
+  "R_thalamus",
+  "L_putamen",
+  "R_putamen",
+  "L_cerebellum_cortex",
+  "R_cerebellum_cortex",
+  "L_cerebral_wm",
+  "R_cerebral_wm",
+  "L_entorhinal",
+  "R_entorhinal",
+  "L_precuneus",
+  "R_precuneus",
+  "L_superiorfrontal",
+  "R_superiorfrontal",
+  "L_lateraloccipital",
+  "R_lateraloccipital",
+  "L_precentral",
+  "R_precentral",
+  "L_caudate",
+  "R_caudate",
+  "L_pallidum",
+  "R_pallidum",
+  "L_accumbens",
+  "R_accumbens",
+  "L_ventral_dc",
+  "R_ventral_dc",
+  "L_cerebellum_wm",
+  "R_cerebellum_wm"
+ ],
+ "fluid": [
+  "fourth ventricle",
+  "inf. lat. ventricles",
+  "lateral ventricles",
+  "third ventricle"
+ ],
+ "age_x_icv": [
+  "inf. lat. ventricles",
+  "third ventricle"
+ ],
+ "log_icv_mean": 14.246093147200893,
+ "age_range": [
+  5.0,
+  95.0
+ ],
+ "fitted_age_range_data": [
+  5.9,
+  94.0
+ ],
+ "pipeline": "FastSurfer 2.4.2 aseg+DKT, SynthStrip ICV"
+}

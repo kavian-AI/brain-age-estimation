@@ -70,7 +70,12 @@ def assemble():
     fs = pd.concat([I, D1, O1], ignore_index=True)
     for k, v in FS_REG.items():          # display-name copies; hemisphere columns stay
         fs[k] = fs[v]
-    A, _ = adni_pool()
+    try:
+        A, _ = adni_pool()
+    except FileNotFoundError:            # ADNI/TADPOLE tables are not distributed with the repo (DUA);
+        # p5_full_pool drops ADNI from the healthy atlas anyway, so continue without it
+        A = pd.DataFrame({c: pd.Series(dtype="object" if c in ("subject", "scanner", "dx") else "float64")
+                          for c in ["subject", "age", "sex", "icv", "dx", "scanner"] + list(ADNI_REG)})
     A["site"] = "ADNI FreeSurfer " + A.scanner
     A["dataset"] = "ADNI"
     keep = ["subject", "dataset", "site", "age", "sex", "icv"]

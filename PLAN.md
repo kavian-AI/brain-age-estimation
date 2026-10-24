@@ -222,6 +222,15 @@ After processing: drop the old ABIDE FS5.1 table people (ABIDE-I controls are in
 - Consistent with Tan 2025 (scalar gap AUC 0.70 vs direct 0.92). Caveats: single scanner per cohort, clinical diagnosis without amyloid, small n (CIs in summary.csv).
 Applications (user): NACC, OASIS-3, ADNI+AIBL(+A4/LEARN) via LONI, Cam-CAN, PPMI, HABS-HD, NKI-RS DUA, HCP-A/D (NDA), UK Biobank.
 
+2026-10-24 ATLAS V2 (`pilot/v2/`, details in `pilot/v2/atlas_v2/README_atlas_v2.md`):
+- Checks found what the published atlas missed: male-female gap changes with age in 15/17 regions (older men's tissue z 0.2-0.37 SD low, CSF high; pooled sex checks had hidden it); temporal-horn / 3rd-ventricle head-size exponent rises after 40; extreme head sizes and small sites over-dispersed. Published OASIS AUCs were partly sex-confounded (patients more male; sex alone AUC 0.58-0.63).
+- v2 = SHASH + age x sex curve (all) + age x ICV (temporal horn, 3rd vent.) + ICV in spread (3 CSF) + empirical-Bayes scanner shrinkage (BrainChart) + L/R models and PCN's extra subcortical structures: 59 models. Spread-by-sex (CentileBrain) tested, no gain.
+- Held-out: SD 1.009-1.024, in +-1.96 94.4-95.5%, sex-biased age bands 0 in 57/59. New scanner: bias 0.40 -> 0.18 SD with 20 local controls (0.13 with 40).
+- OASIS within sex: v2 learned27 0.886/0.930/0.891 vs published 0.843/0.909/0.878 (+0.043 p .026 at CDR 0.5) vs PCN braincharts (57K) 0.897/0.947/0.902 (n.s.); PCN z mis-scaled on OASIS (SD 0.67-0.80, r with ICV 0.34-0.43).
+- Neural-SHASH network lost 8/8 regions and flattened aging rates (entorhinal 0.25x); black-box residual audits cannot detect 0.2-0.3 SD biases at this n.
+- Open: older men's heavier low tail (brainstem/cerebellum, not FOV); temporal-horn tail in healthy 60+; men harder to classify; converters; R_long / DLBS drift untouched.
+- Repo fix: `p3_pooled.assemble()` continues without ADNI when TADPOLE is absent (fresh clones crashed after the ADNI-table removal); `requirements.txt` added.
+
 Next: pull IXI + DLBS results → pooled normative models (FastSurfer space: IXI + DLBS + OASIS-2) → per-dataset replication of the atlas → P4 test on IXI LBA maps → DLBS lifespan within-person slopes.
 
 ## Decisions pending
